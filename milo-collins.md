@@ -35,4 +35,4 @@ Listed as Corporal in Company C, 49th Infantry Regiment Wisconsin on gravestone 
 
 <a id="1">1: </a> 1860 US Federal Census
 <a id="2">2: </a> 1870 US Federal Census
-<a id="3">3: </a> Find A Grave
+<a id="3">3: </a> <a id-"4">4: </a> _Find A Grave_, database and images(<https://www.findagrave.com>), memorial page for Milo C. Collins (1835-1914), Find A Grave Memorial no. [15503555](https://www.findagrave.com/memorial/15503555), citing Fassett Cemetery, Edgerton, Rock County, Wisconsin, USA; Maintained by Vicki C. (contributor [46790005](https://www.findagrave.com/user/profile/46790005)). 
