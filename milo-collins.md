@@ -33,6 +33,8 @@ Listed as Corporal in Company C, 49th Infantry Regiment Wisconsin on gravestone 
 
 #### References
 
-<a id="1">1: </a> 1860 US Federal Census
-<a id="2">2: </a> 1870 US Federal Census
-<a id="3">3: </a> <a id-"4">4: </a> _Find A Grave_, database and images(<https://www.findagrave.com>), memorial page for Milo C. Collins (1835-1914), Find A Grave Memorial no. [15503555](https://www.findagrave.com/memorial/15503555), citing Fassett Cemetery, Edgerton, Rock County, Wisconsin, USA; Maintained by Vicki C. (contributor [46790005](https://www.findagrave.com/user/profile/46790005)). 
+<a id="1">1. </a> _1860 US Federal Census_. United States of America, Bureau of the Census. Eighth Census of the United States, 1860. Washington, D.C.: National Archives and Records Administration, 1860. NARA microfilm publication M653, 1,438 rolls. Year: _1860_; Census Place: _Fulton, Rock, Wisconsin_; Roll: _M653_1430_; Page: _288_; Family History Library Film: _805430_
+
+<a id="2">2. </a> _1870 US Federal Census_. United States of America, Bureau of the Census. Ninth Census of the United States, 1870. Washington, D.C.: National Archives and Records Administration, 1870. NARA microfilm publication M593, 1,761 rolls. Year: _1870_; Census Place: _Milton, Rock, Wisconsin_; Roll: _M593_1736_; Page: _388A_; Family History Library Film: _553235_
+
+<a id="3">3. </a> _Find A Grave_, database and images(<https://www.findagrave.com>), memorial page for Milo C. Collins (1835-1914), Find A Grave Memorial no. [15503555](https://www.findagrave.com/memorial/15503555), citing Fassett Cemetery, Edgerton, Rock County, Wisconsin, USA; Maintained by Vicki C. (contributor [46790005](https://www.findagrave.com/user/profile/46790005)). 
