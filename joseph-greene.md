@@ -39,7 +39,7 @@ burial_place_ref1: "4"
 
 #### References
 
-<a id="1">1. </a> [_Rhode Island, Vital Extract, 1636-1899_] [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2014. Originial data:  Arnold, James Newell. _Rhode Island Vital Extracts, 1636–1850_. 21 volumes. Providence, R.I.: Narragansett Historical Publishing Company, 1891–1912. Digitized images from New England Historic Genealogical Society, Boston, Massachusetts. 
+<a id="1">1. </a> _Rhode Island, Vital Extract, 1636-1899_ [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2014. Originial data:  Arnold, James Newell. _Rhode Island Vital Extracts, 1636–1850_. 21 volumes. Providence, R.I.: Narragansett Historical Publishing Company, 1891–1912. Digitized images from New England Historic Genealogical Society, Boston, Massachusetts. 
 * Joseph's Birth - [Vol. 1 - Kent County, pg. 169](https://search.ancestrylibrary.com/cgi-bin/sse.dll?qh=KYCMfWlT0u1EUW8dFo7KSg%3d%3d&gss=angs-g&new=1&rank=1&gsfn=Joseph&gsfn_x=0&gsln=Greene&gsln_x=0&msypn__ftp=Rhode+Island&msbdy=1725&catbucket=rstp&MSAV=0&uidh=jg2&msbdy_x=1&msbdp=5&pcat=ROOT_CATEGORY&h=102756&dbid=3897&indiv=1&ml_rpos=1)
 * Edward's Birth - [Vol. 5 - Washington County, pg. 104](https://search.ancestrylibrary.com/cgi-bin/sse.dll?qh=SBdlnwUv2UeDoyvYG1xYhg%3d%3d&gss=angs-g&new=1&rank=1&msT=1&gsfn=Edward&gsfn_x=0&gsln=Greene&gsln_x=0&msypn__ftp=Rhode+Island&msbdy=1760&catbucket=rstp&MSAV=0&uidh=jg2&pcat=ROOT_CATEGORY&h=142796&dbid=3897&indiv=1&ml_rpos=1)
 
