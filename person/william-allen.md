@@ -21,7 +21,7 @@ wife_ref2: "2"
 wife_ref3: "3"
 wife_ref4: "5"
 wife_ref5: "6"
-married: 1873
+married: "1873"
 married_ref1: "2"
 marriage_place: "unknown"
 marriage_place_ref1: "?"
@@ -43,9 +43,9 @@ burial_place_ref1: "6"
 
 <a id="2">2. </a> _1900 US Federal Census_ United States of America, Bureau of the Census. _Twelfth Census of the United States, 1900_. Washington, D.C.: National Archives and Records Administration, 1900. T623, 1854 rolls. Year: _1900_; Census Place: _Rockford Ward 7, Winnebago, Illinois_; Page: _1_; Enumeration District: _0145_; FHL microfilm: _1240356_
 
-<a id="3">3. </a> _1910 US Federal Census_ United States of America, Bureau of the Census. _Thirteenth Census of the United States, 1910_. Washington, D.C.: National Archives and Records Administration, 1910. NARA microfilm publication T624, 1,178 rolls. Year: -1910_; Census Place: _Rockford Ward 4, Winnebago, Illinois_; Roll: _T624_336_; Page: _2A_; Enumeration District: _0171_; FHL microfilm: _1374349_ 
+<a id="3">3. </a> _1910 US Federal Census_ United States of America, Bureau of the Census. _Thirteenth Census of the United States, 1910_. Washington, D.C.: National Archives and Records Administration, 1910. NARA microfilm publication T624, 1,178 rolls. Year: -1910_; Census Place: _Rockford Ward 4, Winnebago, Illinois_; Roll: _T624_336_; Page: _2A_; Enumeration District: _0171_; FHL microfilm: _1374349_
 
-<a id="4">4. </a> _1920 US Federal Census_ United States of America, Bureau of the Census. _Fourteenth Census of the United States, 1920_. Washington, D.C.: National Archives and Records Administration, 1920. NARA microfilm publication T625, 2076 rolls. Year: _1920_; Census Place: _Rockford Ward 3, Winnebago, Illinois_; Roll: _T625_417_; Page: _10B_; Enumeration District: _190_ 
+<a id="4">4. </a> _1920 US Federal Census_ United States of America, Bureau of the Census. _Fourteenth Census of the United States, 1920_. Washington, D.C.: National Archives and Records Administration, 1920. NARA microfilm publication T625, 2076 rolls. Year: _1920_; Census Place: _Rockford Ward 3, Winnebago, Illinois_; Roll: _T625_417_; Page: _10B_; Enumeration District: _190_
 
 <a id="5">5. </a> _1940 US Federal Census_. United States of America, Bureau of the Census. _Sixteenth Census of the United States, 1940_. Washington, D.C.: National Archives and Records Administration, 1940. T627, 4,643 rolls. Year: _1940_; Census Place: _Rockford, Winnebago, Illinois_; Roll: _m-t0627-00912_; Page: _13A_; Enumeration District: _101-21_
 

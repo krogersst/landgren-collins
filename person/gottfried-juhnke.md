@@ -4,12 +4,12 @@ person_name: Gottfried August Juhnke
 permalink: /person/gottfried-juhnke
 born: December 17, 1821
 born_ref1: "1"
-birthplace: Nakel, Kreis Wirsitz (Wirsitz County), Deutschland (now: Nakło nad Notecią, Kuyavian-Pomeranian Voivodeship, Poland) 
+birthplace: Nakel, Kreis Wirsitz (Wirsitz County), Deutschland (now Nakło nad Notecią, Kuyavian-Pomeranian Voivodeship, Poland)
 birthplace_ref1: "1"
 birthplce_ref2: "5"
 baptised: December 26, 1821
 baptised_ref1: "1"
-baptismal_place: Evangelische Kirche Nakel (Evangelical Church of Nakel), Kreis Wirsitz (Wirsitz County), Deutschland (now: Nakło nad Notecią, Kuyavian-Pomeranian Voivodeship, Poland)
+baptismal_place: Evangelische Kirche Nakel (Evangelical Church of Nakel), Kreis Wirsitz (Wirsitz County), Deutschland (now Nakło nad Notecią, Kuyavian-Pomeranian Voivodeship, Poland)
 baptismal_place_ref1: "1"
 mother: Marie Juhnke
 mother_ref1: "1"
@@ -21,7 +21,7 @@ wife_ref2: "3"
 wife_ref3: "4"
 married: December 14, 1845
 married_ref1: "2"
-marriage_place: Evangelische Kirche Nakel (Evangelical Church of Nakel), Kreis Wirsitz (Wirsitz County), Deutschland (now: Nakło nad Notecią, Kuyavian-Pomeranian Voivodeship, Poland)
+marriage_place: Evangelische Kirche Nakel (Evangelical Church of Nakel), Kreis Wirsitz (Wirsitz County), Deutschland (now Nakło nad Notecią, Kuyavian-Pomeranian Voivodeship, Poland)
 marriage_place_ref1: "2"
 descendant: Paulina Juhnke
 descendant_ref1: "3"

@@ -2,7 +2,7 @@
 layout: person
 person_name: Paulina Juhnke
 permalink: /person/paulina-juhnke
-born: 1860
+born: "1860"
 born_ref1: "7"
 birthplace: Wisconsin
 birthplace_ref1: "1"

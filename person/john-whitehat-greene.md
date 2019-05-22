@@ -2,7 +2,7 @@
 layout: person
 person_name: John "White Hat" Greene
 permalink: /person/john-whitehat-greene
-born: 1688
+born: "1688"
 born_ref1: "3"
 born_ref2: "4"
 birthplace: Quidnesset (North Kingstown), Washington County, Rhode Island
@@ -39,12 +39,12 @@ burial_place_ref1: "?"
 
 #### References
 
-<a id="1">1. </a> _Rhode Island, Vital Extract, 1636-1899_ [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2014. Originial data:  Arnold, James Newell. _Rhode Island Vital Extracts, 1636–1850_. 21 volumes. Providence, R.I.: Narragansett Historical Publishing Company, 1891–1912. Digitized images from New England Historic Genealogical Society, Boston, Massachusetts. 
+<a id="1">1. </a> _Rhode Island, Vital Extract, 1636-1899_ [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2014. Originial data:  Arnold, James Newell. _Rhode Island Vital Extracts, 1636–1850_. 21 volumes. Providence, R.I.: Narragansett Historical Publishing Company, 1891–1912. Digitized images from New England Historic Genealogical Society, Boston, Massachusetts.
 * Joseph's Birth - [Vol. 1 - Kent County, pg. 169](https://search.ancestrylibrary.com/cgi-bin/sse.dll?qh=KYCMfWlT0u1EUW8dFo7KSg%3d%3d&gss=angs-g&new=1&rank=1&gsfn=Joseph&gsfn_x=0&gsln=Greene&gsln_x=0&msypn__ftp=Rhode+Island&msbdy=1725&catbucket=rstp&MSAV=0&uidh=jg2&msbdy_x=1&msbdp=5&pcat=ROOT_CATEGORY&h=102756&dbid=3897&indiv=1&ml_rpos=1)
 * Possible Marriage Record - [Vol. 7 - Friends and Ministers, pg. 134](https://search.ancestrylibrary.com/cgi-bin/sse.dll?dbid=3897&h=208408&indiv=try&o_vc=Record:OtherRecord&rhSource=7836)
 * John's Death - [Vol. 1 - Kent County, pg. 72](https://search.ancestrylibrary.com/cgi-bin/sse.dll?dbid=3897&h=112069&indiv=try&o_vc=Record:OtherRecord&rhSource=7836)
 
-<a id="2">2. </a> [_Rhode Island, Compiled Census and Census Substitutes Index, 1740-1890_](https://search.ancestrylibrary.com/cgi-bin/sse.dll?dbid=3571&h=28623341&indiv=try&o_vc=Record:OtherRecord&rhSource=7836)  [database on-line]. Provo, UT, USA: Ancestry.com Operations Inc, 1999. Original data: Jackson, Ronald V., Accelerated Indexing Systems, comp.. _Rhode Island Census, 1740-1890_. Compiled and digitized by Mr. Jackson and AIS from microfilmed schedules of the U.S. Federal Decennial Census, territorial/state censuses, and/or census substitutes. 
+<a id="2">2. </a> [_Rhode Island, Compiled Census and Census Substitutes Index, 1740-1890_](https://search.ancestrylibrary.com/cgi-bin/sse.dll?dbid=3571&h=28623341&indiv=try&o_vc=Record:OtherRecord&rhSource=7836)  [database on-line]. Provo, UT, USA: Ancestry.com Operations Inc, 1999. Original data: Jackson, Ronald V., Accelerated Indexing Systems, comp.. _Rhode Island Census, 1740-1890_. Compiled and digitized by Mr. Jackson and AIS from microfilmed schedules of the U.S. Federal Decennial Census, territorial/state censuses, and/or census substitutes.
 
 <a id="3">3. </a> Greene, F. L. (1894). _Descendants of Joseph Greene of Westerly, R.I: Also other branches of the Greenes of Quidnesset, or Kingston, R.I., and other lines of Greenes in America_. Albany, N.Y: Joel Munsell's Sons.
 * John Greene - [pg. 14](https://archive.org/details/descendantsofjos00gree/page/14)

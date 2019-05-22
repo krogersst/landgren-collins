@@ -16,7 +16,7 @@ wife: Sarah Peckham
 wife_ref1: "1"
 wife_ref2: "5"
 wife_ref3: "6"
-married: 1818
+married: "1818"
 married_ref1: "5"
 marriage_place: Almond, Allegany County, New York
 marriage_place_ref1: "5"
