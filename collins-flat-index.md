@@ -1,68 +1,109 @@
-### Collins Flat index
+---
+layout: default
+title: Collins index
+permalink: /collins-flat-index/
+---
+
+### Collins Flat Index
 
 #### Coggeshall
 
 - 1G. John Coggeshall and
 - 2G. John Coggeshall and
-- 3G. John Coggeshall and 
+- 3G. John Coggeshall and
 - 4G. Joshua Coggeshall and Joan West
-- 5G. Humility Coggeshall and
-  - 2H. Benjamin Greene
-- 6G. John Greene <sup>(3H)</sup> and
-  - 4I. Mary Alsworth
-- 7G. Joseph Greene <sup>(4H, 5I)</sup> and Margaret Greenman (parents: Edward Greenman Jr. and Sarah Clarke)
-- 8G. Judge Edward Greene <sup>(5H, 6I)</sup> and Huldah Sweet
-- 9G. Edward Green <sup>(6H, 7I)</sup> and Sarah Peckham (parents: Braddock and Rebecca Peckham)
-- 10G. Rebecca Green <sup>(7H, 8I)</sup> and Milo Collins
-- 11G. Frank Collins <sup>(8H, 9I)</sup> and
-  - 3J. Paulina Juhnke
-- 12G. Robert Collins <sup>(9H, 10I, 4J)</sup> and
-  - 3K. May Allen
-  
+- <a id="5G">5G</a>. Humility Coggeshall and
+  - [2H]. Benjamin Greene
+- <a id="6G">6G</a>. John Greene <sup>([3H])</sup> and
+  - [4I]. Mary Alsworth
+- <a id="7G">7G</a>. Joseph Greene <sup>([4H], [5I])</sup> and Margaret Greenman (parents: Edward Greenman Jr. and Sarah Clarke)
+- <a id="8G">8G</a>. Judge Edward Greene <sup>([5H], [6I])</sup> and Huldah Sweet
+- <a id="9G">9G</a>. Edward Green <sup>([6H], [7I])</sup> and Sarah Peckham (parents: Braddock and Rebecca Peckham)
+- <a id="10G">10G</a>. Rebecca Green <sup>([7H], [8I])</sup> and Milo Collins
+- <a id="11G">11G</a>. [Frank Collins] <sup>([8H], [9I])</sup> and
+  - [3J]. Paulina Juhnke
+- <a id="12G">12G</a>. [Robert Collins] <sup>([9H], [10I], [4J])</sup> and
+  - [3K]. May Allen
+
 #### Greene
 
 - 1H. John Greene and Joan ???
-- 2H. Benjamin Greene and
-  - 5G. Humility Coggeshall
-- 3H. John Greene <sup>(6G)</sup> and
-  - 4I. Mary Alsworth
-- 4H. Joseph Greene <sup>(7G, 5I)</sup> and Margaret Greenman (parents: Edward Greenman Jr. and Sarah Clarke)
-- 5H. Judge Edward Greene <sup>(8G, 6I)</sup> and Huldah Sweet
-- 6H. Edward Green <sup>(9G, 7I)</sup> and Sarah Peckham (parents: Braddock and Rebecca Peckham)
-- 7H. Rebecca Green <sup>(10G, 8I)</sup> and Milo Collins
-- 8H. Frank Collins <sup>(11G, 9I)</sup> and
-  - 3J. Paulina Juhnke
-- 9H. Robert Collins <sup>(12G, 10I, 4J)</sup> and
-  - 3K. May Allen
-  
+- <a id="2H">2H</a>. Benjamin Greene and
+  - [5G]. Humility Coggeshall
+- <a id="3H">3H</a>. John Greene <sup>([6G])</sup> and
+  - [4I]. Mary Alsworth
+- <a id="4H">4H</a>. Joseph Greene <sup>([7G], [5I])</sup> and Margaret Greenman (parents: Edward Greenman Jr. and Sarah Clarke)
+- <a id="5H">5H</a>. Judge Edward Greene <sup>([8G], [6I])</sup> and Huldah Sweet
+- <a id="6H">6H</a>. Edward Green <sup>([9G], [7I])</sup> and Sarah Peckham (parents: Braddock and Rebecca Peckham)
+- <a id="7H">7H</a>. Rebecca Green <sup>([10G], [8I])</sup> and Milo Collins
+- <a id="8H">8H</a>. [Frank Collins] <sup>([11G], [9I])</sup> and
+  - [3J]. Paulina Juhnke
+- <a id="9H">9H</a>. [Robert Collins] <sup>([12G], [10I], [4J])</sup> and
+  - [3K]. May Allen
+
 #### Alsworth
 
 - 1I. Rev. Obediah Holmes
 - 2I. Mary Holmes and Rev. John Brown
 - 3I. Mary Brown and Arthur Alsworth
-- 4I. Mary Alsworth and
-  - 3H. John Greene <sup>(6G)</sup>
-- 5I. Joseph Greene <sup>(7G, 4H)</sup> and Margaret Greenman (parents: Edward Greenman Jr. and Sarah Clarke)
-- 6I. Judge Edward Greene <sup>(8G, 5H)</sup> and Huldah Sweet
-- 7I. Edward Green <sup>(9G, 6H)</sup> and Sarah Peckham (parents: Braddock and Rebecca Peckham)
-- 8I. Rebecca Green <sup>(10G, 7H)</sup> and Milo Collins
-- 9I. Frank Collins <sup>(11G, 8H)</sup> and
-  - 3J. Paulina Juhnke
-- 10I. Robert Collins <sup>(12G, 9H, 4J)</sup> and
-  - 3K. May Allen
-  
+- <a id="4I">4I</a>. Mary Alsworth and
+  - [3H]. John Greene <sup>([6G])</sup>
+- <a id="5I">5I</a>. Joseph Greene <sup>([7G], [4H])</sup> and Margaret Greenman (parents: Edward Greenman Jr. and Sarah Clarke)
+- <a id="6I">6I</a>. Judge Edward Greene <sup>([8G], [5H])</sup> and Huldah Sweet
+- <a id="7I">7I</a>. Edward Green <sup>([9G], [6H])</sup> and Sarah Peckham (parents: Braddock and Rebecca Peckham)
+- <a id="8I">8I</a>. Rebecca Green <sup>([10G], [7H])</sup> and Milo Collins
+- <a id="9I">9I</a>. [Frank Collins] <sup>([11G], [8H])</sup> and
+  - [3J]. Paulina Juhnke
+- <a id="10I">10I</a>. [Robert Collins] <sup>([12G], [9H], [4J])</sup> and
+  - [3K]. May Allen
+
 #### Juhnke
 
 - 1J. Johann Christian Dräger and Hanna Charlotta Verges
 - 2J. Dora Dräger and Godfried Juhnke
-- 3J. Paulina Juhnke and
-  - 11G. Frank Collins <sup>(8H, 9I)</sup>
-- 4J. Robert Collins <sup>(12G, 9H, 10I)</sup> and
-  - 3K. May Allen
-  
+- <a id="3J">3J</a>. Paulina Juhnke and
+  - [11G]. [Frank Collins] <sup>([8H], [9I])</sup>
+- <a id="4J">4J</a>. [Robert Collins] <sup>([12G], [9H], [10I])</sup> and
+  - [3K]. May Allen
+
 #### Allen
 
 - 1K. Daniel M. Sheffield and Mary Ann Blakely
 - 2K. Sarah Sheffield and William Allen
-- 3K. May Allen and
-  - 12G. Robert Collins <sup>(9H, 10I, 4J)</sup>
+- <a id="3K">3K</a>. May Allen and
+  - [12G]. [Robert Collins] <sup>([9H], [10I], [4J])</sup>
+
+[5G]: #5G
+[6G]: #6G
+[7G]: #7G
+[8G]: #8G
+[9G]: #9G
+[10G]: #10G
+[11G]: #11G
+[12G]: #12G
+
+[2H]: #2H
+[3H]: #3H
+[4H]: #4H
+[5H]: #5H
+[6H]: #6H
+[7H]: #7H
+[8H]: #8H
+[9H]: #9H
+
+[4I]: #4I
+[5I]: #5I
+[6I]: #6I
+[7I]: #7I
+[8I]: #8I
+[9I]: #9I
+[10I]: #10I
+
+[3J]: #3J
+[4J]: #4J
+
+[3K]: #3K
+
+
+[Robert Collins]: {{ "/person/robert-collins" | relative_url }}
+[Frank Collins]: {{ "/person/frank-collins" | relative_url }}

@@ -1,0 +1,62 @@
+/**
+* Site Header
+*/
+.site-header {
+  z-index: 100;
+    width: 100%;
+    background-color: black;
+}
+
+#nav-header {
+    width: $wrap-mini;
+    margin: auto;
+    /*margin-top: 15px;*/
+    display: flex;
+    justify-content: space-between;
+    padding: {
+      left: 20px;
+      right: 20px;
+      top: 5px;
+      bottom: 5px;
+    }
+}
+
+.site-title {
+  font-family: $Abel;
+  div {
+    display: inline-block;
+    color: white;
+    padding-left: 5px;
+    font-style: italic;
+    font-size: 16px;
+    }
+  a {
+      color: white;
+      font-size: 20px;
+      font-weight: bold;
+    &:visited {
+        color: white;
+      }
+    &:hover {
+      text-decoration: underline;
+      }
+    }
+}
+
+.nav-links {
+  display: flex;
+  padding-left: 15px;
+  justify-content: space-between;
+  align-self: flex-end;
+  a {
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family: $Abel;
+  font-size: 16px;
+  }
+  div {
+    color: white;
+    font-family: $Abel;
+  }
+}

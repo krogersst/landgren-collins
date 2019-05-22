@@ -1,0 +1,123 @@
+/**
+ * Reset some basic elements
+ */
+body, h1, h2, h3, h4, h5, h6,
+p, pre, hr,
+dl, dd, figure {
+  margin: 0;
+  padding: 0;
+}
+
+
+
+/**
+ * Basic styling
+ */
+body {
+  font-family: $base-font-family;
+  background-color: $background-color;
+}
+
+code {
+  background-color: #f1efef;
+  margin: 1px;
+}
+
+/**
+ * Links
+ */
+a {
+  color: $link-color;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+/**
+* Lists
+*/
+
+ol {
+  margin-left: 10px;
+}
+
+ul {
+  margin-left: 10px;
+  margin-top: 10px;
+  -webkit-margin-before: 10px;
+}
+
+li {
+  margin-bottom: 10px;
+  font-size: 15px;
+}
+
+/**
+* Tables
+*/
+
+table {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-collapse: collapse;
+  background-color: $code-color;
+}
+
+table, th, td {
+  padding: 5px;
+}
+
+ th, td {
+  border-left: 2px solid black;
+  padding-left: 10px;
+  &:first-child {
+    border-left: 0px;
+    padding-left: 5px;
+  }
+}
+
+td {
+  border-top: 2px solid black;
+}
+
+tbody {
+  tr:nth-child(odd) {
+    background-color: darken($code-color, 5);
+  }
+}
+
+/**
+* Blockquote
+*/
+
+blockquote {
+  background-color: lighten($color-main, 15);
+  padding-left: 5px;
+  p {
+    padding: 5px;
+    font-style: italic;
+  }
+}
+
+/**
+ * Wrapper
+ */
+.wrapper {
+  margin: auto;
+  margin-top: 20px;
+  width: 75%;
+}
+
+/**
+ * Icons
+ */
+.icon > svg {
+  display: inline-block;
+  vertical-align: middle;
+
+  path {
+    fill: $color-main;
+  }
+}

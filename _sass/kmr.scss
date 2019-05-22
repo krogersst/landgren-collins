@@ -1,0 +1,35 @@
+// Define defaults for each variable.
+
+// default colors
+
+$color-main: #97ead2;
+$background-color: white;
+$header-color: #97ead2;
+$text-accent: white;
+$link-color: black;
+$code-color: #f1efef;
+
+
+// default fonts
+
+$base-font-family: "Open Sans", sans-serif !default;
+$accent-font-family: "Sarina", cursive;
+$serif-font-family: "Lora", serif;
+$Abel: "Abel", sans-serif;
+$Kavi:'Kavivanar', cursive;
+
+// spacing
+
+$main-margin: 5px;
+$spacing-unit: 20px !default;
+$content-width:    1000px !default;
+$wrap-mini: 75%;
+
+// Import partials.
+
+@import
+  "kmr/layout",
+  "kmr/header",
+  "kmr/base",
+  "kmr/footer"
+;
