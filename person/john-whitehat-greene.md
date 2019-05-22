@@ -11,7 +11,7 @@ birthplace_ref2: "4"
 mother: Humility Coggeshall
 mother_ref1: "3"
 mother_ref2: "4"
-father: John Greene
+father: Benjamin Greene
 father_ref1: "3"
 father_ref2: "4"
 wife: Mary Aylesworth

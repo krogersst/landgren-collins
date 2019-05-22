@@ -13,7 +13,7 @@ permalink: /collins-flat-index/
 - 3G. John Coggeshall and
 - 4G. Joshua Coggeshall and Joan West
 - <a id="5G">5G</a>. Humility Coggeshall and
-  - [2H]. Benjamin Greene
+  - [2H]. [Benjamin Greene]
 - <a id="6G">6G</a>. [John "White Hat" Greene] <sup>([3H])</sup> and
   - [4I]. Mary Alsworth
 - <a id="7G">7G</a>. [Joseph Greene] <sup>([4H], [5I])</sup> and Margaret Greenman (parents: Edward Greenman Jr. and Sarah Clarke)
@@ -27,8 +27,8 @@ permalink: /collins-flat-index/
 
 #### Greene
 
-- 1H. John Greene and Joan ???
-- <a id="2H">2H</a>. Benjamin Greene and
+- 1H. John Greene??? and Joan ???
+- <a id="2H">2H</a>. [Benjamin Greene] and
   - [5G]. Humility Coggeshall
 - <a id="3H">3H</a>. [John "White Hat" Greene] <sup>([6G])</sup> and
   - [4I]. Mary Alsworth
@@ -118,3 +118,4 @@ permalink: /collins-flat-index/
 [Judge Edward Greene]: {{ "/person/judge-edward-greene" | relative_url }}
 [Joseph Greene]: {{ "/person/joseph-greene" | relative_url }}
 [John "White Hat" Greene]: {{ "/person/john-whitehat-greene" | relative_url }}
+[Benjamin Greene]: {{ "/person/benjamin-greene" | relative_url }}
