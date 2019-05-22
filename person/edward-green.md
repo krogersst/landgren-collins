@@ -1,17 +1,17 @@
 ---
 layout: person
+person_name: Edward Green(e)
 permalink: /person/edward-green
-name: Edward Green(e)
-birth: March 11, 1798/1799
-birth_ref1: "5"
+born: March 11, 1798/1799
+born_ref1: "5"
 birthplace: Jefferson County, New York
 birthplace_ref1: "5"
-father: Judge Edward Greene
-father_ref1: "5"
-father_ref2: "6"
 mother: Huldah Sweet
 mother_ref1: "5"
 mother_ref2: "6"
+father: Judge Edward Greene
+father_ref1: "5"
+father_ref2: "6"
 wife: Sarah Peckham
 wife_ref1: "1"
 wife_ref2: "5"
