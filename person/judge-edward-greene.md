@@ -1,22 +1,22 @@
 ---
 layout: person
+person_name: Judge Edward Greene (Sr.)
 permalink: /person/judge-edward-greene
-name: Judge Edward Greene (Sr.)
-birth: March 20, 1760
-birth_ref1: "1"
-birth_ref2: "5"
-birth_ref3: "6"
+born: March 20, 1760
+born_ref1: "1"
+born_ref2: "5"
+born_ref3: "6"
 birthplace: Westerly, Washington County, Rhode Island
 birthplace_ref1: "5"
 birthplace_ref2: "6"
-father: Joseph Greene
-father_ref1: "1"
-father_ref2: "5"
-father_ref3: "6"
 mother: Margaret Greenman
 mother_ref1: "1"
 mother_ref2: "5"
 mother_ref3: "6"
+father: Joseph Greene
+father_ref1: "1"
+father_ref2: "5"
+father_ref3: "6"
 wife: Huldah Sweet
 wife_ref1: "5"
 wife_ref2: "6"
@@ -32,8 +32,8 @@ death: February 24, 1845
 death_ref1: "5"
 death_place: Alfred, Allegany County, New York
 death_place_ref1: "5"
-buried: February 28, 1845
-buried_ref1: "6"
+burial: February 28, 1845
+burial_ref1: "6"
 burial_place: Alfred East Valley Cemetery, Alfred, Allegany County, New York
 burial_place_ref1: "6"
 ---
