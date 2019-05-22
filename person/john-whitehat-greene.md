@@ -1,23 +1,23 @@
 ---
 layout: person
+person_name: John "White Hat" Greene
 permalink: /person/john-whitehat-greene
-name: John "White Hat" Greene
-birth: 1688
-birth_ref1: "3"
-birth_ref2: "4"
+born: 1688
+born_ref1: "3"
+born_ref2: "4"
 birthplace: Quidnesset (North Kingstown), Washington County, Rhode Island
 birthplace_ref1: "3"
 birthplace_ref2: "4"
-father: John Greene
-father_ref1: "3"
-father_ref2: "4"
 mother: Humility Coggeshall
 mother_ref1: "3"
 mother_ref2: "4"
+father: John Greene
+father_ref1: "3"
+father_ref2: "4"
 wife: Mary Aylesworth
 wife_ref1: "1"
 wife_ref2: "3"
-wide_ref3: "4"
+wife_ref3: "4"
 married: December 16, 1709
 married_ref1: "1"
 marriage_place: Unknown
