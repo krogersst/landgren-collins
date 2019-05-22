@@ -1,23 +1,23 @@
 ---
 layout: person
+person_name: Sarah Sheffield
 permalink: /person/sarah-sheffield.md
-name: Sarah Sheffield
-birth: August 12, 1851
-birth_ref1: "5"
+born: August 12, 1851
+born_ref1: "5"
 birthplace: New York
 birthplace_ref1: "1"
 birthplace_ref2: "2"
 birthplace_ref3: "3"
 birthplace_ref4: "4"
 birthplace_ref5: "5"
-father: Daniel Sheffield
-father_ref1: "1"
-father_ref2: "2"
-father_ref3: "5"
 mother: Mary Blakely
 mother_ref1: "1"
 mother_ref2: "2"
 mother_ref3: "5"
+father: Daniel Sheffield
+father_ref1: "1"
+father_ref2: "2"
+father_ref3: "5"
 husband: William Allen
 husband_ref1: "3"
 husband_ref2: "4"
@@ -28,8 +28,8 @@ death: December 17, 1919
 death_ref1: "5"
 death_place: Rockford, Winnebago County, Illinois
 death_place_ref1: "5"
-buried: December 19, 1919
-buried_ref1: "5"
+burial: December 19, 1919
+burial_ref1: "5"
 burial_place: unknown
 burial_place_ref1: "?"
 ---
