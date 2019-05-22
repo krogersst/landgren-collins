@@ -38,16 +38,16 @@ Emigration and Other Marriages go in content!!!
 
 #### References
 
-<a id="1">1</a>:
+<a id="1">1. </a>
 
-<a id="2">2</a>:
+<a id="2">2. </a>
 
-<a id="3">3</a>:
+<a id="3">3. </a>
 
-<a id="4">4</a>:
+<a id="4">4. </a>
 
-<a id="5">5</a>:
+<a id="5">5. </a>
 
-<a id="6">6</a>:
+<a id="6">6. </a>
 
-<a id="7">7</a>:
+<a id="7">7. </a>
