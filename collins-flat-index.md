@@ -21,7 +21,7 @@ permalink: /collins-flat-index/
 - <a id="9G">9G</a>. [Edward Green] <sup>([6H], [7I])</sup> and Sarah Peckham (parents: Braddock and Rebecca Peckham)
 - <a id="10G">10G</a>. [Rebecca Green] <sup>([7H], [8I])</sup> and [Milo Collins]
 - <a id="11G">11G</a>. [Frank Collins] <sup>([8H], [9I])</sup> and
-  - [3J]. Paulina Juhnke
+  - [3J]. [Paulina Juhnke]
 - <a id="12G">12G</a>. [Robert Collins] <sup>([9H], [10I], [4J])</sup> and
   - [3K]. [May Allen]
 
@@ -37,7 +37,7 @@ permalink: /collins-flat-index/
 - <a id="6H">6H</a>. [Edward Green] <sup>([9G], [7I])</sup> and Sarah Peckham (parents: Braddock and Rebecca Peckham)
 - <a id="7H">7H</a>. [Rebecca Green] <sup>([10G], [8I])</sup> and [Milo Collins]
 - <a id="8H">8H</a>. [Frank Collins] <sup>([11G], [9I])</sup> and
-  - [3J]. Paulina Juhnke
+  - [3J]. [Paulina Juhnke]
 - <a id="9H">9H</a>. [Robert Collins] <sup>([12G], [10I], [4J])</sup> and
   - [3K]. [May Allen]
 
@@ -53,15 +53,15 @@ permalink: /collins-flat-index/
 - <a id="7I">7I</a>. [Edward Green] <sup>([9G], [6H])</sup> and Sarah Peckham (parents: Braddock and Rebecca Peckham)
 - <a id="8I">8I</a>. [Rebecca Green] <sup>([10G], [7H])</sup> and [Milo Collins]
 - <a id="9I">9I</a>. [Frank Collins] <sup>([11G], [8H])</sup> and
-  - [3J]. Paulina Juhnke
+  - [3J]. [Paulina Juhnke]
 - <a id="10I">10I</a>. [Robert Collins] <sup>([12G], [9H], [4J])</sup> and
   - [3K]. [May Allen]
 
 #### Juhnke
 
 - 1J. Johann Christian Dräger and Hanna Charlotta Verges
-- 2J. Dora Dräger and Godfried Juhnke
-- <a id="3J">3J</a>. Paulina Juhnke and
+- 2J. [Dorathea Dräger]({{ "/person/dorathea-draeger" | relative_url }}) and [Gottfried Juhnke]
+- <a id="3J">3J</a>. [Paulina Juhnke] and
   - [11G]. [Frank Collins] <sup>([8H], [9I])</sup>
 - <a id="4J">4J</a>. [Robert Collins] <sup>([12G], [9H], [10I])</sup> and
   - [3K]. [May Allen]
@@ -69,7 +69,7 @@ permalink: /collins-flat-index/
 #### Allen
 
 - 1K. Daniel M. Sheffield and Mary Ann Blakely
-- 2K. Sarah Sheffield and William Allen
+- 2K. [Sarah Sheffield] and [William Allen]
 - <a id="3K">3K</a>. [May Allen] and
   - [12G]. [Robert Collins] <sup>([9H], [10I], [4J])</sup>
 
@@ -110,6 +110,8 @@ permalink: /collins-flat-index/
 [William Allen]: {{ "/person/william-allen" | relative_url }}
 [Sarah Sheffield]: {{ "/person/sarah-sheffield" | relative_url }}
 [Frank Collins]: {{ "/person/frank-collins" | relative_url }}
+[Paulina Juhnke]: {{ "/person/paulina-juhnke" | relative_url }}
+[Gottfried Juhnke]: {{ "/person/gottfried-juhnke" | relative_url }}
 [Milo Collins]: {{ "/person/milo-collins" | relative_url }}
 [Rebecca Green]: {{ "/person/rebecca-green" | relative_url }}
 [Edward Green]: {{ "/person/edward-green" | relative_url }}
