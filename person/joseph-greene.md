@@ -1,23 +1,23 @@
 ---
 layout: person
+person_name: Joseph Greene
 permalink: /person/joseph-greene
-name: Joseph Greene
-birth: February 19, 1727-8*
-birth_ref1: "1"
+born: February 19, 1727-8*
+born_ref1: "1"
 birthplace: Warwick, Kent County, Rhode Island*
 birthplace_ref1: "1"
-father: John Greene
-father_ref1: "1"
-father_ref2: "3"
-father_ref3: "4"
 mother: Mary Aylesworth
 mother_ref1: "1"
 mother_ref2: "3"
 mother_ref3: "4"
+father: John Greene
+father_ref1: "1"
+father_ref2: "3"
+father_ref3: "4"
 wife: Margaret Greenman
 wife_ref1: "1"
 wife_ref2: "3"
-wide_ref3: "4"
+wife_ref3: "4"
 married: September 20, 1747
 married_ref1: "3"
 marriage_place: Westerly, Washington County, Rhode Island
