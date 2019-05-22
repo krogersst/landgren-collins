@@ -1,18 +1,18 @@
 ---
 layout: person
+person_name: Milo C. Collins
 permalink: /person/milo-collins
-name: Milo C. Collins
-birth: 1835-1837
-birth_ref1: "1"
-birth_ref2: "2"
-birth_ref3: "3"
+born: 1835-1837
+born_ref1: "1"
+born_ref2: "2"
+born_ref3: "3"
 birthplace: New York
 birthplace_ref1: "1"
 birthplace_ref2: "2"
-father: possibly Arnold Collins
-father_ref1: "3"
 mother: unconfirmed
 mother_ref1: "3"
+father: possibly Arnold Collins
+father_ref1: "3"
 wife: Rebecca Green
 wife_ref1: "1"
 wife_ref2: "2"
