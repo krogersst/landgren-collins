@@ -10,7 +10,7 @@ mother: Dora Juhnke
 mother_ref1: "1"
 mother_ref2: "2"
 mother_ref3: "7"
-father: Gottfried Junke
+father: Gottfried Juhnke
 father_ref1: "1"
 father_ref2: "2"
 father_ref3: "7"
