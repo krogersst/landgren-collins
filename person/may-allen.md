@@ -1,19 +1,19 @@
 ---
+person_name: May Allen
 layout: person
 permalink: /person/may-allen
-name: May Allen
-birth: October 3, 1888
-birth_ref1: "4"
-birth_ref2: "5"
+born: October 3, 1888
+born_ref1: "4"
+born_ref2: "5"
 birthplace: Rockford, Winnebago County, Illinois
 birthplace_ref1: "4"
 birthplace_ref2: "5"
-father: William Allen
-father_ref1: "4"
-father_ref2: "5"
 mother: Sarah Sheffield
 mother_ref1: "4"
 mother_ref2: "5"
+father: William Allen
+father_ref1: "4"
+father_ref2: "5"
 husband: Robert Collins
 husband_ref1: "2"
 husband_ref2: "3"
@@ -31,9 +31,9 @@ death_ref2: "5"
 death_place: Rockford, Winnebago County, Illinois
 death_place_ref1: "4"
 death_place_ref2: "5"
-buried: November 23, 1934
-buried_ref1: "4"
-buried_ref2: "5"
+burial: November 23, 1934
+burial_ref1: "4"
+burial_ref2: "5"
 burial_place: Greenwood Cemetery, Rockford, Winnebago County, Illinois
 burial_place_ref1: "4"
 burial_place_ref2: "5"
