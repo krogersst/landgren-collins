@@ -60,7 +60,7 @@ permalink: /collins-flat-index/
 #### Juhnke
 
 - 1J. Johann Christian Dräger and Hanna Charlotta Verges
-- 2J. [Dorathea Dräger]({{ "/person/dorathea-draeger" | relative_url }}) and [Gottfried Juhnke]
+- 2J. [Dorothea Dräger]({{ "/person/dorothea-draeger" | relative_url }}) and [Gottfried Juhnke]
 - <a id="3J">3J</a>. [Paulina Juhnke] and
   - [11G]. [Frank Collins] <sup>([8H], [9I])</sup>
 - <a id="4J">4J</a>. [Robert Collins] <sup>([12G], [9H], [10I])</sup> and
@@ -112,6 +112,7 @@ permalink: /collins-flat-index/
 [Frank Collins]: {{ "/person/frank-collins" | relative_url }}
 [Paulina Juhnke]: {{ "/person/paulina-juhnke" | relative_url }}
 [Gottfried Juhnke]: {{ "/person/gottfried-juhnke" | relative_url }}
+[Dorothea Draeger]: {{ "/person/dorothea-draeger" | relative_url }}
 [Milo Collins]: {{ "/person/milo-collins" | relative_url }}
 [Rebecca Green]: {{ "/person/rebecca-green" | relative_url }}
 [Edward Green]: {{ "/person/edward-green" | relative_url }}
