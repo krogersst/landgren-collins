@@ -1,7 +1,7 @@
 ---
 layout: person
 person_name: Humility Coggeshall
-permalink: /person/humility-coggehshall
+permalink: /person/humility-coggeshall
 born: January 1669
 born_ref1: "1"
 birthplace: Location REQUIRED
@@ -36,17 +36,17 @@ burial_place_ref1: "1"
 
 #### References
 
-<a id="1">1. </a> _Rhode Island, Vital Extracts, 1636-1899_ [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2014. Original data: Arnold, James Newell. _Rhode Island Vital Extracts, 1636–1850_. 21 volumes. Providence, R.I.: Narragansett Historical Publishing Company, 1891–1912. Digitized images from New England Historic Genealogical Society, Boston, Massachusetts.
+<a id="1">1.</a> _Rhode Island, Vital Extracts, 1636-1899_ [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2014. Original data: Arnold, James Newell. _Rhode Island Vital Extracts, 1636–1850_. 21 volumes. Providence, R.I.: Narragansett Historical Publishing Company, 1891–1912. Digitized images from New England Historic Genealogical Society, Boston, Massachusetts.
 * Humility's Birth: [Vol. 07 - Friends and Ministers, pg. 51](https://search.ancestrylibrary.com/cgi-bin/sse.dll?dbid=3897&h=201827&indiv=try&o_vc=Record:OtherRecord&rhSource=7836)
 
-<a id="2">2. </a>
+<a id="2">2.</a>
 
-<a id="3">3. </a>
+<a id="3">3.</a>
 
-<a id="4">4. </a> https://www.findagrave.com/memorial/102366343
+<a id="4">4.</a> https://www.findagrave.com/memorial/102366343
 
-<a id="5">5. </a>
+<a id="5">5.</a>
 
-<a id="6">6. </a>
+<a id="6">6.</a>
 
-<a id="7">7. </a>
+<a id="7">7.</a>

@@ -1,105 +1,29 @@
-/** Page content */
-.page-heading { font-size: 20px; }
-
-.post-list { margin-left: 0; list-style: circle; }
-.post-list > li { margin-bottom: 20px; }
-
-.post-link { display: block; font-size: 24px; }
-
 /**
 * Person
 */
-.person-page { width: 50%; margin: 50px; }
-
-.person-page p { margin-top: 5px; }
-
-.person-content { margin-top: 10px; margin-bottom: 5px; }
-.person-content p { margin-top: 5px; }
-.person-content h4 { margin-top: 10px; margin-bottom: 5px; }
-
-/** Posts */
-.post-title { display: none; margin-top: 20px; font-size: 42px; letter-spacing: -1px; line-height: 1; }
-
-.post-body { margin-top: 20px; display: flex; justify-content: center; }
-
-.post-photos { margin-right: 20px; display: flex; flex-direction: column; justify-content: space-between; min-width: 200px; }
-.post-photos .post-image { display: none; background-position: center top; width: 200px; height: 400px; border-top-left-radius: 200px; border-bottom-left-radius: 200px; margin-bottom: 20px; }
-
-.right-sidebar { margin-left: 10px; min-width: 210px; }
-
-.post-content { width: 50%; margin-bottom: 0px; }
-.post-content video { display: block; margin-left: auto; margin-right: auto; margin-bottom: 10px; margin-top: 10px; }
-.post-content a { text-decoration: underline; }
-.post-content p { margin-top: 10px; font-size: 15px; }
-.post-content h2 { font-size: 32px; color: white; background: black; font-family: "Abel", sans-serif; padding-left: 5px; }
-.post-content h3 { font-size: 26px; margin-top: 10px; margin-bottom: 10px; }
-.post-content h4 { padding-left: 5px; margin-top: 15px; font-size: 20px; color: white; background: black; font-family: "Abel", sans-serif; }
-.post-content .footnotes { padding-left: 15px; }
-
 /**
-* Site Header
+* Flat Index
 */
-.site-header { z-index: 100; width: 100%; background-color: black; }
+.index-content ul { list-style: none; margin-top: 0px; padding-left: 10px; }
+.index-content li { padding: 2px; font-size: 18px; }
+.index-content li ul { padding-left: 30px; }
 
-#nav-header { width: 75%; margin: auto; /*margin-top: 15px;*/ display: flex; justify-content: space-between; padding-left: 20px; padding-right: 20px; padding-top: 5px; padding-bottom: 5px; }
+.site-header { width: 100%; padding-top: 10px; padding-bottom: 10px; background-color: #EFE2BA; }
 
-.site-title { font-family: "Abel", sans-serif; }
-.site-title div { display: inline-block; color: white; padding-left: 5px; font-style: italic; font-size: 16px; }
-.site-title a { color: white; font-size: 20px; font-weight: bold; }
-.site-title a:visited { color: white; }
-.site-title a:hover { text-decoration: underline; }
+.nav-header { width: 85%; margin: 0 auto; display: flex; justify-content: space-between; }
 
-.nav-links { display: flex; padding-left: 15px; justify-content: space-between; align-self: flex-end; }
-.nav-links a { color: white; padding-left: 10px; padding-right: 10px; font-family: "Abel", sans-serif; font-size: 16px; }
-.nav-links div { color: white; font-family: "Abel", sans-serif; }
+.nav-links { width: 200px; display: flex; justify-content: space-between; }
 
 /** Reset some basic elements */
 body, h1, h2, h3, h4, h5, h6, p, pre, hr, dl, dd, figure { margin: 0; padding: 0; }
 
-/** Basic styling */
-body { font-family: "Open Sans", sans-serif; background-color: white; }
+body { font-family: "Crimson Text", serif; }
 
-code { background-color: #f1efef; margin: 1px; }
+.wrapper { width: 85%; margin: 0 auto; }
 
-/** Links */
-a { color: black; text-decoration: none; }
-a:hover { text-decoration: underline; }
-
-/**
-* Lists
-*/
-ol { margin-left: 10px; }
-
-ul { margin-left: 10px; margin-top: 10px; -webkit-margin-before: 10px; }
-
-li { margin-bottom: 10px; font-size: 15px; }
-
-/**
-* Tables
-*/
-table { margin-top: 10px; margin-bottom: 10px; border-collapse: collapse; background-color: #f1efef; }
-
-table, th, td { padding: 5px; }
-
-th, td { border-left: 2px solid black; padding-left: 10px; }
-th:first-child, td:first-child { border-left: 0px; padding-left: 5px; }
-
-td { border-top: 2px solid black; }
-
-tbody tr:nth-child(odd) { background-color: #e5e1e1; }
-
-/**
-* Blockquote
-*/
-blockquote { background-color: #d7f7ee; padding-left: 5px; }
-blockquote p { padding: 5px; font-style: italic; }
-
-/** Wrapper */
-.wrapper { margin: auto; margin-top: 20px; width: 75%; }
-
-/** Icons */
-.icon > svg { display: inline-block; vertical-align: middle; }
-.icon > svg path { fill: #97ead2; }
+a { color: black; }
+a:visited { color: black; }
+a:hover { color: #D79922; }
 
 /**
 * Site Footer

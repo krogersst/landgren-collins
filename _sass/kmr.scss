@@ -2,28 +2,20 @@
 
 // default colors
 
-$color-main: #97ead2;
 $background-color: white;
-$header-color: #97ead2;
+$header-color: #EFE2BA;
 $text-accent: white;
 $link-color: black;
-$code-color: #f1efef;
+$hover-color: #D79922;
 
+// default spacing
+
+$center: 0 auto;
+$doc-width: 85%;
 
 // default fonts
 
-$base-font-family: "Open Sans", sans-serif !default;
-$accent-font-family: "Sarina", cursive;
-$serif-font-family: "Lora", serif;
-$Abel: "Abel", sans-serif;
-$Kavi:'Kavivanar', cursive;
-
-// spacing
-
-$main-margin: 5px;
-$spacing-unit: 20px !default;
-$content-width:    1000px !default;
-$wrap-mini: 75%;
+$body-text: 'Crimson Text', serif;
 
 // Import partials.
 

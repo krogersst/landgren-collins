@@ -8,6 +8,8 @@
   <title>Landgren and Collins Lineages</title>
   <meta name="description" content="">
 
+  <link href="https://fonts.googleapis.com/css?family=Crimson+Text&display=swap" rel="stylesheet">
+  
   <link rel="stylesheet" href="/main.css">
   <link rel="canonical" href="http://localhost:4000/person/sarah-sheffield.md">
   <link rel="alternate" type="application/rss+xml" title="Landgren and Collins Lineages" href="/feed.xml">
@@ -19,7 +21,7 @@
 
   <header class="site-header" role="banner">
 
-  <div id="nav-header">
+  <div class="nav-header">
 
     <div class="site-title">
         <a href="/">Landgren and Collins Lineage</a>
@@ -42,37 +44,37 @@
 
 
   <h1>Sarah Sheffield</h1>
-
-  <p><strong>Born: </strong>August 12, 1851<sup
+<div class="person-info">
+  <p><strong>Born: </strong>August 12, 1851 <sup
     >(<a href="#5">5</a
       >)</sup
     >
   </p>
 
-  <p><strong>Birthplace: </strong>New York<sup
+  <p><strong>Birthplace: </strong>New York <sup
     >(<a href="#1">1</a
-      ><a href="#2">, 2</a
-      ><a href="#3">, 3</a
-      ><a href="#">, 4</a
-      ><a href="#5">, 5</a
+      >, <a href="#2">2</a
+      >, <a href="#3">3</a
+      >, <a href="#">4</a
+      >, <a href="#5">5</a
       >)</sup
     >
   </p>
 
   
 
-  <p><strong>Mother: </strong>Mary Blakely<sup
+  <p><strong>Mother: </strong>Mary Blakely <sup
     >(<a href="#1">1</a
-      ><a href="#2">, 2</a
-      ><a href="#5">, 5</a
+      >, <a href="#2">2</a
+      >, <a href="#5">5</a
       >)</sup
     >
   </p>
 
-  <p><strong>Father: </strong>Daniel Sheffield<sup
+  <p><strong>Father: </strong>Daniel Sheffield <sup
     >(<a href="#1">1</a
-      ><a href="#2">, 2</a
-      ><a href="#5">, 5</a
+      >, <a href="#2">2</a
+      >, <a href="#5">5</a
       >)</sup
     >
   </p>
@@ -80,10 +82,10 @@
   
 
   
-  <p><strong>Husband: </strong>William Allen<sup
+  <p><strong>Husband: </strong>William Allen <sup
     >(<a href="#3">3</a
-      ><a href="#4">, 4</a
-      ><a href="#5">, 5</a
+      >, <a href="#4">4</a
+      >, <a href="#5">5</a
       >)</sup
     >
   </p>
@@ -91,38 +93,38 @@
 
   
 
-  <p><strong>Direct Descendant: </strong>May Allen<sup
+  <p><strong>Direct Descendant: </strong>May Allen <sup
     >(<a href="#4">4</a
       >)</sup
     >
   </p>
 
-  <p><strong>Death: </strong>December 17, 1919<sup
+  <p><strong>Death: </strong>December 17, 1919 <sup
     >(<a href="#5">5</a
       >)</sup
     >
   </p>
 
-  <p><strong>Death Place: </strong>Rockford, Winnebago County, Illinois<sup
+  <p><strong>Death Place: </strong>Rockford, Winnebago County, Illinois <sup
     >(<a href="#5">5</a
       >)</sup
     >
   </p>
 
   
-  <p><strong>Burial: </strong>December 19, 1919<sup
+  <p><strong>Burial: </strong>December 19, 1919 <sup
     >(<a href="#5">5</a
       >)</sup
     >
   </p>
   
 
-  <p><strong>Burial Place:</strong>unknown<sup
+  <p><strong>Burial Place:</strong>unknown <sup
     >(<a href="#?">?</a
       >)</sup
     >
   </p>
-
+</div>
   <div class="person-content" itemprop="articleBody">
     <p>Newman Preston Blakeley was born in Cohocton, Steuben County, New York to Francis Harwood Blakeley and Elizabeth Pauline Blakeley.</p>
 

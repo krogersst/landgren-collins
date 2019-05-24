@@ -5,220 +5,220 @@ layout: default
 
 
   <h1>{{ page.person_name | escape }}</h1>
-
-  <p><strong>Born: </strong>{{ page.born | escape }}<sup
+<div class="person-info">
+  <p><strong>Born: </strong>{{ page.born | escape }} <sup
     >(<a href="#{{ page.born_ref1 | escape }}">{{ page.born_ref1 | escape }}</a
-      >{% if page.born_ref2 %}<a href="#{{ page.born_ref2 | escape }}">, {{ page.born_ref2 | escape }}</a
+      >{% if page.born_ref2 %}, <a href="#{{ page.born_ref2 | escape }}">{{ page.born_ref2 | escape }}</a
       >{% endif
-      %}{% if page.born_ref3 %}<a href="#{{ page.born_ref3 | escape }}">, {{ page.born_ref3 | escape }}</a
+      %}{% if page.born_ref3 %}, <a href="#{{ page.born_ref3 | escape }}">{{ page.born_ref3 | escape }}</a
       >{% endif
-      %}{% if page.born_ref4 %}<a href="#{{ page.born_ref4 | escape }}">, {{ page.born_ref4 | escape }}</a
+      %}{% if page.born_ref4 %}, <a href="#{{ page.born_ref4 | escape }}">{{ page.born_ref4 | escape }}</a
       >{% endif
-      %}{% if page.born_ref5 %}<a href="#{{ page.born_ref5 | escape }}">, {{ page.born_ref5 | escape }}</a
+      %}{% if page.born_ref5 %}, <a href="#{{ page.born_ref5 | escape }}">{{ page.born_ref5 | escape }}</a
       >{% endif %})</sup
     >
   </p>
 
-  <p><strong>Birthplace: </strong>{{ page.birthplace | escape }}<sup
+  <p><strong>Birthplace: </strong>{{ page.birthplace | escape }} <sup
     >(<a href="#{{ page.birthplace_ref1 | escape }}">{{ page.birthplace_ref1 | escape }}</a
-      >{% if page.birthplace_ref2 %}<a href="#{{ page.birthplace_ref2 | escape }}">, {{ page.birthplace_ref2 | escape }}</a
+      >{% if page.birthplace_ref2 %}, <a href="#{{ page.birthplace_ref2 | escape }}">{{ page.birthplace_ref2 | escape }}</a
       >{% endif
-      %}{% if page.birthplace_ref3 %}<a href="#{{ page.birthplace_ref3 | escape }}">, {{ page.birthplace_ref3 | escape }}</a
+      %}{% if page.birthplace_ref3 %}, <a href="#{{ page.birthplace_ref3 | escape }}">{{ page.birthplace_ref3 | escape }}</a
       >{% endif
-      %}{% if page.birthplace_ref4 %}<a href="#{{ page.birthpalce_ref4 | escape }}">, {{ page.birthplace_ref4 | escape }}</a
+      %}{% if page.birthplace_ref4 %}, <a href="#{{ page.birthpalce_ref4 | escape }}">{{ page.birthplace_ref4 | escape }}</a
       >{% endif
-      %}{% if page.birthplace_ref5 %}<a href="#{{ page.birthplace_ref5 | escape }}">, {{ page.birthplace_ref5 | escape }}</a
+      %}{% if page.birthplace_ref5 %}, <a href="#{{ page.birthplace_ref5 | escape }}">{{ page.birthplace_ref5 | escape }}</a
       >{% endif
-      %}{% if page.birthplace_ref6 %}<a href="#{{ page.birthplace_ref6 | escape }}">, {{ page.birthplace_ref6 | escape }}</a
+      %}{% if page.birthplace_ref6 %}, <a href="#{{ page.birthplace_ref6 | escape }}">{{ page.birthplace_ref6 | escape }}</a
       >{% endif %})</sup
     >
   </p>
 
   {% if page.baptised %}
-  <p><strong>Baptised: </strong>{{ page.baptised | escape }}<sup
+  <p><strong>Baptised: </strong>{{ page.baptised | escape }} <sup
     >(<a href="#{{ page.baptised_ref1 | escape }}">{{ page.baptised_ref1 | escape }}</a
-      >{% if page.baptised_ref2 %}<a href="#{{ page.baptised_ref2 | escape }}">, {{ page.baptised_ref2 | escape }}</a
+      >{% if page.baptised_ref2 %}, <a href="#{{ page.baptised_ref2 | escape }}">{{ page.baptised_ref2 | escape }}</a
       >{% endif
-      %}{% if page.baptised_ref3 %}<a href="#{{ page.baptised_ref3 | escape }}">, {{ page.baptised_ref3 | escape }}</a
+      %}{% if page.baptised_ref3 %}, <a href="#{{ page.baptised_ref3 | escape }}">{{ page.baptised_ref3 | escape }}</a
       >{% endif
-      %}{% if page.baptised_ref4 %}<a href="#{{ page.baptised_ref4 | escape }}">, {{ page.baptised_ref4 | escape }}</a
+      %}{% if page.baptised_ref4 %}, <a href="#{{ page.baptised_ref4 | escape }}">{{ page.baptised_ref4 | escape }}</a
       >{% endif
-      %}{% if page.baptised_ref5 %}<a href="#{{ page.baptised_ref5 | escape }}">, {{ page.baptised_ref5 | escape }}</a
+      %}{% if page.baptised_ref5 %}, <a href="#{{ page.baptised_ref5 | escape }}">{{ page.baptised_ref5 | escape }}</a
       >{% endif %})</sup
     >
   </p>
-  <p><strong>Baptismal Place: </strong>{{ page.baptismal_place | escape }}<sup
+  <p><strong>Baptismal Place: </strong>{{ page.baptismal_place | escape }} <sup
     >(<a href="#{{ page.baptismal_place_ref1 | escape }}">{{ page.baptismal_place_ref1 | escape }}</a
-      >{% if page.baptismal_place_ref2 %}<a href="#{{ page.baptismal_place_ref2 | escape }}">, {{ page.baptismal_place_ref2 | escape }}</a
+      >{% if page.baptismal_place_ref2 %}, <a href="#{{ page.baptismal_place_ref2 | escape }}">{{ page.baptismal_place_ref2 | escape }}</a
       >{% endif
-      %}{% if page.baptismal_place_ref3 %}<a href="#{{ page.baptismal_place_ref3 | escape }}">, {{ page.baptismal_place_ref3 | escape }}</a
+      %}{% if page.baptismal_place_ref3 %}, <a href="#{{ page.baptismal_place_ref3 | escape }}">{{ page.baptismal_place_ref3 | escape }}</a
       >{% endif
-      %}{% if page.baptismal_place_ref4 %}<a href="#{{ page.baptismal_place_ref4 | escape }}">, {{ page.baptismal_place_ref4 | escape }}</a
+      %}{% if page.baptismal_place_ref4 %}, <a href="#{{ page.baptismal_place_ref4 | escape }}">{{ page.baptismal_place_ref4 | escape }}</a
       >{% endif
-      %}{% if page.baptismal_place_ref5 %}<a href="#{{ page.baptismal_place_ref5 | escape }}">, {{ page.baptismal_place_ref5 | escape }}</a
+      %}{% if page.baptismal_place_ref5 %}, <a href="#{{ page.baptismal_place_ref5 | escape }}">{{ page.baptismal_place_ref5 | escape }}</a
       >{% endif %})</sup
     >
   </p>
   {% endif %}
 
-  <p><strong>Mother: </strong>{{ page.mother | escape }}<sup
+  <p><strong>Mother: </strong>{{ page.mother | escape }} <sup
     >(<a href="#{{ page.mother_ref1 | escape }}">{{ page.mother_ref1 | escape }}</a
-      >{% if page.mother_ref2 %}<a href="#{{ page.mother_ref2 | escape }}">, {{ page.mother_ref2 | escape }}</a
+      >{% if page.mother_ref2 %}, <a href="#{{ page.mother_ref2 | escape }}">{{ page.mother_ref2 | escape }}</a
       >{% endif
-      %}{% if page.mother_ref3 %}<a href="#{{ page.mother_ref3 | escape }}">, {{ page.mother_ref3 | escape }}</a
+      %}{% if page.mother_ref3 %}, <a href="#{{ page.mother_ref3 | escape }}">{{ page.mother_ref3 | escape }}</a
       >{% endif
-      %}{% if page.mother_ref4 %}<a href="#{{ page.mother_ref4 | escape }}">, {{ page.mother_ref4 | escape }}</a
+      %}{% if page.mother_ref4 %}, <a href="#{{ page.mother_ref4 | escape }}">{{ page.mother_ref4 | escape }}</a
       >{% endif
-      %}{% if page.mother_ref5 %}<a href="#{{ page.mother_ref5 | escape }}">, {{ page.mother_ref5 | escape }}</a
+      %}{% if page.mother_ref5 %}, <a href="#{{ page.mother_ref5 | escape }}">{{ page.mother_ref5 | escape }}</a
       >{% endif %})</sup
     >
   </p>
 
-  <p><strong>Father: </strong>{{ page.father | escape }}<sup
+  <p><strong>Father: </strong>{{ page.father | escape }} <sup
     >(<a href="#{{ page.father_ref1 | escape }}">{{ page.father_ref1 | escape }}</a
-      >{% if page.father_ref2 %}<a href="#{{ page.father_ref2 | escape }}">, {{ page.father_ref2 | escape }}</a
+      >{% if page.father_ref2 %}, <a href="#{{ page.father_ref2 | escape }}">{{ page.father_ref2 | escape }}</a
       >{% endif
-      %}{% if page.father_ref3 %}<a href="#{{ page.father_ref3 | escape }}">, {{ page.father_ref3 | escape }}</a
+      %}{% if page.father_ref3 %}, <a href="#{{ page.father_ref3 | escape }}">{{ page.father_ref3 | escape }}</a
       >{% endif
-      %}{% if page.father_ref4 %}<a href="#{{ page.father_ref4 | escape }}">, {{ page.father_ref4 | escape }}</a
+      %}{% if page.father_ref4 %}, <a href="#{{ page.father_ref4 | escape }}">{{ page.father_ref4 | escape }}</a
       >{% endif
-      %}{% if page.father_ref5 %}<a href="#{{ page.father_ref5 | escape }}">, {{ page.father_ref5 | escape }}</a
+      %}{% if page.father_ref5 %}, <a href="#{{ page.father_ref5 | escape }}">{{ page.father_ref5 | escape }}</a
       >{% endif %})</sup
     >
   </p>
 
   {% if page.wife %}
-  <p><strong>Wife: </strong>{{ page.wife | escape }}<sup
+  <p><strong>Wife: </strong>{{ page.wife | escape }} <sup
     >(<a href="#{{ page.wife_ref1 | escape }}">{{ page.wife_ref1 | escape }}</a
-      >{% if page.wife_ref2 %}<a href="#{{ page.wife_ref2 | escape }}">, {{ page.wife_ref2 | escape }}</a
+      >{% if page.wife_ref2 %}, <a href="#{{ page.wife_ref2 | escape }}">{{ page.wife_ref2 | escape }}</a
       >{% endif
-      %}{% if page.wife_ref3 %}<a href="#{{ page.wife_ref3 | escape }}">, {{ page.wife_ref3 | escape }}</a
+      %}{% if page.wife_ref3 %}, <a href="#{{ page.wife_ref3 | escape }}">{{ page.wife_ref3 | escape }}</a
       >{% endif
-      %}{% if page.wife_ref4 %}<a href="#{{ page.wife_ref4 | escape }}">, {{ page.wife_ref4 | escape }}</a
+      %}{% if page.wife_ref4 %}, <a href="#{{ page.wife_ref4 | escape }}">{{ page.wife_ref4 | escape }}</a
       >{% endif
-      %}{% if page.wife_ref5 %}<a href="#{{ page.wife_ref5 | escape }}">, {{ page.wife_ref5 | escape }}</a
+      %}{% if page.wife_ref5 %}, <a href="#{{ page.wife_ref5 | escape }}">{{ page.wife_ref5 | escape }}</a
       >{% endif
-      %}{% if page.wife_ref6 %}<a href="#{{ page.wife_ref6 | escape }}">, {{ page.wife_ref6 | escape }}</a
+      %}{% if page.wife_ref6 %}, <a href="#{{ page.wife_ref6 | escape }}">{{ page.wife_ref6 | escape }}</a
       >{% endif
-      %}{% if page.wife_ref7 %}<a href="#{{ page.wife_ref7 | escape }}">, {{ page.wife_ref7 | escape }}</a
+      %}{% if page.wife_ref7 %}, <a href="#{{ page.wife_ref7 | escape }}">{{ page.wife_ref7 | escape }}</a
       >{% endif %})</sup
     >
   </p>
   {% endif %}
 
   {% if page.husband %}
-  <p><strong>Husband: </strong>{{ page.husband | escape }}<sup
+  <p><strong>Husband: </strong>{{ page.husband | escape }} <sup
     >(<a href="#{{ page.husband_ref1 | escape }}">{{ page.husband_ref1 | escape }}</a
-      >{% if page.husband_ref2 %}<a href="#{{ page.husband_ref2 | escape }}">, {{ page.husband_ref2 | escape }}</a
+      >{% if page.husband_ref2 %}, <a href="#{{ page.husband_ref2 | escape }}">{{ page.husband_ref2 | escape }}</a
       >{% endif
-      %}{% if page.husband_ref3 %}<a href="#{{ page.husband_ref3 | escape }}">, {{ page.husband_ref3 | escape }}</a
+      %}{% if page.husband_ref3 %}, <a href="#{{ page.husband_ref3 | escape }}">{{ page.husband_ref3 | escape }}</a
       >{% endif
-      %}{% if page.husband_ref4 %}<a href="#{{ page.husband_ref4 | escape }}">, {{ page.husband_ref4 | escape }}</a
+      %}{% if page.husband_ref4 %}, <a href="#{{ page.husband_ref4 | escape }}">{{ page.husband_ref4 | escape }}</a
       >{% endif
-      %}{% if page.husband_ref5 %}<a href="#{{ page.husband_ref5 | escape }}">, {{ page.husband_ref5 | escape }}</a
+      %}{% if page.husband_ref5 %}, <a href="#{{ page.husband_ref5 | escape }}">{{ page.husband_ref5 | escape }}</a
       >{% endif
-      %}{% if page.husband_ref6 %}<a href="#{{ page.husband_ref6 | escape }}">, {{ page.husband_ref6 | escape }}</a
+      %}{% if page.husband_ref6 %}, <a href="#{{ page.husband_ref6 | escape }}">{{ page.husband_ref6 | escape }}</a
       >{% endif
-      %}{% if page.husband_ref7 %}<a href="#{{ page.husband_ref7 | escape }}">, {{ page.husband_ref7 | escape }}</a
+      %}{% if page.husband_ref7 %}, <a href="#{{ page.husband_ref7 | escape }}">{{ page.husband_ref7 | escape }}</a
       >{% endif %})</sup
     >
   </p>
   {% endif %}
 
   {% if page.married %}
-  <p><strong>Married: </strong>{{ page.married | escape }}<sup
+  <p><strong>Married: </strong>{{ page.married | escape }} <sup
     >(<a href="#{{ page.married_ref1 | escape }}">{{ page.married_ref1 | escape }}</a
-      >{% if page.married_ref2 %}<a href="#{{ page.married_ref2 | escape }}">, {{ page.married_ref2 | escape }}</a
+      >{% if page.married_ref2 %}, <a href="#{{ page.married_ref2 | escape }}">{{ page.married_ref2 | escape }}</a
       >{% endif
-      %}{% if page.married_ref3 %}<a href="#{{ page.married_ref3 | escape }}">, {{ page.married_ref3 | escape }}</a
+      %}{% if page.married_ref3 %}, <a href="#{{ page.married_ref3 | escape }}">{{ page.married_ref3 | escape }}</a
       >{% endif
-      %}{% if page.married_ref4 %}<a href="#{{ page.married_ref4 | escape }}">, {{ page.married_ref4 | escape }}</a
+      %}{% if page.married_ref4 %}, <a href="#{{ page.married_ref4 | escape }}">{{ page.married_ref4 | escape }}</a
       >{% endif
-      %}{% if page.married_ref5 %}<a href="#{{ page.married_ref5 | escape }}">, {{ page.married_ref5 | escape }}</a
+      %}{% if page.married_ref5 %}, <a href="#{{ page.married_ref5 | escape }}">{{ page.married_ref5 | escape }}</a
       >{% endif %})</sup
     >
   </p>
-  <p><strong>Marriage Place: </strong>{{ page.marriage_place | escape }}<sup
+  <p><strong>Marriage Place: </strong>{{ page.marriage_place | escape }} <sup
     >(<a href="#{{ page.marriage_place_ref1 | escape }}">{{ page.marriage_place_ref1 | escape }}</a
-      >{% if page.marriage_place_ref2 %}<a href="#{{ page.marriage_place_ref2 | escape }}">, {{ page.marriage_place_ref2 | escape }}</a
+      >{% if page.marriage_place_ref2 %}, <a href="#{{ page.marriage_place_ref2 | escape }}">{{ page.marriage_place_ref2 | escape }}</a
       >{% endif
-      %}{% if page.marriage_place_ref3 %}<a href="#{{ page.marriage_place_ref3 | escape }}">, {{ page.marriage_place_ref3 | escape }}</a
+      %}{% if page.marriage_place_ref3 %}, <a href="#{{ page.marriage_place_ref3 | escape }}">{{ page.marriage_place_ref3 | escape }}</a
       >{% endif
-      %}{% if page.marriage_place_ref4 %}<a href="#{{ page.marriage_place_ref4 | escape }}">, {{ page.marriage_place_ref4 | escape }}</a
+      %}{% if page.marriage_place_ref4 %}, <a href="#{{ page.marriage_place_ref4 | escape }}">{{ page.marriage_place_ref4 | escape }}</a
       >{% endif
-      %}{% if page.marriage_place_ref5 %}<a href="#{{ page.marriage_place_ref5 | escape }}">, {{ page.marriage_place_ref5 | escape }}</a
+      %}{% if page.marriage_place_ref5 %}, <a href="#{{ page.marriage_place_ref5 | escape }}">{{ page.marriage_place_ref5 | escape }}</a
       >{% endif %})</sup
     >
   </p>
   {% endif %}
 
-  <p><strong>Direct Descendant: </strong>{{ page.descendant | escape }}<sup
+  <p><strong>Direct Descendant: </strong>{{ page.descendant | escape }} <sup
     >(<a href="#{{ page.descendant_ref1 | escape }}">{{ page.descendant_ref1 | escape }}</a
-      >{% if page.descendant_ref2 %}<a href="#{{ page.descendant_ref2 | escape }}">, {{ page.descendant_ref2 | escape }}</a
+      >{% if page.descendant_ref2 %}, <a href="#{{ page.descendant_ref2 | escape }}">{{ page.descendant_ref2 | escape }}</a
       >{% endif
-      %}{% if page.descendant_ref3 %}<a href="#{{ page.descendant_ref3 | escape }}">, {{ page.descendant_ref3 | escape }}</a
+      %}{% if page.descendant_ref3 %}, <a href="#{{ page.descendant_ref3 | escape }}">{{ page.descendant_ref3 | escape }}</a
       >{% endif
-      %}{% if page.descendant_ref4 %}<a href="#{{ page.descendant_ref4 | escape }}">, {{ page.descendant_ref4 | escape }}</a
+      %}{% if page.descendant_ref4 %}, <a href="#{{ page.descendant_ref4 | escape }}">{{ page.descendant_ref4 | escape }}</a
       >{% endif
-      %}{% if page.descendant_ref5 %}<a href="#{{ page.descendant_ref5 | escape }}">, {{ page.descendant_ref5 | escape }}</a
+      %}{% if page.descendant_ref5 %}, <a href="#{{ page.descendant_ref5 | escape }}">{{ page.descendant_ref5 | escape }}</a
       >{% endif %})</sup
     >
   </p>
 
-  <p><strong>Death: </strong>{{ page.death | escape }}<sup
+  <p><strong>Death: </strong>{{ page.death | escape }} <sup
     >(<a href="#{{ page.death_ref1 | escape }}">{{ page.death_ref1 | escape }}</a
-      >{% if page.death_ref2 %}<a href="#{{ page.death_ref2 | escape }}">, {{ page.death_ref2 | escape }}</a
+      >{% if page.death_ref2 %}, <a href="#{{ page.death_ref2 | escape }}">{{ page.death_ref2 | escape }}</a
       >{% endif
-      %}{% if page.death_ref3 %}<a href="#{{ page.death_ref3 | escape }}">, {{ page.death_ref3 | escape }}</a
+      %}{% if page.death_ref3 %}, <a href="#{{ page.death_ref3 | escape }}">{{ page.death_ref3 | escape }}</a
       >{% endif
-      %}{% if page.death_ref4 %}<a href="#{{ page.death_ref4 | escape }}">, {{ page.death_ref4 | escape }}</a
+      %}{% if page.death_ref4 %}, <a href="#{{ page.death_ref4 | escape }}">{{ page.death_ref4 | escape }}</a
       >{% endif
-      %}{% if page.death_ref5 %}<a href="#{{ page.death_ref5 | escape }}">, {{ page.death_ref5 | escape }}</a
+      %}{% if page.death_ref5 %}, <a href="#{{ page.death_ref5 | escape }}">{{ page.death_ref5 | escape }}</a
       >{% endif %})</sup
     >
   </p>
 
-  <p><strong>Death Place: </strong>{{ page.death_place | escape }}<sup
+  <p><strong>Death Place: </strong>{{ page.death_place | escape }} <sup
     >(<a href="#{{ page.death_place_ref1 | escape }}">{{ page.death_place_ref1 | escape }}</a
-      >{% if page.death_place_ref2 %}<a href="#{{ page.death_place_ref2 | escape }}">, {{ page.death_place_ref2 | escape }}</a
+      >{% if page.death_place_ref2 %}, <a href="#{{ page.death_place_ref2 | escape }}">{{ page.death_place_ref2 | escape }}</a
       >{% endif
-      %}{% if page.death_place_ref3 %}<a href="#{{ page.death_place_ref3 | escape }}">, {{ page.death_place_ref3 | escape }}</a
+      %}{% if page.death_place_ref3 %}, <a href="#{{ page.death_place_ref3 | escape }}">{{ page.death_place_ref3 | escape }}</a
       >{% endif
-      %}{% if page.death_place_ref4 %}<a href="#{{ page.death_place_ref4 | escape }}">, {{ page.death_place_ref4 | escape }}</a
+      %}{% if page.death_place_ref4 %}, <a href="#{{ page.death_place_ref4 | escape }}">{{ page.death_place_ref4 | escape }}</a
       >{% endif
-      %}{% if page.death_place_ref5 %}<a href="#{{ page.death_place_ref5 | escape }}">, {{ page.death_place_ref5 | escape }}</a
+      %}{% if page.death_place_ref5 %}, <a href="#{{ page.death_place_ref5 | escape }}">{{ page.death_place_ref5 | escape }}</a
       >{% endif %})</sup
     >
   </p>
 
   {% if page.burial %}
-  <p><strong>Burial: </strong>{{ page.burial | escape }}<sup
+  <p><strong>Burial: </strong>{{ page.burial | escape }} <sup
     >(<a href="#{{ page.burial_ref1 | escape }}">{{ page.burial_ref1 | escape }}</a
-      >{% if page.burial_ref2 %}<a href="#{{ page.burial_ref2 | escape }}">, {{ page.burial_ref2 | escape }}</a
+      >{% if page.burial_ref2 %}, <a href="#{{ page.burial_ref2 | escape }}">{{ page.burial_ref2 | escape }}</a
       >{% endif
-      %}{% if page.burial_ref3 %}<a href="#{{ page.burial_ref3 | escape }}">, {{ page.burial_ref3 | escape }}</a
+      %}{% if page.burial_ref3 %}, <a href="#{{ page.burial_ref3 | escape }}">{{ page.burial_ref3 | escape }}</a
       >{% endif
-      %}{% if page.burial_ref4 %}<a href="#{{ page.burial_ref4 | escape }}">, {{ page.burial_ref4 | escape }}</a
+      %}{% if page.burial_ref4 %}, <a href="#{{ page.burial_ref4 | escape }}">{{ page.burial_ref4 | escape }}</a
       >{% endif
-      %}{% if page.burial_ref5 %}<a href="#{{ page.burial_ref5 | escape }}">, {{ page.burial_ref5 | escape }}</a
+      %}{% if page.burial_ref5 %}, <a href="#{{ page.burial_ref5 | escape }}">{{ page.burial_ref5 | escape }}</a
       >{% endif %})</sup
     >
   </p>
   {% endif %}
 
-  <p><strong>Burial Place:</strong>{{ page.burial_place | escape }}<sup
+  <p><strong>Burial Place:</strong>{{ page.burial_place | escape }} <sup
     >(<a href="#{{ page.burial_place_ref1 | escape }}">{{ page.burial_place_ref1 | escape }}</a
-      >{% if page.burial_place_ref2 %}<a href="#{{ page.burial_place_ref2 | escape }}">, {{ page.burial_place_ref2 | escape }}</a
+      >{% if page.burial_place_ref2 %}, <a href="#{{ page.burial_place_ref2 | escape }}">{{ page.burial_place_ref2 | escape }}</a
       >{% endif
-      %}{% if page.burial_place_ref3 %}<a href="#{{ page.burial_place_ref3 | escape }}">, {{ page.burial_place_ref3 | escape }}</a
+      %}{% if page.burial_place_ref3 %}, <a href="#{{ page.burial_place_ref3 | escape }}">{{ page.burial_place_ref3 | escape }}</a
       >{% endif
-      %}{% if page.burial_place_ref4 %}<a href="#{{ page.burial_place_ref4 | escape }}">, {{ page.burial_place_ref4 | escape }}</a
+      %}{% if page.burial_place_ref4 %}, <a href="#{{ page.burial_place_ref4 | escape }}">{{ page.burial_place_ref4 | escape }}</a
       >{% endif
-      %}{% if page.burial_place_ref5 %}<a href="#{{ page.burial_place_ref5 | escape }}">, {{ page.burial_place_ref5 | escape }}</a
+      %}{% if page.burial_place_ref5 %}, <a href="#{{ page.burial_place_ref5 | escape }}">{{ page.burial_place_ref5 | escape }}</a
       >{% endif %})</sup
     >
   </p>
-
+</div>
   <div class="person-content" itemprop="articleBody">
     {{ content }}
   </div>
