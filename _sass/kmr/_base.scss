@@ -10,6 +10,21 @@ dl, dd, figure {
 
 body {
   font-family: $body-text;
+  background-color: $background-color;
+  background-image:url("treebg_1.png");
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+.body-wrap {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.page-content {
+  flex: 1;
 }
 
 .wrapper {

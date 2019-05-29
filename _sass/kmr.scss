@@ -3,11 +3,12 @@
 // default colors
 
 $background-color: white;
-$header-color: #EFE2BA;
+$header-color: #B4DBC0;
 $text-accent: white;
 $link-color: black;
-$hover-color: #D79922;
-
+$hover-color: #A7B3A5;
+$person-color: rgba(255, 255, 255, 0.75);
+//rgba(180, 219, 192, 0.75);
 // default spacing
 
 $center: 0 auto;
@@ -22,6 +23,5 @@ $body-text: 'Crimson Text', serif;
 @import
   "kmr/layout",
   "kmr/header",
-  "kmr/base",
-  "kmr/footer"
+  "kmr/base"
 ;

@@ -3,9 +3,11 @@ layout: default
 ---
 <article class="person-page">
 
+<div class="person-name">{{ page.person_name | escape }}</div>
 
-  <h1>{{ page.person_name | escape }}</h1>
-<div class="person-info">
+<div class="person-flex">
+
+  <div class="person-info">
   <p><strong>Born: </strong>{{ page.born | escape }} <sup
     >(<a href="#{{ page.born_ref1 | escape }}">{{ page.born_ref1 | escape }}</a
       >{% if page.born_ref2 %}, <a href="#{{ page.born_ref2 | escape }}">{{ page.born_ref2 | escape }}</a
@@ -206,7 +208,7 @@ layout: default
   </p>
   {% endif %}
 
-  <p><strong>Burial Place:</strong>{{ page.burial_place | escape }} <sup
+  <p><strong>Burial Place: </strong>{{ page.burial_place | escape }} <sup
     >(<a href="#{{ page.burial_place_ref1 | escape }}">{{ page.burial_place_ref1 | escape }}</a
       >{% if page.burial_place_ref2 %}, <a href="#{{ page.burial_place_ref2 | escape }}">{{ page.burial_place_ref2 | escape }}</a
       >{% endif
@@ -218,9 +220,19 @@ layout: default
       >{% endif %})</sup
     >
   </p>
-</div>
-  <div class="person-content" itemprop="articleBody">
-    {{ content }}
   </div>
+
+  <div class="person-content" itemprop="articleBody">
+      {{ content }}
+  </div>
+
+</div>
+
+<div id="references">
+  <h3>References</h3>
+    {% if page.references %}
+      {% include_relative references/{{ page.references }} %}
+    {% endif %}
+</div>
 
 </article>

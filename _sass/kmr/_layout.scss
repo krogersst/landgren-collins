@@ -2,15 +2,61 @@
 * Person
 */
 
+.person-page {
+  margin-top: 46px;
+}
 
+.person-name {
+  font-size: 50px;
+  font-weight: bold;
+  position: absolute;
+  z-index: 1;
+  top: 57px;
+}
 
+.person-flex {
+  display: flex;
+  justify-content: flex-start;
+}
 
+.person-info {
+  width: 30%;
+  margin-right: 10px;
+  padding: 10px;
+  background-color: $header-color;
+}
+
+.person-photo {
+  max-width: 400px;
+}
+
+.person-content {
+  width: 70%;
+  padding: 10px;
+  background-color: $person-color;
+}
+
+#references {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: $person-color;
+  p {
+    margin-top: 10px;
+    &:first-of-type {
+      margin-top: 0px;
+    }
+  }
+}
 
 /**
 * Flat Index
 */
 
 .index-content {
+  p {
+    margin-bottom: 10px;
+  }
+  padding-top: 10px;
   ul {
     list-style: none;
     margin-top: 0px;

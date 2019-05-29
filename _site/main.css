@@ -1,30 +1,53 @@
 /**
 * Person
 */
+.person-page { margin-top: 46px; }
+
+.person-name { font-size: 50px; font-weight: bold; position: absolute; z-index: 1; top: 57px; }
+
+.person-flex { display: flex; justify-content: flex-start; }
+
+.person-info { width: 30%; margin-right: 10px; padding: 10px; background-color: #B4DBC0; }
+
+.person-photo { max-width: 400px; }
+
+.person-content { width: 70%; padding: 10px; background-color: rgba(255, 255, 255, 0.75); }
+
+#references { margin-top: 10px; padding: 10px; background-color: rgba(255, 255, 255, 0.75); }
+#references p { margin-top: 10px; }
+#references p:first-of-type { margin-top: 0px; }
+
 /**
 * Flat Index
 */
+.index-content { padding-top: 10px; }
+.index-content p { margin-bottom: 10px; }
 .index-content ul { list-style: none; margin-top: 0px; padding-left: 10px; }
 .index-content li { padding: 2px; font-size: 18px; }
 .index-content li ul { padding-left: 30px; }
 
-.site-header { width: 100%; padding-top: 10px; padding-bottom: 10px; background-color: #EFE2BA; }
+.site-header, .site-footer { width: 100%; padding-top: 10px; padding-bottom: 10px; background-color: #B4DBC0; font-size: 20px; }
+.site-header a, .site-header:visited, .site-header:hover, .site-footer a, .site-footer:visited, .site-footer:hover { text-decoration: none; }
+
+.site-header { margin-bottom: 20px; }
+
+.site-footer { margin-top: 20px; }
 
 .nav-header { width: 85%; margin: 0 auto; display: flex; justify-content: space-between; }
 
-.nav-links { width: 200px; display: flex; justify-content: space-between; }
+.nav-links { width: 250px; display: flex; justify-content: space-between; }
 
 /** Reset some basic elements */
 body, h1, h2, h3, h4, h5, h6, p, pre, hr, dl, dd, figure { margin: 0; padding: 0; }
 
-body { font-family: "Crimson Text", serif; }
+body { font-family: "Crimson Text", serif; background-color: white; background-image: url("treebg_1.png"); background-position: center; background-attachment: fixed; background-repeat: no-repeat; }
+
+.body-wrap { display: flex; min-height: 100vh; flex-direction: column; }
+
+.page-content { flex: 1; }
 
 .wrapper { width: 85%; margin: 0 auto; }
 
 a { color: black; }
 a:visited { color: black; }
-a:hover { color: #D79922; }
-
-/**
-* Site Footer
-*/
+a:hover { color: #A7B3A5; }

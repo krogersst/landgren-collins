@@ -1,11 +1,23 @@
 
-.site-header {
+.site-header, .site-footer {
   width: 100%;
   padding: {
     top: 10px;
     bottom: 10px;
   }
   background-color: $header-color;
+  a, &:visited, &:hover {
+    text-decoration: none;
+  }
+  font-size: 20px;
+}
+
+.site-header {
+  margin-bottom: 20px;
+}
+
+.site-footer {
+  margin-top: 20px;
 }
 
 .nav-header {
@@ -16,7 +28,7 @@
 }
 
 .nav-links {
-  width: 200px;
+  width: 250px;
   display: flex;
   justify-content: space-between;
 }
