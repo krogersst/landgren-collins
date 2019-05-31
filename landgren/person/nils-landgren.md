@@ -32,6 +32,9 @@ burial_ref1: "?"
 references: "nils-landgren-ref.html"
 ---
 
+On October 28th, 1901, Nils Landgren left his home and mother to live in Umeå Stad, in the county of Västerbotten <sup>[11A](11A)</sup>. His mother, Johanna Ljungberg, died less than a year later on the 13th of June, 1902 <sup>[11A](11A)</sup>. He was not yet conscripted into the army as the age of conscription at this time was 21, and he is only 21 when he left Torupshus. There is no record in the "Värnpligtsförhållanden" column or conscription record column <sup>[11A](11A)</sup>.
+
+He lived in Umeå Stad until November 1904, when he moved to Tullstorp #7, in the parish of Södra Sallerup of Malmöhus County. His sister and her husband's family were living there as well and their family is recorded just above Nils' entry. He now has a number in the värnpligtsförhållanden columun: "364 69/1904." His number in the enrollment area "69" is 364, and he was conscripted in the year 1904. The enrollment area number 69 corresponded to Umeå in the period of 1902-1918 in the county of Västerbottens, which matches up with where he was living from 1901 to 1904. During the years of 1902-1907, draftees underwent 172 days of training with 112 days of basic training and three 30 day refresher courses <sup>[12](12)</sup>.
 
 
 ### Immigration Records
