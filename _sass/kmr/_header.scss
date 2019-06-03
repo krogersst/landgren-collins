@@ -1,11 +1,12 @@
 
 .site-header, .site-footer {
-  width: 100%;
+  width: $doc-width;
+  margin: 0 auto;
   padding: {
     top: 10px;
     bottom: 10px;
   }
-  background-color: $header-color;
+  // background-color: $header-color;
   a, &:visited, &:hover {
     text-decoration: none;
   }
@@ -21,8 +22,6 @@
 }
 
 .nav-header {
-  width: $doc-width;
-  margin: $center;
   display: flex;
   justify-content: space-between;
 }

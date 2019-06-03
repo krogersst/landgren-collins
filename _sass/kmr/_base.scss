@@ -11,10 +11,6 @@ dl, dd, figure {
 body {
   font-family: $body-text;
   background-color: $background-color;
-  background-image:url("treebg_1.png");
-  background-position: center;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
 }
 
 .body-wrap {
@@ -29,7 +25,7 @@ body {
 
 .wrapper {
   width: 85%;
-  margin: 0 auto;
+  margin-left: 130px;
 }
 
 a {

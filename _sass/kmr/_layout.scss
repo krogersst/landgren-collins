@@ -1,3 +1,12 @@
+.home-flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.home-image {
+  max-height: 500px;
+}
+
 /**
 * Person
 */
@@ -45,6 +54,13 @@
     &:first-of-type {
       margin-top: 0px;
     }
+  }
+}
+
+.letter-ref {
+  list-style: none;
+  p {
+    margin-top: 5px;
   }
 }
 

@@ -1,13 +1,11 @@
 ---
 layout: person
-person_name: Nils Peter Landgren (Larsson)
+person_name: Nils Peter Landgren
 permalink: /landgren/person/nils-landgren
 born: December 7, 1881
 born_ref1: "1"
 birthplace: Torupshus, Bara, Malmöhus (Skåne), Sverige (Sweden)
 birthplace_ref1: "1"
-baptismal_place: 
-baptismal_place_ref1: "1"
 mother: Johanna Ljungberg
 mother_ref1: "1"
 father: Lars Landgren
@@ -26,7 +24,7 @@ descendant_ref1: "6"
 death: March 18, 1956
 death_ref1: "10"
 death_place: Rockford, Winnebago County, Illinois
-death_place_ref1: "10
+death_place_ref1: "10"
 burial_place: Unknown
 burial_ref1: "?"
 references: "nils-landgren-ref.html"
@@ -40,7 +38,7 @@ He lived in Umeå Stad until November 1904, when he moved to Tullstorp #7, in th
 ### Immigration Records
 **Last Premanent Residence:** S. Sallerup, Sweden <sup>([4](#4))</sup>
 
-**Nearest Relative or Friend in Country Whence Alien Came**: 
+**Nearest Relative or Friend in Country Whence Alien Came**:
 
 **Departure Date:** January 27, 1914 <sup>([5](#5))</sup>
 

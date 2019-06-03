@@ -1,3 +1,7 @@
+.home-flex { display: flex; justify-content: space-between; }
+
+.home-image { max-height: 500px; }
+
 /**
 * Person
 */
@@ -7,7 +11,7 @@
 
 .person-flex { display: flex; justify-content: flex-start; }
 
-.person-info { width: 30%; margin-right: 10px; padding: 10px; background-color: #B4DBC0; }
+.person-info { width: 30%; margin-right: 10px; padding: 10px; background-color: #D7AA5F; }
 
 .person-photo { max-width: 400px; }
 
@@ -16,6 +20,9 @@
 #references { margin-top: 10px; padding: 10px; background-color: rgba(255, 255, 255, 0.75); }
 #references p { margin-top: 10px; }
 #references p:first-of-type { margin-top: 0px; }
+
+.letter-ref { list-style: none; }
+.letter-ref p { margin-top: 5px; }
 
 /**
 * Flat Index
@@ -26,28 +33,28 @@
 .index-content li { padding: 2px; font-size: 18px; }
 .index-content li ul { padding-left: 30px; }
 
-.site-header, .site-footer { width: 100%; padding-top: 10px; padding-bottom: 10px; background-color: #B4DBC0; font-size: 20px; }
+.site-header, .site-footer { width: 85%; margin: 0 auto; padding-top: 10px; padding-bottom: 10px; font-size: 20px; }
 .site-header a, .site-header:visited, .site-header:hover, .site-footer a, .site-footer:visited, .site-footer:hover { text-decoration: none; }
 
 .site-header { margin-bottom: 20px; }
 
 .site-footer { margin-top: 20px; }
 
-.nav-header { width: 85%; margin: 0 auto; display: flex; justify-content: space-between; }
+.nav-header { display: flex; justify-content: space-between; }
 
 .nav-links { width: 250px; display: flex; justify-content: space-between; }
 
 /** Reset some basic elements */
 body, h1, h2, h3, h4, h5, h6, p, pre, hr, dl, dd, figure { margin: 0; padding: 0; }
 
-body { font-family: "Crimson Text", serif; background-color: white; background-image: url("treebg_1.png"); background-position: center; background-attachment: fixed; background-repeat: no-repeat; }
+body { font-family: "Crimson Text", serif; background-color: white; }
 
 .body-wrap { display: flex; min-height: 100vh; flex-direction: column; }
 
 .page-content { flex: 1; }
 
-.wrapper { width: 85%; margin: 0 auto; }
+.wrapper { width: 85%; margin-left: 130px; }
 
 a { color: black; }
 a:visited { color: black; }
-a:hover { color: #A7B3A5; }
+a:hover { color: #656952; }
