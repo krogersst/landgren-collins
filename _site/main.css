@@ -1,6 +1,8 @@
-.home-flex { display: flex; justify-content: space-between; }
+.home-flex { display: flex; justify-content: space-around; align-items: center; }
 
 .home-image { max-height: 500px; }
+
+.home-para { max-width: 800px; }
 
 /**
 * Person
