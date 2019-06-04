@@ -1,0 +1,71 @@
+.instructions {
+  font-family: sans-serif;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+#flex-tree {
+  display: flex;
+  width: $doc-width;
+}
+
+#large-tree {
+  background: white;
+  border: 2px solid #D79922;
+}
+
+#tree-info {
+  background: #EFE2BA;
+  margin-left: 10px;
+  width: 400px;
+}
+
+#tree-info h2 {
+  text-align: center;
+  margin-top: 5px;
+  color: #D79922;
+}
+
+#tree-info .legend-name {
+  color: black;
+  margin: 10px;
+  font-family: sans-serif;
+}
+
+.d3-tip {
+  line-height: 1;
+  padding: 5px;
+  background: rgba(0, 0, 0, 0.8);
+  font-family: sans-serif;
+  font-size: 12px;
+  color: #fff;
+  border-radius: 2px;
+}
+
+.d3-tip p {
+  margin: 5px;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.8);
+  content: "\25BC";
+  position: absolute;
+  text-align: center;
+}
+
+/* Style northward tooltips differently */
+.d3-tip.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}
+
+.node {
+  font: 12px sans-serif;
+}
