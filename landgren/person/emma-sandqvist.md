@@ -37,6 +37,16 @@ burial_place: Scandinavian Cemetery, Rockford, Winnebago County, Illinois
 burial_place_ref1: "11"
 references: "emma-ref.html"
 ---
+MAP: 12-SOS avs11 - Malmöhus - Malmo - 1887-08-27 - Secretion - 11
+[Kvarnby #7](https://historiskakartor.lantmateriet.se/arken/s/show.html?showmap=true&archive=REG&nbOfImages=11&sd_base=lm12&sd_ktun=000347xm&mdat=20170712204749036879&p=2)
+
+
+MAP: 12 SOS 85 - Malmöhus - Malmo - 1908-11-06 - Hemmansklyvning - 18
+[Kvarnby #7](https://historiskakartor.lantmateriet.se/arken/s/show.html?showmap=true&archive=REG&nbOfImages=18&sd_base=lm12&sd_ktun=0003481g&mdat=20170712201947056561)
+
+MAP: 12 SOS 86 - Malmöhus - Malmo - 1910-02-24 - Ägostyckning - 18
+[Kvarnby #7](https://historiskakartor.lantmateriet.se/arken/s/show.html?showmap=true&archive=REG&nbOfImages=18&sd_base=lm12&sd_ktun=0003481h&mdat=20170712195822906894)
+
 
 Emma Sandqvist was born in Qvarnby #7, Södra Sallerup, Malmöhus on December 31st, 1889 <sup>([1](#1))</sup>. The family lived in Qvarnby #7 from 1889 to 1895 <sup>([2A](#2A))</sup> before they moved to Tullstorp #4 <sup>([2B](#2B))</sup>. Emma lived with her family in Tullstorp until 1906 <sup>([2B](#2B), [2C](#2C), [2D](#2D))</sup> when she married [Nils Peter Landgren]({{ "/landgren/person/nils-landgren" | relative_url }}) less than a month after he had arrived in Tullstorp on the 12th of April <sup>([2D](#2D), [3](#3))</sup>. The same day as their marriage they are recorded as leaving Södra Sallerup and moving to Limhamn village/farm in the parish of Hyllie <sup>([2D](#2D))</sup>.
 
