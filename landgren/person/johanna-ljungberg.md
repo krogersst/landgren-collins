@@ -4,29 +4,50 @@ person_name: Johanna Ljungberg
 permalink: /landgren/person/johanna-ljungberg
 born: April 23, 1848
 born_ref1: "1"
-birthplace: Bara, Malmöhus (Skåne), Sverige (Sweden)
+born_ref2: "2"
+born_ref3: "3"
+born_ref4: "4"
+born_ref5: "5"
+birthplace: Torup, Bara, Malmöhus (Skåne), Sverige (Sweden)
 birthplace_ref1: "1"
+birthplace_ref2: "3"
 mother: Boel Andersdotter
 mother_ref1: "1"
+morther_ref2: "3"
 father: Peter Ljungberg
 father_ref1: "1"
+father_ref2: "3"
 husband: Lars Nilsson Lindgren
 husband_ref1: "2"
+husband_ref2: "3"
+husband_ref3: "4"
 married: December 30, 1879
 married_ref1: "2"
 married_ref2: "3"
+married_ref3: "4"
 marriage_place: Bara, Malmöhus (Skåne), Sverige (Sweden)
 marriage_place_ref2: "2"
 marriage_place_ref1: "3"
+marriage_place_ref3: "4"
 descendant: Nils Peter Landgren
-descendant_ref1: "6"
+descendant_ref1: "2"
+descendant_ref2: "3"
 death: June 13, 1902
-death_ref1: "10"
+death_ref1: "2"
+death_ref2: "5"
 death_place: Bara, Malmöhus (Skåne), Sverige (Sweden)
-death_place_ref1: "10"
+death_place_ref1: "2"
+death_place_ref2: "5"
 burial_place: Unknown
 burial_ref1: "?"
 references: "johanna-ljungberg-ref.html"
 ---
+Johanna's father, [Peter Ljungberg]({{ "/landgren/person/peter-ljungberg" | relative_url }}), died when she was seven. After this, the family moves to Tromberga, Bara in 1858 <sup>([3B](#3B))</sup>. 
 
-In her death record, she is listed as the wife of a "husman" or farmer (specifically in the style of small scale tenure farming or "crofter") <sup>([4](#4))</sup>. Husfolk would usually owned their house but not the land they farmed. Her cause of death is quite surprising once I attempted to translate it. The first word is possibly "olyckshändelse" which means an accident or incident. The second word is possibly "vådaskott" which means a shot that hits an unwanted target. The third word or set of words is a little more difficult to parse. It seems to imply some sort of unlawful activity, with the beginning portion  but I can't figure out a more concrete translation. Source: [Legal Terms Swedish-English Dictionary (pdf)](http://www.domstol.se/Publikationer/Ordlista/svensk-engelsk_ordlista.pdf)
+From 1862 to 1866 the family is living with Henrick Larsson in Tranberga-gard No. 10. Johanna is listed as his wife's daughter. She moves in 1866 to Barahus to live by herself <sup>([3?](#3?))</sup>. She is listed as "inhyses" or a lodger, usually one living cost free. But there isn't an indication of who she is living with. She returns to live with her mother on the 6th of November, 1869 <sup>([3?](#3?))</sup>.
+
+The entire family moves back to Torupshus on the 9th of November, 1874 <sup>([3?](#3?))</sup>.
+
+They are now living with Henrick Larsson, and Johanna is expressly identified as Boel's daughter from a different husband. Additionally, Karna Mathilda, is listed as Johanna's daughter, born on the 2nd of December, 1878 <sup>([3?](#3?))</sup>. She is born one year before Johanna's marriage to Lars Nilsson Landgren on the 30th of December, 1879 <sup>([4](#4))</sup>. Lars doesn't officially move to Torupshus until November, and he had previously been living in Munkarp, around 60 km away <sup>([3?](#3?))</sup>. Three years later they have [Nils Peter]({{ "/landgren/person/nils-landgren" | relative_url }}).
+
+Lars and Johanna continue to live in Torupshus until their deaths. Lars dies on the 12th of November, 1890 <sup>([2A](#2A))</sup>, and two years later, Johanna dies on the 13th of June, 1902 <sup>([2B](#2B), [5](#5))</sup>. In her death record, she is listed as the wife of a "husman" or farmer, specifically in the style of small scale tenure farming or "crofter" <sup>([5](#5))</sup>. As such, husfolk usually owned their house but not the land they farmed. Her cause of death is quite surprising once I attempted to translate it. The first word is possibly "olyckshändelse" which means an accident or incident. The second word is possibly "vådaskott" which means a shot that hits an unwanted target. The third word or set of words is a little more difficult to parse. It seems to imply some sort of unlawful activity, with the beginning portion  but I can't figure out a more concrete translation. Source: [Legal Terms Swedish-English Dictionary (pdf)](http://www.domstol.se/Publikationer/Ordlista/svensk-engelsk_ordlista.pdf)
