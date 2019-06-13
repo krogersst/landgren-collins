@@ -65,7 +65,6 @@ permalink: /landgren/lineage/
 - <a class="bare-link" id="5F">5F</a>. [Emma Olsson Sandqvist] <sup>([5D], [5E])</sup> and
   - [8A]. [Nils Peter Landgren] <sup>([5B], [4C])</sup>
 
-
 [6A]: #6A
 [7A]: #7A
 [8A]: #8A

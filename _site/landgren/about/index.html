@@ -5,13 +5,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>About</title>
+  <title>About The Landgren Family</title>
   <meta name="description" content="">
 
   <link href="https://fonts.googleapis.com/css?family=Noto+Sans+HK|Crimson+Text&display=swap" rel="stylesheet">
 
   <link rel="stylesheet" href="/main.css">
-  <link rel="canonical" href="http://localhost:4000/about/">
+  <link rel="canonical" href="http://localhost:4000/landgren/about/">
   <link rel="alternate" type="application/rss+xml" title="Landgren and Collins Lineages" href="/feed.xml">
 
 </head>
@@ -41,9 +41,30 @@
 
   <main class="page-content" aria-label="Content">
     <div class="wrapper">
-      <p>I began this project to follow my grandmother’s Swedish lineage as far back as I could. I was able to push into the 1600s, and I believe I will be able to fill out this particular tree as time goes on as Swedish records are continually being digitized. I could not have predicted that I would have uncovered so much, nor that her non-Swedish side would reveal itself to be so storied as there was little previously known of them. Her mother, Roberta Collins, can trace her roots to the founding of America. In fact, one of her direct ancestors includes the first President of Rhode Island. She does have more recent immigrant ancestors that follow the same pattern as the Swedish ancestors of her husband, Erick Landgren. Gottfried and Dora Juhnke immigrated in the mid to late 1800s from Poland.</p>
+      <p>An overview of the family!</p>
 
-<p>As I have focused on tracing direct lines, I have provided very little information on siblings. If I find the time, I may start to fill out that information. However, I have provided sources for every piece of information listed, many of which list siblings/children as well as neighbors in the case of censuses and household examinations.</p>
+<div id="tree-container">
+  <div id="flex-tree">
+
+    <div id="large-tree"></div>
+
+    <div id="tree-info">
+      <h2>More Information</h2>
+      <p>Scroll-to-zoom and pan enabled, hover or click for more information!</p>
+      <button>reset</button>
+      <div id="clickinfo"></div>
+    </div>
+
+  </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.2/d3.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.9.1/d3-tip.min.js"></script>
+
+<script src="/assets/js/landgrentree.js"></script>
+
+<p>To the <a href="/landgren/lineage/">index</a>!</p>
 
     </div>
   </main>

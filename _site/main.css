@@ -1,8 +1,12 @@
-.home-flex { display: flex; justify-content: space-around; align-items: center; }
+.home-flex { display: flex; justify-content: center; align-items: center; }
 
-.home-image { max-height: 500px; }
+.home-image { max-height: 600px; }
 
-.home-para { max-width: 800px; }
+.home-info { min-width: 800px; }
+.home-info .giant-header { font-size: 100px; color: #006400; }
+.home-info h1 { margin-bottom: 40px; margin-top: -25px; text-align: right; }
+
+#tree-container { margin-bottom: 20px; }
 
 /**
 * Person
@@ -13,11 +17,13 @@
 
 .person-flex { display: flex; justify-content: flex-start; }
 
-.person-info { width: 30%; margin-right: 10px; padding: 10px; background-color: #D7AA5F; }
+.person-info { width: 30%; margin-right: 10px; padding: 10px; border-right: black 2px solid; border-top: black 2px solid; }
 
 .person-photo { max-width: 400px; }
 
 .person-content { width: 70%; padding: 10px; background-color: rgba(255, 255, 255, 0.75); }
+.person-content p { margin-bottom: 10px; }
+.person-content img { max-width: 600px; }
 
 #references { margin-top: 10px; padding: 10px; background-color: rgba(255, 255, 255, 0.75); }
 #references p { margin-top: 10px; }
@@ -38,8 +44,6 @@
 .site-header, .site-footer { width: 85%; margin: 0 auto; padding-top: 10px; padding-bottom: 10px; font-size: 20px; }
 .site-header a, .site-header:visited, .site-header:hover, .site-footer a, .site-footer:visited, .site-footer:hover { text-decoration: none; }
 
-.site-header { margin-bottom: 20px; }
-
 .site-footer { margin-top: 20px; }
 
 .nav-header { display: flex; justify-content: space-between; }
@@ -48,6 +52,8 @@
 
 /** Reset some basic elements */
 body, h1, h2, h3, h4, h5, h6, p, pre, hr, dl, dd, figure { margin: 0; padding: 0; }
+
+h1 { font-size: 40px; }
 
 body { font-family: "Crimson Text", serif; background-color: white; }
 
@@ -59,4 +65,28 @@ body { font-family: "Crimson Text", serif; background-color: white; }
 
 a { color: black; }
 a:visited { color: black; }
-a:hover { color: #656952; }
+a:hover { color: #006400; }
+
+.instructions { font-family: "Crimson Text", serif; padding-bottom: 10px; padding-top: 10px; }
+
+#flex-tree { display: flex; width: 100%; }
+
+#large-tree { background: white; border: black 2px solid; padding: 5px; }
+
+#tree-info { width: 250px; margin-left: 10px; }
+
+#tree-info h2 { margin-top: 2px; }
+
+#tree-info .legend-name { margin-top: 10px; font-family: "Crimson Text", serif; }
+
+.d3-tip { line-height: 1; padding: 5px; background: rgba(0, 0, 0, 0.8); font-family: "Crimson Text", serif; font-size: 14px; color: #fff; border-radius: 2px; }
+
+.d3-tip p { margin: 5px; }
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after { box-sizing: border-box; display: inline; font-size: 10px; width: 100%; line-height: 1; color: rgba(0, 0, 0, 0.8); content: "\25BC"; position: absolute; text-align: center; }
+
+/* Style northward tooltips differently */
+.d3-tip.n:after { margin: -1px 0 0 0; top: 100%; left: 0; }
+
+.node { font: 16px "Noto Sans HK", sans-serif; }

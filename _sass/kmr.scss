@@ -6,7 +6,7 @@ $background-color: white;
 $header-color: #D7AA5F;
 $text-accent: white;
 $link-color: black;
-$hover-color: #656952;
+$hover-color: #006400;
 $person-color: rgba(255, 255, 255, 0.75);
 //rgba(180, 219, 192, 0.75);
 // default spacing
@@ -17,6 +17,7 @@ $doc-width: 85%;
 // default fonts
 
 $body-text: 'Crimson Text', serif;
+$header-text: 'Noto Sans HK', sans-serif;
 
 // Import partials.
 
@@ -24,5 +25,5 @@ $body-text: 'Crimson Text', serif;
   "kmr/layout",
   "kmr/header",
   "kmr/base",
-  "kms/tree"
+  "kmr/tree"
 ;
