@@ -31,7 +31,7 @@
 */
 
 .person-page {
-  margin-top: 46px;
+  margin-top: 60px;
 }
 
 .person-name {
@@ -39,7 +39,8 @@
   font-weight: bold;
   position: absolute;
   z-index: 1;
-  top: 57px;
+  top: 53px;
+  color: #006400;
 }
 
 .person-flex {
@@ -52,7 +53,6 @@
   margin-right: 10px;
   padding: 10px;
   border-right: black 2px solid;
-  border-top: black 2px solid;
 }
 
 .person-photo {
