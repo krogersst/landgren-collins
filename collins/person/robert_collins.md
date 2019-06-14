@@ -44,6 +44,4 @@ Robert Collins was born in Milton, Wisconsin on the 6th of September, 1885 <sup>
 
 By 1920, they are living at 714 Chestnut in Rockford and Robert is still working at the same job <sup>([6](#6), [7](#7))</sup>. By 1924, they have moved to 1019 Peach, Rockford <sup>([7](#7))</sup>. A gap in records I have been able to find so far exists, but by 1935 he has married Minnie M. Brown from Missouri, and now lives at 1116 2nd Avenue. They live at this address for at least a decade <sup>([7](#7))</sup>. In 1942, he is registered in World War II in the Fourth Registration, also called the "Old Man's Draft," because it registered men who were 45 to 64 years old (from Fold3.com). His card records his employer as Mansfried Carlin at 306 7th St., Rockford. His hair has since gone gray according to the card <sup>([10](#10))</sup>.
 
-In October 1976 Robert Collins dies in Rockford, Illinois. The only record I can find is his 
-
-
+In October 1976 Robert Collins dies in Rockford, Illinois. The only record I can find for his death is his Social Security Death Index entry <sup>([11](#11))</sup> which gives his date of death only as specific as the month.
