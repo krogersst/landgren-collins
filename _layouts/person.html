@@ -63,7 +63,7 @@ layout: default
   </p>
   {% endif %}
 
-  <p><strong>Mother: </strong>{{ page.mother | escape }} <sup
+    <p><strong>Mother: </strong><a href="{% link {{ page.mother_link | escape }} %}">{{ page.mother | escape }}</a> <sup
     >(<a href="#{{ page.mother_ref1 | escape }}">{{ page.mother_ref1 | escape }}</a
       >{% if page.mother_ref2 %}, <a href="#{{ page.mother_ref2 | escape }}">{{ page.mother_ref2 | escape }}</a
       >{% endif
@@ -76,7 +76,7 @@ layout: default
     >
   </p>
 
-  <p><strong>Father: </strong>{{ page.father | escape }} <sup
+  <p><strong>Father: </strong><a href="{% link {{ page.father_link | escape }} %}">{{ page.father | escape }}</a> <sup
     >(<a href="#{{ page.father_ref1 | escape }}">{{ page.father_ref1 | escape }}</a
       >{% if page.father_ref2 %}, <a href="#{{ page.father_ref2 | escape }}">{{ page.father_ref2 | escape }}</a
       >{% endif
@@ -90,7 +90,7 @@ layout: default
   </p>
 
   {% if page.wife %}
-  <p><strong>Wife: </strong>{{ page.wife | escape }} <sup
+    <p><strong>Wife: </strong><a href="{% link {{ page.wife_link | escape }} %}">{{ page.wife | escape }}</a> <sup
     >(<a href="#{{ page.wife_ref1 | escape }}">{{ page.wife_ref1 | escape }}</a
       >{% if page.wife_ref2 %}, <a href="#{{ page.wife_ref2 | escape }}">{{ page.wife_ref2 | escape }}</a
       >{% endif
@@ -109,7 +109,7 @@ layout: default
   {% endif %}
 
   {% if page.husband %}
-  <p><strong>Husband: </strong>{{ page.husband | escape }} <sup
+  <p><strong>Husband: </strong><a href="{% link {{ page.husband_link | escape }} %}">{{ page.husband | escape }}</a> <sup
     >(<a href="#{{ page.husband_ref1 | escape }}">{{ page.husband_ref1 | escape }}</a
       >{% if page.husband_ref2 %}, <a href="#{{ page.husband_ref2 | escape }}">{{ page.husband_ref2 | escape }}</a
       >{% endif
@@ -154,7 +154,7 @@ layout: default
   </p>
   {% endif %}
 
-  <p><strong>Direct Descendant: </strong>{{ page.descendant | escape }} <sup
+  <p><strong>Direct Descendant: </strong><a href="{% link {{ page.descendant_link | escape }} %}">{{ page.descendant | escape }}</a> <sup
     >(<a href="#{{ page.descendant_ref1 | escape }}">{{ page.descendant_ref1 | escape }}</a
       >{% if page.descendant_ref2 %}, <a href="#{{ page.descendant_ref2 | escape }}">{{ page.descendant_ref2 | escape }}</a
       >{% endif
