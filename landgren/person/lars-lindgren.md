@@ -14,7 +14,9 @@ father_link: /landgren/person/lars-lindgren
 father_ref1: "1"
 wife: Johanna Ljungberg
 wife_link: /landgren/person/johanna-ljungberg
-wife_ref_1:
+wife_ref_1: "2"
+wife_ref_2: "3"
+wife_ref_3: "4"
 married: December 30, 1879
 married_ref1: "2"
 married_ref2: "3"
