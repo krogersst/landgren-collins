@@ -12,10 +12,13 @@ baptised_ref1: "1"
 baptismal_place: Evangelische Kirche Nakel, Nakło nad Notecią, Kuyavian-Pomeranian Voivodeship, Poland
 baptismal_place_ref1: "1"
 mother: Marie Juhnke
+mother_link: /collins/person/gottfried-juhnke
 mother_ref1: "1"
 father: Michael Juhnke
+father_link: /collins/person/gottfried-juhnke
 father_ref1: "1"
 wife: Dorothea Draeger
+wife: /collins/person/dorothea-draeger
 wife_ref1: "2"
 wife_ref2: "3"
 wife_ref3: "4"
@@ -24,6 +27,7 @@ married_ref1: "2"
 marriage_place: Evangelische Kirche Nakel, Nakło nad Notecią, Kuyavian-Pomeranian Voivodeship, Poland
 marriage_place_ref1: "2"
 descendant: Paulina Juhnke
+descendant_link: /collins/person/paulina-juhnke
 descendant_ref1: "3"
 descendant_ref2: "4"
 death: Unknown
