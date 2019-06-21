@@ -16,6 +16,7 @@ father: possibly Arnold Collins
 father_link: /collins/person/milo-collins
 father_ref1: "3"
 wife: Rebecca Green
+wife_link: /collins/person/rebecca-green
 wife_ref1: "1"
 wife_ref2: "2"
 wife_ref3: "3"
