@@ -1,7 +1,6 @@
 ---
 layout: person
 person_name: Emma Olsson Sandqvist
-permalink: /landgren/person/emma-sandqvist
 born: December 31, 1889
 born_ref1: "1"
 born_ref2: "2"
