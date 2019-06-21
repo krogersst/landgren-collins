@@ -25,11 +25,12 @@ body {
 
 .page-content {
   flex: 1;
+  display: flex;
 }
 
 .wrapper {
   width: 85%;
-  margin-left: 130px;
+  margin: auto;
 }
 
 a {
