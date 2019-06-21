@@ -13,8 +13,8 @@ permalink: /landgren/lineage/
 - 5A. Karna Hindriksdotter and Anders Carlsson (parents: Carl Staffenson and Anna Hansdotter)
 - <a class="bare-link" id="6A">6A</a>. Boel Andersdotter and
   - [3B]. Peter Ljungberg
-- <a class="bare-link" id="7A">7A</a>. Johanna Ljungberg <sup>([4B])</sup> and
-  - [3C]. Lars Landgren
+- <a class="bare-link" id="7A">7A</a>. [Johanna Ljungberg] <sup>([4B])</sup> and
+  - [3C]. [Lars Landgren]
 - <a class="bare-link" id="8A">8A</a>. [Nils Peter Landgren] <sup>([5B], [4C])</sup> and
   - [5D]. [Emma Olsson Sandqvist] <sup>([5E], [5F])</sup>
 
@@ -23,16 +23,16 @@ permalink: /landgren/lineage/
 - 2B. Johannes Ljungberg and Ingar Jonsdotter (parents: Jon Olsson and ??? Boelsdotter)
 - <a class="bare-link" id="3B">3B</a>. Peter Ljungberg and
   - [6A]. Boel Andersdotter
-- <a class="bare-link" id="4B">4B</a>. Johanna Ljungberg <sup>([7A])</sup> and
-  - [3C]. Lars Landgren
+- <a class="bare-link" id="4B">4B</a>. [Johanna Ljungberg] <sup>([7A])</sup> and
+  - [3C]. [Lars Landgren]
 - <a class="bare-link" id="5B">5B</a>. [Nils Peter Landgren] <sup>([8A], [4C])</sup> and
   - [5D]. [Emma Olsson Sandqvist] <sup>([5E], [5F])</sup>
 
 ### Persson and Mansdotter Descendants
 - 1C. Jons Persson and Pernilla Mansdotter
 - 2C. Nils Johnsson and Hans Nilsdotter
-- <a class="bare-link" id="3C">3C</a>. Lars Landgren and
-  - [7A]. Johanna Ljungberg <sup>([4B])</sup>
+- <a class="bare-link" id="3C">3C</a>. [Lars Landgren] and
+  - [7A]. [Johanna Ljungberg] <sup>([4B])</sup>
 - <a class="bare-link" id="4C">4C</a>. [Nils Peter Landgren] <sup>([8A], [5B])</sup> and
   - [5D]. [Emma Olsson Sandqvist] <sup>([5E], [5F])</sup>
 
@@ -83,3 +83,5 @@ permalink: /landgren/lineage/
 
 [Emma Olsson Sandqvist]: {{ "/landgren/person/emma-sandqvist" | relative_url }}
 [Nils Peter Landgren]: {{ "/landgren/person/nils-landgren" | relative_url }}
+[Johanna Ljungberg]: {{ "/landgren/person/johanna-ljungberg" | relative_url }}
+[Lars Landgren]: {{ "/landgren/person/lars-lindgren" | relative_url }}
