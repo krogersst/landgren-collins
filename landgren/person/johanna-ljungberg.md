@@ -12,12 +12,15 @@ birthplace: Torup, Bara, Malmöhus (Skåne), Sverige (Sweden)
 birthplace_ref1: "1"
 birthplace_ref2: "3"
 mother: Boel Andersdotter
+mother_link: /landgren/person/johanna-ljungberg
 mother_ref1: "1"
 morther_ref2: "3"
 father: Peter Ljungberg
+father_link: /landgren/person/johanna-ljungberg
 father_ref1: "1"
 father_ref2: "3"
 husband: Lars Nilsson Lindgren
+husband_link: /landgren/person/lars-lindgren
 husband_ref1: "2"
 husband_ref2: "3"
 husband_ref3: "4"
@@ -30,6 +33,7 @@ marriage_place_ref2: "2"
 marriage_place_ref1: "3"
 marriage_place_ref3: "4"
 descendant: Nils Peter Landgren
+descendant_link: /landgren/person/nils-landgren
 descendant_ref1: "2"
 descendant_ref2: "3"
 death: June 13, 1902
