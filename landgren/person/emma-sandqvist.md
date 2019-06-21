@@ -13,10 +13,13 @@ baptised_ref1: "1"
 baptismal_place: No. 7 Qvarnby, Södra Sallerup, Malmöhus (Skåne), Sverige (Sweden)
 baptismal_place_ref1: "1"
 mother: Anna Nilsdotter
+mother_link: /landgren/person/emma-sandqvist
 mother_ref1: "1"
 father: Jöns Olsson Landqvist
+father_link: /landgren/person/emma-sandqvist
 father_ref1: "1"
 husband: Nils Peter Landgren
+husband_link: /landgren/person/nils-landgren
 husband_ref1: "3"
 husband_ref2: "6"
 husband_ref3: "9"
@@ -26,6 +29,7 @@ married_ref1: "3"
 marriage_place: Tullstorp 4, Södra Sallerup, Malmöhus (Skåne), Sverige (Sweden)
 marriage_place_ref1: "3"
 descendant: Erick Landgren
+descendant: /landgren/person/emma-sandqvist
 descendant_ref1: "6"
 death: August 16, 1949
 death_ref1: "8"
