@@ -9,7 +9,7 @@
 }
 
 .home-info {
-  min-width: 800px;
+  max-width: 800px;
   .giant-header {
     font-size: 100px;
     color: #006400;
@@ -19,11 +19,6 @@
     margin-top: -25px;
     text-align: right;
   }
-}
-
-#tree-container {
-  //margin-top: 70px;
-  margin-bottom: 20px;
 }
 
 /**
