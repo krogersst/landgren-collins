@@ -10,19 +10,23 @@ birthplace_ref1: "1"
 birthplace_ref2: "4"
 birthplace_ref3: "5"
 mother: Sarah Peckham
+mother_link: /collins/person/rebecca-green
 mother_ref1: "1"
 mother_ref2: "4"
 mother_ref3: "5"
 father: Edward Green
+father_link: /collins/person/edward-green
 father_ref1: "1"
 father_ref2: "4"
 father_ref3: "5"
 husband: Milo Collins
+husband_link: /collins/person/milo-collins
 husband_ref1: "2"
 husband_ref2: "3"
 husband_ref3: "4"
 husband_ref4: "5"
 descendant: Frank Collins
+descendant_link: /collins/person/frank-collins
 descendant_ref1: "2"
 descendant_ref2: "3"
 descendant_ref3: "4"
