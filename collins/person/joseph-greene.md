@@ -7,14 +7,17 @@ born_ref1: "1"
 birthplace: Warwick, Kent County, Rhode Island*
 birthplace_ref1: "1"
 mother: Mary Aylesworth
+mother_link: /collins/person/joseph-greene
 mother_ref1: "1"
 mother_ref2: "3"
 mother_ref3: "4"
 father: John Greene
+father_link: /collins/person/joseph-greene
 father_ref1: "1"
 father_ref2: "3"
 father_ref3: "4"
 wife: Margaret Greenman
+wife_link: /collins/person/joseph-greene
 wife_ref1: "1"
 wife_ref2: "3"
 wife_ref3: "4"
@@ -23,6 +26,7 @@ married_ref1: "3"
 marriage_place: Westerly, Washington County, Rhode Island
 marriage_place_ref1: "3"
 descendant: Edward Greene
+descendant_link: /collins/person/edward-greene
 descendant_ref1: "1"
 descendant_ref2: "3"
 death: January 11, 1796+
