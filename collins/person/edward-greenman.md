@@ -11,18 +11,20 @@ baptised_ref1: "1"
 baptismal_place: Location
 baptismal_place_ref1: "1"
 mother: FirstName LastName REQUIRED
+mother_link: /collins/person/edward-greenman
 mother_ref1: "1"
 father: FirstName LastName REQUIRED
+father_link: /collins/person/edward-greenman
 father_ref1: "1"
 wife: FirstName LastName
+wife_link: /collins/person/edward-greenman
 wife_ref1: "1"
-husband: FirstName LastName
-husband_ref1: FirstName LastName
 married: May 11, 1721
 married_ref1: "1"
 marriage_place: Charlestown, Rhode Island
 marriage_place_ref1: "1"
 descendant: FirstName LastName REQUIRED
+descendant_link: /collins/person/edward-greenman
 descendant_ref1: "1"
 death: Month Day, Year REQUIRED
 death_ref1: "1"
