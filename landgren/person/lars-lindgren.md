@@ -7,10 +7,13 @@ born_ref1: "1"
 birthplace: Höör, Malmöhus (Skåne), Sverige (Sweden)
 birthplace_ref1: "1"
 mother: Hanna Nilsdotter
+mother_link: /landgren/person/lars-lindgren
 mother_ref1: "1"
 father: Nils Johnsson
+father_link: /landgren/person/lars-lindgren
 father_ref1: "1"
 wife: Johanna Ljungberg
+wife_link: /landgren/person/johanna-ljungberg
 wife_ref_1:
 married: December 30, 1879
 married_ref1: "2"
@@ -21,6 +24,7 @@ marriage_place_ref2: "2"
 marriage_place_ref1: "3"
 marriage_place_ref3: "4"
 descendant: Nils Peter Landgren
+descendant_link: /landgren/person/nils-landgren
 descendant_ref1: "2"
 descendant_ref2: "3"
 death: June 13, 1902
