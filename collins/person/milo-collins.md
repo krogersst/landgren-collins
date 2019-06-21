@@ -10,14 +10,17 @@ birthplace: New York
 birthplace_ref1: "1"
 birthplace_ref2: "2"
 mother: unconfirmed
+mother_link: /collins/person/milo-collins
 mother_ref1: "3"
 father: possibly Arnold Collins
+father_link: /collins/person/milo-collins
 father_ref1: "3"
 wife: Rebecca Green
 wife_ref1: "1"
 wife_ref2: "2"
 wife_ref3: "3"
 descendant: Frank Collins
+descendant_link: /collins/person/frank-collins
 descendant_ref1: "1"
 descendant_ref2: "2"
 descendant_ref3: "3"
