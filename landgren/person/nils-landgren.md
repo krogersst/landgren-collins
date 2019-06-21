@@ -7,10 +7,13 @@ born_ref1: "1"
 birthplace: Torupshus, Bara, Malmöhus (Skåne), Sverige (Sweden)
 birthplace_ref1: "1"
 mother: Johanna Ljungberg
+mother_link: /landgren/person/johanna-ljungberg
 mother_ref1: "1"
-father: Lars Landgren
+father: Lars Lindgren
+father_link: /landgren/person/lars-lindgren
 father_ref1: "1"
-wife: Emma Sandqvist
+wife: Emma Olsson Sandqvist
+wife_link: /landgren/person/emma-sandqvist
 wife_ref1: "2"
 wife_ref2: "6"
 wife_ref3: "7"
@@ -22,6 +25,7 @@ marriage_place: Tullstorp 4, Södra Sallerup, Malmöhus (Skåne), Sverige (Swede
 marriage_place_ref2: "2"
 marriage_place_ref1: "3"
 descendant: Erick Landgren
+descendant_link: /landgren/person/nils-landgren
 descendant_ref1: "6"
 death: March 18, 1956
 death_ref1: "10"
