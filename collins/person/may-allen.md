@@ -9,14 +9,17 @@ birthplace: Rockford, Winnebago County, Illinois
 birthplace_ref1: "7"
 birthplace_ref2: "8"
 mother: Sarah Sheffield
+mother_link: /collins/person/sarah-sheffield
 mother_ref1: "1"
 mother_ref2: "7"
 mother_ref3: "8"
 father: William Allen
+father_link: /collins/person/william-allen
 father_ref1: "1"
 father_ref2: "7"
 father_ref3: "8"
 husband: Robert Collins
+husband_link: /collins/person/robert-collins
 husband_ref1: "2"
 husband_ref2: "3"
 husband_ref3: "4"
@@ -25,6 +28,7 @@ married_ref1: "2"
 marriage_place: Lake County, Indiana
 marriage_place_ref1: "2"
 descendant: Roberta Collins
+descedant_link: /collins/person/may-allen
 descendant_ref1: "3"
 death: November 21, 1934
 death_ref1: "7"
