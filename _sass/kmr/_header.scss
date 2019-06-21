@@ -1,7 +1,6 @@
 
 .site-header, .site-footer {
-  width: $doc-width;
-  margin: 0 auto;
+  width: 100%;
   padding: {
     top: 10px;
     bottom: 10px;
@@ -13,11 +12,19 @@
   font-size: 20px;
 }
 
+.site-header {
+  border-bottom: black 2px solid;
+  margin-bottom: 20px;
+}
+
 .site-footer {
+  border-top: black 2px solid;
   margin-top: 20px;
 }
 
 .nav-header {
+  width: $doc-width;
+  margin: 0 auto;
   display: flex;
   justify-content: space-between;
 }
