@@ -10,14 +10,17 @@ birthplace: Westerly, Washington County, Rhode Island
 birthplace_ref1: "5"
 birthplace_ref2: "6"
 mother: Margaret Greenman
+mother_link: /collins/person/joseph-greene
 mother_ref1: "1"
 mother_ref2: "5"
 mother_ref3: "6"
 father: Joseph Greene
+father_link: /collins/person/joseph-greene
 father_ref1: "1"
 father_ref2: "5"
 father_ref3: "6"
 wife: Huldah Sweet
+wife_link: /collins/person/judge-edward-greene
 wife_ref1: "5"
 wife_ref2: "6"
 married: probably 1778
@@ -25,6 +28,7 @@ married_ref1: "5"
 marriage_place: probably Rhode Island
 marriage_place_ref1: "5"
 descendant: Edward Green(e) (Jr.)
+descendant_link: /collins/person/edward-green
 descendant_ref1: "4"
 descendant_ref2: "5"
 descendant_ref3: "6"
