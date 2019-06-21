@@ -13,14 +13,17 @@ birthplace_ref2: "8"
 birthplace_ref3: "10"
 birthplace_ref4: "11"
 mother: Paulina Juhnke
+mother_link: /collins/person/paulina-juhnke
 mother_ref1: "1"
 mother_ref2: "2"
 mother_ref3: "3"
 father: Frank Collins
+father_link: /collins/person/frank-collins
 father_ref1: "1"
 father_ref2: "2"
 father_ref3: "3"
 wife: May Allen
+wife_link: /collins/person/may-allen
 wife_ref1: "4"
 wife_ref2: "5"
 wife_ref3: "6"
@@ -30,6 +33,7 @@ married_ref1: "4"
 marriage_place: Lake County, Indiana
 marriage_place_ref1: "4"
 descendant: Roberta Collins
+descendant_link: /collins/person/robert-collins/
 descendant_ref1: "8"
 death: October 1978
 death_ref1: "11"
