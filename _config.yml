@@ -16,7 +16,7 @@
 title: Landgren and Collins Lineages
 email: krogers.st@gmail.com
 description: ""
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/landgren-collins" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: krogersst
 github_username:  krogersst
