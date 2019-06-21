@@ -7,12 +7,15 @@ born_ref1: "1"
 birthplace: North Kingstown, Washington County, Rhode Island
 birthplace_ref1: "1"
 mother: Joan ????
+mother_link: /collins/person/benjamin-greene.md
 mother_ref1: "1"
 mother_ref2: "2"
 father: John Greene
+father_link: /collins/person/john-greene.md
 father_ref1: "1"
 father_ref2: "2"
 wife: Humility Coggeshall
+wife_link: /collins/person/humility-coggeshall.md
 wife_ref1: "1"
 wife_ref2: "2"
 married: about 1687
@@ -20,6 +23,7 @@ married_ref1: "1"
 marriage_place: Unknown
 marriage_place_ref1: "1"
 descendant: John "White Hat" Greene
+descendant_link: /collins/person/john-whitehat-greene.md
 descendant_ref1: "1"
 descendant_ref2: "2"
 death: Winter of 1718-19
