@@ -12,10 +12,13 @@ birthplace_ref4: "4"
 birthplace_ref5: "5"
 birthplace_ref6: "6"
 mother: unconfirmed
+mother_link: /collins/person/william-allen
 mother_ref1: "6"
 father: George Allen
+father_link: /collins/person/william-allen
 father_ref1: "3"
 wife: Sarah Sheffield
+wife_link: /collins/person/sarah-sheffield
 wife_ref1: "1"
 wife_ref2: "2"
 wife_ref3: "3"
@@ -26,6 +29,7 @@ married_ref1: "2"
 marriage_place: "unknown"
 marriage_place_ref1: "?"
 descendant: May Allen
+descendant: /collins/person/may-allen
 descendant_ref1: "2"
 death: April 22, 1941
 death_ref1: "3"
