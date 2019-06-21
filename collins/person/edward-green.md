@@ -7,12 +7,15 @@ born_ref1: "5"
 birthplace: Jefferson County, New York
 birthplace_ref1: "5"
 mother: Huldah Sweet
+mother_link: /collins/person/huldah-sweet
 mother_ref1: "5"
 mother_ref2: "6"
 father: Judge Edward Greene
+father_link: /collins/person/judge-edward-greene
 father_ref1: "5"
 father_ref2: "6"
 wife: Sarah Peckham
+wife_link: /collins/person/sarah-peckham
 wife_ref1: "1"
 wife_ref2: "5"
 wife_ref3: "6"
@@ -21,6 +24,7 @@ married_ref1: "5"
 marriage_place: Almond, Allegany County, New York
 marriage_place_ref1: "5"
 descendant: Rebecca Green
+descendant_link: /collins/person/rebecca-green
 descendant_ref1: "1"
 descendant_ref2: "5"
 death: 20 November, 1870
