@@ -6,15 +6,18 @@ born: "1860"
 born_ref1: "7"
 birthplace: Wisconsin
 birthplace_ref1: "1"
-mother: Dora Juhnke
+mother: Dorathea Draeger
+mother_link: /collins/person/dorothea-draeger
 mother_ref1: "1"
 mother_ref2: "2"
 mother_ref3: "7"
 father: Gottfried Juhnke
+father_link: /collins/person/gottfried-juhnke
 father_ref1: "1"
 father_ref2: "2"
 father_ref3: "7"
 husband: Frank Collins
+husband_link: /collins/person/frank-collins
 husband_ref1: "2"
 husband_ref2: "3"
 husband_ref3: "4"
@@ -22,6 +25,7 @@ husband_ref4: "5"
 husband_ref5: "6"
 husband_ref6: "7"
 descendant: Robert Collins
+descendant_link: /collins/person/robert-collins
 descendant_ref1: "3"
 descendant_ref2: "4"
 death: April 4, 1931
