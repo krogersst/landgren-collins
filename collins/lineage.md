@@ -23,7 +23,7 @@ permalink: /collins/lineage/
 - <a class="bare-link" id="11G">11G</a>. [Frank Collins] <sup>([8H], [9I])</sup> and
   - [3J]. [Paulina Juhnke]
 - <a class="bare-link" id="12G">12G</a>. [Robert Collins] <sup>([9H], [10I], [4J])</sup> and
-  - [3K]. [May Allen]
+  - [4K]. [May Allen]
 
 ### Greene Descendants
 
@@ -39,7 +39,7 @@ permalink: /collins/lineage/
 - <a class="bare-link" id="8H">8H</a>. [Frank Collins] <sup>([11G], [9I])</sup> and
   - [3J]. [Paulina Juhnke]
 - <a class="bare-link" id="9H">9H</a>. [Robert Collins] <sup>([12G], [10I], [4J])</sup> and
-  - [3K]. [May Allen]
+  - [4K]. [May Allen]
 
 ### Holmes Descendants
 
@@ -55,7 +55,7 @@ permalink: /collins/lineage/
 - <a class="bare-link" id="9I">9I</a>. [Frank Collins] <sup>([11G], [8H])</sup> and
   - [3J]. [Paulina Juhnke]
 - <a class="bare-link" id="10I">10I</a>. [Robert Collins] <sup>([12G], [9H], [4J])</sup> and
-  - [3K]. [May Allen]
+  - [4K]. [May Allen]
 
 ### Dräger and Verges Descendants
 
@@ -64,13 +64,14 @@ permalink: /collins/lineage/
 - <a class="bare-link" id="3J">3J</a>. [Paulina Juhnke] and
   - [11G]. [Frank Collins] <sup>([8H], [9I])</sup>
 - <a class="bare-link" id="4J">4J</a>. [Robert Collins] <sup>([12G], [9H], [10I])</sup> and
-  - [3K]. [May Allen]
+  - [4K]. [May Allen]
 
 ### Sheffield and Blakely Descendants
 
-- 1K. Daniel M. Sheffield and Mary Ann Blakely
-- 2K. [Sarah Sheffield] and [William Allen]
-- <a class="bare-link" id="3K">3K</a>. [May Allen] and
+- 1K. Francis and Elizabeth Blakely
+- 2K. [Mary Ann Blakely] and Daniel M. Sheffield
+- 3K. [Sarah Sheffield] and [William Allen]
+- <a class="bare-link" id="4K">4K</a>. [May Allen] and
   - [12G]. [Robert Collins] <sup>([9H], [10I], [4J])</sup>
 
 [5G]: #5G
@@ -102,7 +103,7 @@ permalink: /collins/lineage/
 [3J]: #3J
 [4J]: #4J
 
-[3K]: #3K
+[4K]: #4K
 
 
 [Robert Collins]: {{ "/collins/person/robert-collins" | relative_url }}
@@ -123,3 +124,4 @@ permalink: /collins/lineage/
 [John "White Hat" Greene]: {{ "/collins/person/john-whitehat-greene" | relative_url }}
 [Benjamin Greene]: {{ "/collins/person/benjamin-greene" | relative_url }}
 [Humility Coggeshall]: {{ "/collins/person/humility-coggeshall" | relative_url }}
+[Mary Ann Blakely]: {{ "/collins/person/mary-blakely" | relative_url }}
