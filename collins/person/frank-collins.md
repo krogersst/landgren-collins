@@ -48,6 +48,7 @@ burial_place_ref1: "10"
 burial_place_ref2: "11"
 references: frank-collins-ref.html
 ---
+In the 1860 census, Frank Collins was a year old, and he and his parents, [Milo]({{ '/collins/person/milo-collins' | relative_url }}) and [Rebecca Collins]({{ '/collins/person/rebecca-green' | relative_url}}), were living in Fulton, Rock County, Wisconsin <sup>([1](#1))</sup>. By the next census in 1870, the family was living in Milton, Rock County, Wisconsin <sup>([2](#2))</sup>. 
 
 By the 1880 census, Frank had married [Paulina Juhnke]({{ '/collins/person/paulina-juhnke' | relative_url }}), and the two lived with her parents in Newton, Marquette County, Wisconsin <sup>([3](#3))</sup>. By the 1900 census, the two had moved out of Paulina's parent's house and made a home at 8 Fulton Street, Edgerton, Rock County, Wisconsin. Frank worked as a day laborer during this time <sup>([4](#4))</sup>.
 
