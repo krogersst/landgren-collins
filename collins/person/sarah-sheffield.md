@@ -20,6 +20,10 @@ father_link: /collins/person/sarah-sheffield
 father_ref1: "1"
 father_ref2: "2"
 father_ref3: "5"
+marriage: July 1, 1873
+marriage_ref1: "9"
+marriage_place: Rock County, Wisconsin
+marriage_place_ref1: "9"
 husband: William Allen
 husband_link: /collins/person/william-allen
 husband_ref1: "3"
@@ -39,16 +43,8 @@ burial_place_ref1: "?"
 references: sarah-sheffield-ref.html
 ---
 
-Newman Preston Blakeley was born in Cohocton, Steuben County, New York to Francis Harwood Blakeley and Elizabeth Pauline Blakeley.
+Sarah's family moved to White Rock, Ogle County, Illinois by 1860 to live with her uncle Newman’s family <sup>([1](#1))</sup>. Her father worked as a wagon maker while her uncle worked as a farmer. By the 1870 census, Sarah and her immediate family had moved to New Milford, Winnebago County, Illinois <sup>([2](#2))</sup>.
 
-Mary Blakely married Daniel Sheffield around 1840 in New York. In 1845 she gave birth to Warren Sheffield, and in 1848 she gave birth to Franklin/Francis Sheffield. By 1850, the family was living in Wayland, Steuben County, New York. Meanwhile her brother, Newman Blakely was living with their parents, Francis Blakely and Elizabeth Blakely, in Cohocton, Steuben County, New York.
+There is a marriage record for Sarah Sheffield in Rock County, Wisconsin for the 1st of July, 1873. Her spouse is not listed, but considering her family had lived near Rock County around that time, and the timing would make sense for a marriage, this is a likely record for her marriage to William Allen <sup>([9](#9))</sup>.
 
-By 1855, Newman was living in Ogle County, Illinois, where he married Hannah Baird on the 15th of August.
-
-Mary and Daniel moved to White Rock, Ogle County, Illinois by 1860 with their three children (Warren, Francis, and Sarah) to live with Mary’s brother Newman’s family. Daniel worked as a wagon maker while Newman worked as a farmer. Newman joined the 52nd Regiment, Illinois Infantry in Rockford in the Civil War and died in battle in Georgia in 1864.
-
-By 1870 Mary’s family had moved to Winnebago County.
-
-By 1860 Francis and Elizabeth Blakeley were living in Scott, Ogle, Illinois with the Ruketon family. In 1870 they were living on their own in the same place. Five years later, Francis died.
-
-At some point, Elizabeth and Francis Harwood Blakeley moved to Rockford. They are buried in the Beach family cemetery in [Stillman Valley, Ogle County, Illinois](https://www.findagrave.com/memorial/75626235).
+In the 1880 census, Sarah and William Allen’s family was living at 501 Main St, Rockford, Illinois <sup>([3](#3))</sup>. Eight years later in 1888, [May Allen]({{ /collins/person/may-allen | relative_url }}) was born. A gap in records exists until the 1900 census, where the family was living at 903 West State Street, Rockford, Illinois <sup>([4](#4))</sup>.  In the 1910 census, the family was living at 825 West State Street, Rockford, Illinois <sup>([8](#8))</sup>. Nine years later on the 17th of December, 1919, Sarah Sheffield Allen died at the age of 68 <sup>([5](#5))</sup>. In the death index record, her parents are listed as Daniel Shefield and Mary Blakely, both of which are stated as being born in England.
