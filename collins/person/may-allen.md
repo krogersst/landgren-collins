@@ -44,10 +44,10 @@ burial_place_ref1: "7"
 burial_place_ref2: "8"
 references: may-allen-ref.html
 ---
-May Allen is born on the 3rd of October, 1888 to [William Allen]({{ "/collins/person/william-allen" | relative_url }}) and [Sarah Sheffield]({{ "/collins/person/sarah-sheffield" | relative_url }}) in Rockford, Winnebago County, Illinois <sup>([1](#1), [7](#7), [8](#8))</sup>. At age 9 the family is living at 903 West State St <sup>([1](#1))</sup>. 
+May Allen was born on the 3rd of October, 1888 to [William Allen]({{ "/collins/person/william-allen" | relative_url }}) and [Sarah Sheffield]({{ "/collins/person/sarah-sheffield" | relative_url }}) in Rockford, Winnebago County, Illinois <sup>([1](#1), [7](#7), [8](#8))</sup>. At age 9 the family was living at 903 West State St <sup>([1](#1))</sup>. 
 
-On the 21st of March, 1914 May Allen married Robert Collins in Lake County, Indiana, just across the Illinois/Indiana Border up by Chicago <sup>([2](#2))</sup>. In 1917, he is drafted in World War I. His draft card records the couple as living at 1006 Kelburn in Rockford, as does the directory the following year <sup>([4](#4), [5](#5))</sup>. During that time they have their first child, Roberta Collins <sup>([3(#3))</sup>.
+On the 21st of March, 1914 May Allen married Robert Collins in Lake County, Indiana, just across the Illinois/Indiana Border up by Chicago <sup>([2](#2))</sup>. In 1917, he was drafted in World War I. His draft card has the couple as living at 1006 Kelburn in Rockford, as does the directory the following year <sup>([4](#4), [5](#5))</sup>. During that time they had their first child, Roberta Collins <sup>([3(#3))</sup>.
 
-By 1920, they are living at 714 Chestnut in Rockford <sup>([3](#3))</sup>. By 1924, they have moved to 1019 Peach, Rockford <sup>([4](#4))</sup>. Sometime between 1926 (when they are recorded as married in the city directory <sup>([#4](4))</sup>) and 1930, the two divorce. By 1930 she is married to Henry C Delaney, and the two of them are raising Mary and Doris from her marriage with Robert. The family is living at North Court Street, Rockford <sup>([6](#6))</sup>.
+By 1920, they were living at 714 Chestnut in Rockford <sup>([3](#3))</sup>. By 1924, they had moved to 1019 Peach, Rockford <sup>([4](#4))</sup>. Sometime between 1926 (when they were recorded as married in the city directory <sup>([#4](4))</sup>) and 1930, the two divorced. By 1930 she was married to Henry C Delaney, and the two of them are raising Mary and Doris from her previous marriage with Robert. At this time, the family was living at North Court Street, Rockford <sup>([6](#6))</sup>.
 
-Four years later she dies on the 21st of November, 1934 <sup>([7](#7), [8](#8))</sup>. She is buried in Greenwood Cemetery, Rockford.
+Four years later she died on the 21st of November, 1934 <sup>([7](#7), [8](#8))</sup>. She was buried in [Greenwood Cemetery, Rockford, Illinois](https://www.findagrave.com/memorial/168065301).
