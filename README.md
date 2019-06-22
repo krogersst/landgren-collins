@@ -26,15 +26,15 @@
 - [ ] Sarah Peckham 
 - [ ] Braddock and Rebecca Peckham
 - [ ] Rebecca Green
-- [ ] Milo Collins
-- [ ] Frank Collins
-- [ ] Paulina Juhnke
+- [x] Milo Collins
+- [x] Frank Collins
+- [x] Paulina Juhnke
 - [x] Robert Collins
 - [x] May Allen
 - [ ] Johann Christian Dräger and Hanna Charlotta Verges
 - [ ] Dorothea Dräger
 - [ ] Gottfried Juhnke
-- [ ] Daniel M. Sheffield and Mary Ann Blakely
+- [x] Daniel M. Sheffield and Mary Ann Blakely
 - [x] Sarah Sheffield
 - [x] William Allen
 
