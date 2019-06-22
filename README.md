@@ -25,7 +25,7 @@
 - [ ] Edward Green
 - [ ] Sarah Peckham 
 - [ ] Braddock and Rebecca Peckham
-- [ ] Rebecca Green
+- [x] Rebecca Green
 - [x] Milo Collins
 - [x] Frank Collins
 - [x] Paulina Juhnke
