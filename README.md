@@ -1,4 +1,4 @@
-# landgren-collins
+# [landgren-collins](https://krogersst.github.io/landgren-collins)
 ## a digital family history project
 
 ### To Do
