@@ -49,4 +49,8 @@ burial_place_ref2: "11"
 references: frank-collins-ref.html
 ---
 
-***content to be added***
+By the 1880 census, Frank had married [Paulina Juhnke]({{ '/collins/person/paulina-juhnke' | relative_url }}), and the two lived with her parents in Newton, Marquette County, Wisconsin <sup>([3](#3))</sup>. By the 1900 census, the two had moved out of Paulina's parent's house and made a home at 8 Fulton Street, Edgerton, Rock County, Wisconsin. Frank worked as a day laborer during this time <sup>([4](#4))</sup>.
+
+By the 1910 census, Frank's family had moved to Rockford where they are recorded as living at North First Street, Rockford, Illinois, and Frank was working as a mason and chimney builder <sup>([5](#5))</sup>. In the 1920 census, Paulina and Frank are recorded as living at Pearl Avenue, Rockford, Illinois with their son George, and Frank had since become a proprietor of a restaurant <sup>([6](#6))</sup>.
+
+According to the 1930 census, Paulina and Frank Collins lived alone at 88 Long Island, Rockford, Illinois, a house which they owned <sup>([8](#8))</sup>. Four years later, Frank died on the 15th of February, 1934. He was buried two days later at Willwood Cemetery, Winnebago County, Illinois <sup>([10](#10), [11](#11))</sup>. He is listed in the death index as a retired mason, with his last residence as Island #9, Rockford Township <sup>([10](#10))</sup>.
