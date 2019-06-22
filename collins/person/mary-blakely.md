@@ -40,7 +40,7 @@ burial: December 19, 1919
 burial_ref1: "5"
 burial_place: unknown
 burial_place_ref1: "?"
-references: mary-blakeley-ref.html
+references: mary-blakely-ref.html
 ---
 
 Mary Blakely married Daniel Sheffield around 1840 in New York. In 1845 she gave birth to Warren Sheffield, and in 1848 she gave birth to Franklin/Francis Sheffield. By 1850, the family was living in Wayland, Steuben County, New York. Meanwhile her brother, Newman Blakely was living with their parents, Francis Blakely and Elizabeth Blakely, in Cohocton, Steuben County, New York.
