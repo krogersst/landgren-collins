@@ -18,7 +18,7 @@ father: Michael Juhnke
 father_link: /collins/person/gottfried-juhnke
 father_ref1: "1"
 wife: Dorothea Draeger
-wife: /collins/person/dorothea-draeger
+wife_link: /collins/person/dorothea-draeger
 wife_ref1: "2"
 wife_ref2: "3"
 wife_ref3: "4"
@@ -30,21 +30,16 @@ descendant: Paulina Juhnke
 descendant_link: /collins/person/paulina-juhnke
 descendant_ref1: "3"
 descendant_ref2: "4"
-death: Unknown
-death_ref1: "?"
-death_place: Unknown
-death_place_ref1: "?"
-burial_place: Unknown
-burial_place_ref1: "?"
+death: "1893"
+death_ref1: "8"
+death_place: Linn County, Oregon
+death_place_ref1: "8"
+burial_place: IOOF Odd Fellows Cemetery, Lebanon, Linn County, Oregon
+burial_place_ref1: "8"
 references: gottfried-ref.html
 ---
+Overview of Nakel during this time period.
 
 Evangelische Kirche Nakel (Evangelical Church of Nakel), Kreis Wirsitz (Wirsitz County), Deutschland (now Nakło nad Notecią, Kuyavian-Pomeranian Voivodeship, Poland)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut orci tincidunt, sollicitudin ante vel, mattis nisi. Phasellus condimentum vel odio sed ultrices. Sed eu nunc a mi interdum lacinia cursus et felis. Phasellus vestibulum fringilla orci, fermentum consequat massa mattis ac. Nam semper vestibulum risus, a gravida purus varius vel. Sed at vulputate nunc. Proin non rutrum lorem, condimentum vehicula nulla. Vivamus et nibh pretium, malesuada dui ultricies, tristique enim. Mauris gravida nisl ac odio tempus, eu eleifend tellus dignissim. Pellentesque volutpat ligula et tellus consectetur iaculis. Vivamus nec pretium nisi. Vestibulum laoreet tellus eros, ut sodales arcu fermentum sed.
-
-Donec pulvinar vel eros dapibus viverra. Sed malesuada laoreet justo a condimentum. Donec commodo eros et velit egestas facilisis. Cras quis nisl tincidunt, ornare tellus ut, egestas dolor. Etiam nisl ante, volutpat id urna at, commodo mattis mauris. Duis eu mi justo. In hendrerit placerat nibh vel blandit. Nam bibendum volutpat sagittis. Aenean eu diam facilisis, scelerisque lectus eget, porta nisl. Aenean faucibus pretium elit. Donec sagittis molestie tortor. Cras eget ipsum sed massa volutpat elementum. Pellentesque sed blandit mi. Aenean elementum bibendum lobortis.
-
-Donec imperdiet sapien sed metus dictum, vel sagittis nunc ultrices. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent in lorem quis magna vulputate maximus ac non dolor. Nulla vel nunc at est tristique porttitor. Praesent lacinia ac dolor sed consequat. Pellentesque mi libero, varius et rutrum ac, blandit quis lorem. Duis imperdiet, justo nec tincidunt varius, augue dolor euismod lorem, sed scelerisque mi elit congue odio. Praesent nunc nulla, consectetur vel faucibus sed, aliquam id nulla. Aenean eleifend tellus sed urna posuere, a laoreet augue lobortis. Nunc consequat metus molestie nunc ultrices, eget ultricies felis sagittis. Integer viverra mi quis condimentum aliquam. Phasellus mattis facilisis erat, id vehicula nisl tristique vulputate. Donec eros ex, vehicula eu vestibulum non, laoreet ac orci.
-
-Nulla purus quam, semper at tellus sodales, dignissim tempus turpis. Vivamus ornare efficitur sapien, non consectetur felis ornare eget. Donec ac aliquet elit. Proin at cursus tellus. Proin finibus nisi justo, sit amet bibendum sapien dignissim vitae. Phasellus vel ante est. Pellentesque ornare quam dictum, vulputate ligula et, tempor massa. Aenean non posuere libero. Curabitur ultrices condimentum ex, id egestas velit luctus id. Curabitur rutrum scelerisque nisl, eget fermentum erat consequat a. Suspendisse nulla augue, aliquam vel luctus ut, blandit sit amet mauris. Suspendisse et augue ullamcorper, pharetra ipsum a, condimentum dolor. Donec ut libero sit amet nisl interdum malesuada. Donec eros lorem, consectetur feugiat tellus vitae, venenatis commodo nisi. Praesent aliquam quam odio, nec molestie augue maximus ut.
+It appears that their eldest son Gustav left home and married Augusta Amelia Hundt in Emerald, Faribault County, Minnesota on the 20th of August, 1882 <sup>([5](#5))</sup>. They moved to Linn County, Oregon sometime before the birth of their son, Albert Sam Juhnke on the 11th of February, 1891. The family was living at PO Box 2560 A., Sweet Home, Oregon at this time <sup>([6](#6))</sup>. That same year Gustav died at the age of 32 and was buried in the IOOF Odd Fellows Cemetery in Lebanon, Linn County, Oregon <sup>([7](#7))</sup>. According to an article in the Lebanon Express, he drowned in the Santiam while bathing <sup>([10](#10))</sup>. Three years later, Gottfried was buried next to him in 1893 <sup>([8](#8))</sup>. There are no records indicating Gottfried followed his son to Oregon other than what is likely his headstone. There was a small mining revival in the area during that time, from around 1888 to 1892, which could explain their original reason for moving there <sup>([9](#9))</sup>.
