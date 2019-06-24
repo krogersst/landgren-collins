@@ -195,16 +195,16 @@ var treeData =
           {"name": "Mary Blakely",
            "birth": "1840",
            "location": "New York",
-	   "link": "/collins/person/mary-blakeley",
+	   "link": "/collins/person/mary-blakely",
 	   "children": [
 	    {"name": "Elizabeth Blakely",
 	     "birth": "1800",
 	     "location": "New York",
-	     "link": "/collins/person/mary-blakeley"},
+	     "link": "/collins/person/mary-blakely"},
 	    {"name": "Francis Blakely",
 	     "birth": "1779",
 	     "location": "Massachusets",
-	     "link": "/collins/person/mary-blakeley"}
+	     "link": "/collins/person/mary-blakely"}
 	   ]
 	  }
         ]}
@@ -228,12 +228,13 @@ var zoom = d3.zoom()
 // Create container to call zoom on
 var svgContainer = d3.select("#large-tree").append("svg")
     .attr("width", treeWidth + margin.right + margin.left)
-    .attr("height", treeHeight + margin.top + margin.bottom)
-    .call(zoom)
-    .on("dblclick.zoom", null);
+    .attr("height", treeHeight + margin.top + margin.bottom);
 
 // Create container for tree
 var svgTree = svgContainer.append("g");
+
+// Set initial zoom and transform
+svgContainer.call(zoom.transform, d3.zoomIdentity.translate(50,25).scale(.5));
 
 // Set some variables
 var i = 0,
@@ -491,5 +492,3 @@ var link = svgTree.selectAll('path.link')
   function zoomed() {
       svgTree.attr("transform", d3.event.transform);
   }
-
-  d3.select(window).on("load", svgContainer.call(zoom.transform, d3.zoomIdentity.translate(50, 25).scale(.5)));
