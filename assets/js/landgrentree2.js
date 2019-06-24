@@ -47,7 +47,7 @@ var treeData =
 	    "link": "/landgren/about"}
          ]},
          {"name": "Johanna Ljungberg",
-	  "fullname": "Johanna Ljungberg,"
+	  "fullname": "Johanna Ljungberg",
           "birth": "1848",
           "location": "Bara, Malmöhus",
 	  "link": "/landgren/person/johanna-ljungberg",
