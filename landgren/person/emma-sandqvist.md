@@ -1,5 +1,6 @@
 ---
 layout: person
+family: landgren
 person_name: Emma Olsson Sandqvist
 permalink: /landgren/person/emma-sandqvist
 born: December 31, 1889
