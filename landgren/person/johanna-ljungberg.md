@@ -1,5 +1,6 @@
 ---
 layout: person
+family: landgren
 person_name: Johanna Ljungberg
 permalink: /landgren/person/johanna-ljungberg
 born: April 23, 1848
