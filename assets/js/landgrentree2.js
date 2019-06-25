@@ -358,7 +358,8 @@ var zoom = d3.zoom()
 // Create container to call zoom on
 var svgContainer = d3.select("#large-tree").append("svg")
     .attr("width", treeWidth + margin.right + margin.left)
-    .attr("height", treeHeight + margin.top + margin.bottom);
+    .attr("height", treeHeight + margin.top + margin.bottom)
+    .call(zoom);
 
 // Create container for tree
 var svgTree = svgContainer.append("g");
