@@ -2,11 +2,12 @@
 ## a digital family history project
 
 ### To Do
-- [ ] Add index link to person page
-- [ ] Add main family link to person page
+- [x] Add index link to person page
+- [x] Add main family link to person page
 - [ ] Add dropdown to family links in header
-- [ ] Fix person css
+- [ ] Fix person layout css
 - [ ] Add "fullname" to collinstree.js
+- [ ] Add family to collins frontmatter
 
 ### Collins
 - [ ] John Coggeshall(s)
