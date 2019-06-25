@@ -5,6 +5,8 @@
 - [ ] Add index link to person page
 - [ ] Add main family link to person page
 - [ ] Add dropdown to family links in header
+- [ ] Fix person css
+- [ ] Add "fullname" to collinstree.js
 
 ### Collins
 - [ ] John Coggeshall(s)
