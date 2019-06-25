@@ -1,5 +1,6 @@
 ---
 layout: person
+family: landgren
 person_name: Lars Nilsson Lindgren
 permalink: /landgren/person/lars-lindgren
 born: February 23, 1853
