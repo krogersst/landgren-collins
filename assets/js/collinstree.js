@@ -476,7 +476,7 @@ function directDesc(d) {
   // display node information in legend
     d3.select('#clickinfo')
        .html('<div class="legend-name">'
-             + '<h3>' + d.data.name + '</h3>'
+             + '<h3>' + d.data.fullname + '</h3>'
              + "<p><strong>Born:</strong> <em>" + d.data.birth + "</em></p>"
              + "<p><strong>Location:</strong> " + d.data.location + "</p>"
              + "<p><strong>Parents:</strong> " + parentList(d)  + "</p>"
