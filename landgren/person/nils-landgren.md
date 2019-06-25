@@ -1,5 +1,6 @@
 ---
 layout: person
+family: landgren
 person_name: Nils Peter Landgren
 permalink: /landgren/person/nils-landgren
 born: December 7, 1881
