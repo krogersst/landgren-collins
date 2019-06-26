@@ -2,16 +2,28 @@
 
   <div class="nav-header">
 
-    <div class="site-title">
-        <a href="{{ "/" | relative_url }}">Landgren and Collins Lineage</a>
+    <div class="nav-left">
+      <div class="nav-links">
+        <div class="nav-button">
+          <a href="{{ '/about/' | relative_url }}">About the Project</a>
+        </div>
+        <div class="nav-button nav-border">
+          <a href="https://github.com/krogersst/landgren-collins/tree/gh-pages">Site Code</a>
+        </div>
+        <div class="nav-button nav-border">
+          <a href="{{ ''/about/conditions' | relative_url }}">Conditions and Permissions</a>
+        </div>
+      </div>
+      <div class="nav-credit">
+        <p>Site by <a href="https://krogersst.github.io/about/">Kelsey Rogers</a></p>
+      </div>
     </div>
 
-    <div class="nav-links">
-      <a href="{{ "/about/" | relative_url }}">About</a>
-      <div> | </div>
-      <a href="{{ "/collins/about/" | relative_url }}">Collins</a>
-      <div> | </div>
-      <a href="{{ "/landgren/about/" | relative_url }}">Landgren</a>
+    <div class="nav-right">
+      <a href="https://pages.github.com/"><img src="{{ '/assets/logos/GitHub_Logo.png' | relative_url }}"/></a>
+      <a href="https://jekyllrb.com/"><img src="{{ '/assets/logos/jekyll-logo-black-red-transparent.png' | relative_url }}"/></a>
+      <a href="https://https://creativecommons.org/licenses/by/4.0/"><img src="{{ '/assets/logos/cc.svg' | relative_url }}"/><img src="{{ '/assets/logos/by.svg' | relative_url }}"/></a>
+      <a href="https://d3.js.org"><img src="{{ 'assets/logos/d3-black.png' | relative_url }}"/></a>
     </div>
 
   </div>

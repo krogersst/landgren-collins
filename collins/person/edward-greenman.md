@@ -1,5 +1,6 @@
 ---
 layout: person
+family: collins
 person_name: Edward Greenman
 permalink: /collins/person/edward-greenman
 born: Month Day, Year REQUIRED

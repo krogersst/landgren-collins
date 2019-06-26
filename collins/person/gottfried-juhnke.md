@@ -1,5 +1,6 @@
 ---
 layout: person
+family: collins
 person_name: Gottfried August Juhnke
 permalink: /collins/person/gottfried-juhnke
 born: December 17, 1821

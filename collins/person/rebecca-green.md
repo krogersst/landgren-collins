@@ -1,6 +1,7 @@
 ---
 layout: person
 person_name: Rebecca Green
+family: collins
 permalink: /collins/person/rebecca-green
 born: October 16, 1841
 born_ref1: "4"

@@ -1,6 +1,7 @@
 ---
 person_name: May Allen
 layout: person
+family: collins
 permalink: /collins/person/may-allen
 born: October 3, 1888
 born_ref1: "7"
@@ -44,7 +45,7 @@ burial_place_ref1: "7"
 burial_place_ref2: "8"
 references: may-allen-ref.html
 ---
-May Allen was born on the 3rd of October, 1888 to [William Allen]({{ "/collins/person/william-allen" | relative_url }}) and [Sarah Sheffield]({{ "/collins/person/sarah-sheffield" | relative_url }}) in Rockford, Winnebago County, Illinois <sup>([1](#1), [7](#7), [8](#8))</sup>. At age 9 the family was living at 903 West State St <sup>([1](#1))</sup>. 
+May Allen was born on the 3rd of October, 1888 to [William Allen]({{ "/collins/person/william-allen" | relative_url }}) and [Sarah Sheffield]({{ "/collins/person/sarah-sheffield" | relative_url }}) in Rockford, Winnebago County, Illinois <sup>([1](#1), [7](#7), [8](#8))</sup>. At age 9 the family was living at 903 West State St <sup>([1](#1))</sup>.
 
 On the 21st of March, 1914 May Allen married Robert Collins in Lake County, Indiana, just across the Illinois/Indiana Border up by Chicago <sup>([2](#2))</sup>. In 1917, he was drafted in World War I. His draft card has the couple as living at 1006 Kelburn in Rockford, as does the directory the following year <sup>([4](#4), [5](#5))</sup>. During that time they had their first child, Roberta Collins <sup>([3(#3))</sup>.
 

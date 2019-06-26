@@ -1,5 +1,6 @@
 ---
 layout: person
+family: collins
 person_name: Humility Coggeshall
 permalink: /collins/person/humility-coggeshall
 born: January 1669

@@ -2,26 +2,24 @@
 
 .home-image { max-height: 600px; }
 
-.home-info { min-width: 800px; }
+.home-info { max-width: 900px; }
 .home-info .giant-header { font-size: 100px; color: #006400; }
 .home-info h1 { margin-bottom: 40px; margin-top: -25px; text-align: right; }
-
-#tree-container { margin-bottom: 20px; }
 
 /**
 * Person
 */
-.person-page { margin-top: 60px; }
+.person-page { margin-top: 20px; }
 
-.person-name { font-size: 50px; font-weight: bold; position: absolute; z-index: 1; top: 53px; color: #006400; }
+.person-name { font-size: 50px; font-weight: bold; line-height: 1; color: #006400; }
 
 .person-flex { display: flex; justify-content: flex-start; }
 
-.person-info { width: 30%; margin-right: 10px; padding: 10px; border-right: black 2px solid; }
+.person-info { width: 25%; margin-left: 15px; padding: 10px; border-left: 1px solid black; }
 
 .person-photo { max-width: 400px; }
 
-.person-content { width: 70%; padding: 10px; background-color: rgba(255, 255, 255, 0.75); }
+.person-content { width: 75%; padding: 10px; }
 .person-content p { margin-bottom: 10px; }
 .person-content img { max-width: 600px; }
 
@@ -41,14 +39,37 @@
 .index-content li { padding: 2px; font-size: 18px; }
 .index-content li ul { padding-left: 30px; }
 
-.site-header, .site-footer { width: 85%; margin: 0 auto; padding-top: 10px; padding-bottom: 10px; font-size: 20px; }
+.site-header, .site-footer { width: 85%; margin: 0 auto; padding-top: 8px; font-size: 20px; }
 .site-header a, .site-header:visited, .site-header:hover, .site-footer a, .site-footer:visited, .site-footer:hover { text-decoration: none; }
-
-.site-footer { margin-top: 20px; }
 
 .nav-header { display: flex; justify-content: space-between; }
 
-.nav-links { width: 250px; display: flex; justify-content: space-between; }
+.site-header { margin-bottom: 20px; }
+.site-header .nav-header { border-bottom: black 1px solid; padding-bottom: 8px; align-items: center; }
+
+.title-main { font-size: 30px; color: #006400; line-height: .5; }
+.title-main:visited { color: #006400; }
+
+.site-title p { margin-top: -4px; margin-left: 30px; font-size: 16px; }
+
+.site-footer { margin-top: 20px; margin-bottom: 10px; }
+.site-footer .nav-header { border-top: black 1px solid; padding-top: 15px; align-items: flex-start; }
+
+.nav-border { border-left: black 1px solid; }
+
+.nav-links { line-height: 1.1; display: flex; justify-content: space-between; }
+
+.nav-credit { font-size: 15px; padding-left: 15px; }
+
+.nav-right img { max-height: 50px; }
+
+.nav-button { text-align: center; padding-left: 15px; padding-right: 15px; }
+
+.nav-drop { position: relative; display: inline-block; border-left: black 1px solid; }
+.nav-drop:hover .drop-content { display: block; }
+
+.drop-content { display: none; position: absolute; background-color: white; z-index: 1; left: -1px; min-width: 200px; border-left: black 1px solid; }
+.drop-content a { color: black; padding-top: 10px; padding-left: 15px; text-decoration: none; display: block; text-align: left; }
 
 /** Reset some basic elements */
 body, h1, h2, h3, h4, h5, h6, p, pre, hr, dl, dd, figure { margin: 0; padding: 0; }
@@ -59,9 +80,9 @@ body { font-family: "Crimson Text", serif; background-color: white; }
 
 .body-wrap { display: flex; min-height: 100vh; flex-direction: column; }
 
-.page-content { flex: 1; }
+.page-content { flex: 1; display: flex; }
 
-.wrapper { width: 85%; margin-left: 130px; }
+.wrapper { width: 85%; margin: auto; }
 
 a { color: black; }
 a:visited { color: black; }
@@ -73,7 +94,7 @@ a:hover { color: #006400; }
 
 #large-tree { background: white; border: black 2px solid; padding: 5px; }
 
-#tree-info { width: 250px; margin-left: 10px; }
+#tree-info { min-width: 250px; margin-left: 10px; }
 
 #tree-info h2 { margin-top: 2px; }
 

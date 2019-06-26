@@ -2,18 +2,35 @@
 
   <div class="nav-header">
 
-    <div class="site-title">
-        <a href="{{ "/" | relative_url }}">Landgren and Collins Lineage</a>
-    </div>
+      <div class="site-title">
+        <a class="title-main" href="{{ "/" | relative_url }}">A Family History</a>
+        <p>of the Landgren and Collins Families</p>
+      </div>
 
-    <div class="nav-links">
-      <a href="{{ "/about/" | relative_url }}">About</a>
-      <div> | </div>
-      <a href="{{ "/collins/about/" | relative_url }}">Collins</a>
-      <div> | </div>
-      <a href="{{ "/landgren/about/" | relative_url }}">Landgren</a>
-    </div>
+      <div class="nav-links">
 
-  </div>
+        <div class="nav-button">
+          <a href="{{ "/about/" | relative_url }}">About</a>
+        </div>
+
+        <div class="nav-drop nav-button">
+          <a href="{{ "/landgren/about/" | relative_url }}">Landgren</a>
+          <div class="drop-content">
+            <a href="{{ "/landgren/about/" | relative_url }}">Family Tree</a>
+            <a href="{{"/landgren/lineage/" | relative_url }}">Lineage Index</a>
+          </div>
+        </div>
+
+        <div class="nav-drop nav-button">
+          <a href="{{ "/collins/about/" | relative_url }}">Collins</a>
+          <div class="drop-content">
+            <a href="{{ "/collins/about/" | relative_url }}">Family Tree</a>
+            <a href="{{ "/collins/lineage/" | relative_url }}">Lineage Index</a>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
 
 </header>

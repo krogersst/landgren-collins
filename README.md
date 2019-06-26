@@ -2,14 +2,18 @@
 ## a digital family history project
 
 ### To Do
+- [ ] Fix about layout
+- [ ] Fix footer layout
+- [ ] Adjust family tree key css
 - [x] Add index link to person page
 - [x] Add main family link to person page
-- [ ] Add dropdown to family links in header
-- [ ] Fix person layout css
-- [ ] Add "fullname" to collinstree.js
-- [ ] Add family to collins frontmatter
+- [x] Add dropdown to family links in header
+- [x] Fix person layout
+- [x] Add "fullname" to collinstree.js
+- [x] Add family to collins frontmatter
 
 ### Collins
+- [ ] Family Overview
 - [ ] John Coggeshall(s)
 - [ ] Joshua Coggeshall and Joan West
 - [ ] John Greene and Joan ???
@@ -26,7 +30,7 @@
 - [ ] Judge Edward Greene
 - [ ] Huldah Sweet
 - [ ] Edward Green
-- [ ] Sarah Peckham 
+- [ ] Sarah Peckham
 - [ ] Braddock and Rebecca Peckham
 - [x] Rebecca Green
 - [x] Milo Collins
@@ -43,6 +47,7 @@
 
 
 ### Landgren
+- [ ] Family Overview
 - [ ] Nils Svensson and Karin Matzdotter
 - [ ] Gertrud Nilsdotter and Elebrat Påhlsson
 - [ ] Påhl Ellebratsson and Matta Bengtzdotter (parents: Bengt Andersson and Karna Persdotter)

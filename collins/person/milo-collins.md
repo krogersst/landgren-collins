@@ -1,6 +1,7 @@
 ---
 layout: person
 person_name: Milo C. Collins
+family: collins
 permalink: /collins/person/milo-collins
 born: "1835-1837"
 born_ref1: "1"

@@ -1,5 +1,6 @@
 ---
 layout: person
+family: collins
 person_name: Benjamin Greene
 permalink: /collins/person/benjamin-greene
 born: about 1665

@@ -4,8 +4,17 @@ layout: default
 <article class="person-page">
 
 <div class="person-name">{{ page.person_name | escape }}</div>
-
 <div class="person-flex">
+
+  <div class="person-content" itemprop="articleBody">
+      {{ content }}
+      <div id="references">
+        <h3>References</h3>
+          {% if page.references %}
+            {% include_relative references/{{ page.references }} %}
+          {% endif %}
+      </div>
+  </div>
 
   <div class="person-info">
   <p><strong>Born: </strong>{{ page.born | escape }} <sup
@@ -220,24 +229,13 @@ layout: default
       >{% endif %})</sup
     >
   </p>
-    
+
   <div class="person-nav">
     <a href="{{ site.baseurl }}/{{ page.family }}/about">Back to About</a> | <a href="{{ site.baseurl }}/{{ page.family }}/lineage">Back to Index</a>
   </div>
-    
+
   </div>
 
-  <div class="person-content" itemprop="articleBody">
-      {{ content }}
-  </div>
-
-</div>
-
-<div id="references">
-  <h3>References</h3>
-    {% if page.references %}
-      {% include_relative references/{{ page.references }} %}
-    {% endif %}
 </div>
 
 </article>

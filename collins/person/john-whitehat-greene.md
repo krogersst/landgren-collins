@@ -1,5 +1,6 @@
 ---
 layout: person
+family: collins
 person_name: John "White Hat" Greene
 permalink: /collins/person/john-whitehat-greene
 born: "1688"

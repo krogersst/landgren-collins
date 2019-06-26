@@ -1,6 +1,7 @@
 ---
 layout: person
 person_name: Sarah Sheffield
+family: collins
 permalink: /collins/person/sarah-sheffield
 born: August 12, 1851
 born_ref1: "5"

@@ -1,5 +1,6 @@
 ---
 layout: person
+family: collins
 person_name: Margaret Greenman
 permalink: /collins/person/margaret-greenman
 born: Month Day, Year REQUIRED

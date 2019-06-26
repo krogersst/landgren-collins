@@ -1,5 +1,6 @@
 ---
 layout: person
+family: collins
 person_name: Judge Edward Greene (Sr.)
 permalink: /collins/person/judge-edward-greene
 born: March 20, 1760

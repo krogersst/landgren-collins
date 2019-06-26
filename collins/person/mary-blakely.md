@@ -1,5 +1,6 @@
 ---
 layout: person
+family: collins
 person_name: Mary Blakely
 permalink: /collins/person/mary-blakely
 born: "~1820"

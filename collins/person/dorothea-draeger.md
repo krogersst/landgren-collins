@@ -1,5 +1,6 @@
 ---
 layout: person
+family: collins
 person_name: Dorothea Magdalena Dräger
 permalink: /collins/person/dorothea-draeger
 born: August 14th, 1823

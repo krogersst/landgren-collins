@@ -1,6 +1,7 @@
 ---
 layout: person
 person_name: Robert Collins
+family: collins
 permalink: /collins/person/robert-collins/
 born: September 6, 1885
 born_ref1: "5"

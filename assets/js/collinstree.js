@@ -1,6 +1,6 @@
 var treeData =
   {"name": "Sylvia Haney",
-   "fullname": "Sylvia Mae Landgren Haney,"
+   "fullname": "Sylvia Mae Landgren Haney",
     "birth": "1936",
     "location": "Rockford, Illinois",
     "link": "/collins/about",
@@ -202,7 +202,7 @@ var treeData =
                      "location": "N/A",
 		     "link": "/collins/person/dorothea-draeger"},
                     {"name": "Hanna Verges",
-		     "name": "Hanna Charlotta Verges",
+		     "fullname": "Hanna Charlotta Verges",
                      "birth": "N/A",
                      "location": "N/A",
 		     "link": "/collins/person/dorothea-draeger"}

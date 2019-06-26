@@ -1,5 +1,6 @@
 ---
 layout: person
+family: collins
 person_name: Joseph Greene
 permalink: /collins/person/joseph-greene
 born: February 19, 1727-8*

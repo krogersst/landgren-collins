@@ -1,0 +1,625 @@
+var treeData =
+  {"name": "Sylvia Haney",
+    "fullname": "Sylvia Mae Landgren Haney",
+    "birth": "1936",
+    "location": "Rockford, Illinois",
+    "link": "/landgren/about",
+   "children": [
+    {"name": "Erick Landgren",
+     "fullname": "Erick Landgren",
+     "birth": "1914",
+     "location": "Rockford, Illinois",
+     "link": "/landgren/about",
+     "children": [
+       {"name": "Nils Landgren",
+	"fullname": "Nils Peter Landgren",
+        "birth": "1881",
+        "location": "Bara, Malmöhus",
+	"link": "/landgren/person/nils-landgren",
+        "children": [
+         {"name": "Lars Landgren",
+	  "fullname": "Lars Nilsson Landgren",
+          "birth": "1853",
+          "location": "Höörs, Malmöhus",
+	  "link": "/landgren/person/lars-landgren",
+          "children": [
+           {"name": "Nils Johnsson",
+	    "fullname": "Nils Johnsson",
+            "birth": "1816",
+            "location": "Magläste, Höörs, Malmöhus",
+	    "link": "/landgren/about",
+            "children": [
+             {"name": "Jons Persson",
+	      "fullname": "Jons Persson",
+              "birth": "1779",
+              "location": "Höörs, Malmöhus",
+	      "link": "/landgren/about"},
+             {"name": "Pernilla Mansdr",
+	      "fullname": "Pernilla Mansdotter",
+              "birth": "1785",
+              "location": "Munkarp, Malmöhus",
+	      "link": "/landgren/about"}
+           ]},
+           {"name": "Hanna Nilsdr",
+	    "fullname": "Hanna Nilsdotter",
+            "birth": "1813",
+            "location": "Magläste, Höörs, Malmöhus",
+	    "link": "/landgren/about"}
+         ]},
+         {"name": "Johanna Ljungberg",
+	  "fullname": "Johanna Ljungberg",
+          "birth": "1848",
+          "location": "Bara, Malmöhus",
+	  "link": "/landgren/person/johanna-ljungberg",
+          "children": [
+           {"name": "Peter Ljungberg",
+	    "fullname": "Peter Ljungberg",
+            "birth": "1818",
+            "location": "Roslätt Gård, Svedala, Malmöhus",
+	    "link": "/landgren/about",
+            "children": [
+             {"name": "Johannes Ljungberg",
+	      "fullname": "Johannes Ljungberg",
+              "birth": "1779",
+              "location": "Vittskövle Gård, Vittskövle, Kristianstad",
+	      "link": "/landgren/about",
+              "children":[
+               {"name": "Hans Ljungberg",
+	  	"name": "Hans Ljungberg",
+                "birth": "N/A",
+                "location": "N/A",
+	        "link": "/landgren/about"},
+               {"name": "Helena Blomsström",
+		"fullname": "Helena Blomsström",
+                "birth": "N/A",
+                "location": "N/A",
+	       	"link": "/landgren/about"}
+             ]},
+             {"name": "Ingar Jonsdr",
+	      "fullname": "Ingar Jonsdotter",
+              "birth": "1788",
+              "location": "Sönnarps Gård, Skabersjo, Malmöhus",
+	      "link": "/landgren/about",
+              "children": [
+               {"name": "Jon Olsson",
+		"fullname": "Jon Olsson",
+                "birth": "N/A",
+                "location": "N/A",
+	       	"link": "/landgren/about"},
+               {"name": "???? Boelsdr",
+		"fullname": "???? Boelsdotter",
+                "birth": "N/A",
+                "location": "N/A",
+	        "link": "/landgren/about"}
+             ]}
+           ]},
+           {"name": "Boel Andersdr",
+	    "fullname": "Boel Andersdotter",
+            "birth": "1824",
+            "location": "Sireköpinge No. 4, Sireköpinge, Malmöhus",
+	    "link": "/landgren/about",
+            "children": [
+            {"name": "Anders Carlsson",
+	     "fullname": "Anders Carlsson",
+             "birth": "1780",
+             "location": "Sireköpinge, Malmöhus",
+	     "link": "/landgren/about",
+             "children" : [
+              {"name": "Carl Staffenson",
+	       "fullname": "Carl Staffenson",
+               "birth": "N/A",
+               "location": "N/A",
+	       "link": "/landgren/about"},
+              {"name": "Anna Hansdr",
+	       "fullname": "Anna Hansdotter",
+               "birth": "N/A",
+               "location": "N/A",
+	       "link": "/landgren/about"}
+            ]},
+            {"name": "Karna Hindriksdr",
+	     "fullname": "Karna Hindriksdotter",
+             "birth": "1788",
+             "location": "Norraby, Sireköpinge, Malmöhus",
+	     "link": "/landgren/about",
+             "children": [
+              {"name": "Hindric Palsson",
+	       "fullname": "Hindric Palsson",
+               "birth": "1761",
+               "location": "Malmöhus",
+	       "link": "/landgren/about",
+               "children": [
+                {"name": "Påhl Ellebratsson",
+		 "fullname": "Påhl Ellebratsson",
+                 "birth": "1722",
+                 "location": "N/A",
+		 "link": "/landgren/about",
+                 "children": [
+                  {"name": "Elebrat Påhlsson",
+		   "fullname": "Elebrat Påhlsson",
+                   "birth": "N/A",
+                   "location": "N/A",
+		   "link": "/landgren/about"},
+                  {"name": "Gertrud Nilsdr",
+		   "fullname": "Gertrud Nilsdotter",
+                   "birth" : "1696",
+                   "location": "N/A",
+		   "link": "/landgren/about",
+                   "children": [
+                    {"name": "Nils Svensson",
+		     "fullname": "Nils Svensson",
+                     "birth": "N/A",
+                     "location": "N/A",
+		     "link": "/landgren/about"},
+                    {"name" : "Karin Matzdr",
+		     "fullname" : "Karin Matzdotter",
+                     "birth": "N/A",
+                     "location": "N/A",
+		     "link": "/landgren/about"}
+                  ]}
+                ]},
+                {"name": "Matta Bengtzdr",
+		 "fullname": "Matta Bengtzdotter",
+                 "birth": "1720",
+                 "location": "N/A",
+		 "link": "/landgren/about",
+                 "children": [
+                  {"name": "Bengt Andersson",
+		   "fullname": "Bengt Andersson",
+                   "birth": "1690",
+                   "location": "N/A",
+		   "link": "/landgren/about"},
+                  {"name": "Karna Persdr",
+		   "fullname": "Karna Persdotter",
+                   "birth": "N/A",
+                   "location": "N/A",
+		   "link": "/landgren/about"}
+                ]}
+              ]},
+              {"name": "Hanna Nilsdr",
+	       "fullname": "Hanna Nilsdotter",
+               "birth": "1813",
+               "location": "Magläste, Höörs, Malmöhus",
+	       "link": "/landgren/about"}
+            ]}
+           ]}
+         ]}
+       ]
+       },
+       {"name": "Emma Sandqvist",
+	"fullname": "Emma Olsson Sandqvist",
+        "birth": "1881",
+        "location": "Södra Sallerup, Malmöhus",
+	"link": "/landgren/person/emma-sandqvist",
+        "children": [
+         {"name": "Jons Sandqvist",
+	  "fullname": "Jons Olsson Sandqvist",
+          "birth": "1865",
+          "location": "Bara, Malmöhus",
+	  "link": "/landgren/about",
+          "children":[
+           {"name": "Ola Nilsson",
+	    "fullname": "Ola Nilsson",
+            "birth": "1823",
+            "location": "Tejarp No. 5, Hyby, Malmöhus",
+	    "link": "/landgren/about",
+            "children": [
+             {"name": "Nils Jonsson",
+	      "fullname": "Nils Jonsson",
+              "birth": "1794",
+              "location": "Tejarp, Hyby, Malmöhus",
+	      "link": "/landgren/about",
+              "children": [
+               {"name": "Jons Nilsson",
+		"fullname": "Jons Nilsson",
+                "birth": "1761",
+                "location": "Tejarp, Hyby, Malmöhus",
+	        "link": "/landgren/about"},
+               {"name": "Elna Pehrsdr",
+		"fullname": "Elna Pehrsdotter",
+                "birth": "1766",
+                "location": "Tejarp, Hyby, Malmöhus",
+	        "link": "/landgren/about"}
+             ]},
+             {"name": "Hanna Hindriksdr",
+	      "fullname": "Hanna Hindriksdotter",
+              "birth": "1798",
+              "location": "Resåkra, Hyby, Malmöhus",
+	      "link": "/landgren/about",
+              "children": [
+               {"name": "Henric Pehrsson",
+		"fullname": "Henric Pehrsson",
+                "birth": "1759",
+                "location": "Hyby, Malmöhus",
+	        "link": "/landgren/about"},
+               {"name": "Anna ????",
+		"fullname": "Anna ????",
+                "birth": "1757",
+                "location": "Hyby, Malmöhus",
+	        "link": "/landgren/about"}
+             ]}
+           ]},
+           {"name": "Elna Nilsdr",
+	    "fullname": "Elna Nilsdotter",
+            "birth": "1825",
+            "location": "Angagarden, Bara, Malmöhus",
+	    "link": "/landgren/about"}
+         ]},
+         {"name": "Anna Nilsdr",
+	  "fullname": "Anna Nilsdotter",
+          "birth": "1869",
+          "location": "Genarp, Malmöhus",
+	  "link": "/landgren/about",
+          "children": [
+           {"name": "Nils Andersson",
+	    "fullname": "Nils Andersson",
+            "birth": "1836",
+            "location": "No. 7 Genarp, Genarp, Malmöhus",
+	    "link": "/landgren/about",
+            "children": [
+             {"name": "Anders Danielsson",
+	      "fullname": "Anders Danielsson",
+              "birth": "1805",
+              "location": "Lyngby, Malmöhus",
+	      "link": "/landgren/about",
+              "children": [
+               {"name": "Daniel Jorensson",
+		"fullname": "Daniel Jorensson",
+                "birth": "1766",
+                "location": "Lyngby,  Malmöhus",
+	        "link": "/landgren/about"},
+               {"name": "Elna Hansdr",
+		"fullname": "Elna Hansdotter",
+                "birth": "1776",
+                "location": "????, Malmöhus",
+	        "link": "/landgren/about"}
+             ]},
+             {"name": "Anna Hansdr",
+	      "fullname": "Anna Hansdotter",
+              "birth": "1800",
+              "location": "Värby, Bara, Malmöhus",
+	      "link": "/landgren/about",
+              "children": [
+               {"name": "Hans Olsson",
+		"fullname": "Hans Olsson",
+                "birth": "1757",
+                "location": "Malmöhus",
+	        "link": "/landgren/about"},
+               {"name": "Elna Mansdr",
+		"fullname": "Elna Mansdotter",
+                "birth": "1761",
+                "location": "Malmöhus",
+	        "link": "/landgren/about"}
+             ]}
+           ]},
+           {"name": "Kjerstina Christensdr",
+	    "fullname": "Kjerstina Christensdotter",
+            "birth": "1842",
+            "location": "Genarp, Malmöhus",
+	    "link": "/landgren/about",
+            "children": [
+            {"name": "Christen Larsson",
+	     "fullname": "Christen Larsson",
+             "birth": "1815",
+             "location": "Genarp, Malmöhus",
+	     "link": "/landgren/about",
+             "children": [
+              {"name": "Lars Pahlsson",
+	       "fullname": "Lars Pahlsson",
+               "birth": "1777",
+               "location": "Genarp, Malmöhus",
+	       "link": "/landgren/about"},
+              {"name": "Karna Jonsdr",
+	       "fullname": "Karna Jonsdotter",
+               "birth": "1783",
+               "location": "Klagstorp, Malmöhus",
+	       "link": "/landgren/about"}
+            ]},
+            {"name": "Elna Johansdr",
+	     "fullname": "Elna Johansdotter",
+             "birth": "1815",
+             "location": "Espet, Genarp, Malmöhus",
+	     "link": "/landgren/about",
+             "children": [
+              {"name": "Johan Bengtsson",
+	       "fullname": "Johan Bengtsson",
+               "birth": "1792",
+               "location": "????",
+	       "link": "/landgren/about"},
+              {"name": "Hanna Andersdr",
+	       "fullname": "Hanna Andersdotter",
+               "birth": "1791",
+               "location": "????",
+	       "link": "/landgren/about"}
+            ]}
+            ]}
+         ]}
+       ]}
+     ]
+    },
+    {"name": "Roberta Collins",
+     "fullname": "Roberta Collins",
+     "birth": "1917",
+     "location": "Rockford, Illinois",
+     "link": "/landgren/about"
+  }
+ ]};
+//************************ CREATE TREE **************************
+
+// Set the dimensions and margins of the tree
+var margin = {top: 0, right: 0, bottom: 0, left: 0},
+    treeWidth = 1100 - margin.left - margin.right,
+    treeHeight = 600 - margin.top - margin.bottom;
+
+// Create Zoom
+var zoom = d3.zoom()
+    .scaleExtent([.5, 3])
+    .on("zoom", zoomed);
+
+// Create container to call zoom on
+var svgContainer = d3.select("#large-tree").append("svg")
+    .attr("width", treeWidth + margin.right + margin.left)
+    .attr("height", treeHeight + margin.top + margin.bottom)
+    .call(zoom);
+
+// Create container for tree
+var svgTree = svgContainer.append("g");
+
+// Set initial zoom and transform
+svgContainer.call(zoom.transform, d3.zoomIdentity.translate(50, 25).scale(.5));
+
+// Set some variables
+var i = 0,
+    duration = 500,
+    root;
+
+var fillbase = "#B3DCB0";
+var fillhover = "#89C984";
+var linkcolor = "#14530F";
+var strokecolor = "#14530F";
+var normXsize = 160;
+var normXpos = -70;
+var growXsize = 166;
+var growXpos = -72;
+var normYsize = 32;
+var normYpos = -16;
+var growYsize = 38;
+var growYpos = -20;
+
+// Declare a tree layout
+var tree = d3.tree().size([treeWidth, treeHeight]);
+
+// Set node seperation
+tree.separation(function(a, b) { return a.parent === b.parent ? 1 : 1; });
+
+// Assign parent, children, height, depth
+root = d3.hierarchy(treeData, function(d) { return d.children; });
+root.x0 = treeWidth / 2;
+root.y0 = 0;
+
+// Assign the x and y position for the nodes
+var treePosition = tree(root);
+
+// Compute the new tree layout
+var nodes = treePosition.descendants(),
+    links = treePosition.descendants().slice(1);
+
+// Normalize for fixed-depth
+nodes.forEach(function(d){ d.y = d.depth * 185});
+
+// ****************** Create Tooltip **************************
+
+var tip = d3.tip()
+  .attr('class', 'd3-tip')
+  .offset([-10, 0])
+  .html(function(d) {
+    return "<p>" + d.data.name + "</p>"
+         + "<p><em>Born: " + d.data.birth + "</em></p>"
+         + "<p><em>Location: </em>" + d.data.location + "</p>";
+  });
+
+  svgTree.call(tip);
+
+// ****************** Reset Button ****************************
+
+d3.select('button')
+  .on("click", reset);
+
+// ****************** Nodes section ***************************
+
+// Create nodes
+var node = svgTree.selectAll('g.node')
+              .data(nodes)
+              .enter().append('g')
+              .attr('class', 'node')
+              .attr('transform', function(d) { return 'translate(' + d.y + "," + d.x + ')'; });
+
+
+// Add rectangles to nodes
+node.append('rect')
+      .attr('class', 'node')
+      .attr('x', normXpos)
+      .attr('y', normYpos)
+      .attr('width', normXsize)
+      .attr('height', normYsize)
+      .style('fill', fillbase)
+      .on('mouseover', tip.show)
+      .on('mouseout',  tip.hide)
+      .on('mouseenter', enterThis)
+      .on('mouseleave', leaveThis)
+      .on('click', clickThis)
+;
+
+// Add names to nodes
+node.append('text')
+      .attr('x', -66)
+      .attr('y', 6)
+      .text(function(d) { return d.data.name; })
+      .style('pointer-events', 'none');
+
+// ************** Mouse Events for Nodes *********************
+
+// mouseenter events
+function enterThis(p) {
+
+  //Grow node
+    d3.select(this)
+      .attr("x", growXpos)
+      .attr("y", growYpos)
+      .attr("width", growXsize)
+      .attr("height", growYsize);
+
+  //select node parents
+    var nodes = [];
+	  nodes.push(p);
+	  while(p.parent) {
+		  p = p.parent;
+		  nodes.push(p);
+    }
+
+   //color the node parents
+    node.filter(function(d) { if ( nodes.indexOf(d) !== -1) return true;} )
+       .select('rect')
+       .style("fill", fillhover);
+}
+
+// mouseleave events
+function leaveThis(p) {
+
+// Return node to normal size and remove styles
+  if (d3.select(this).classed("isclicked") === false) {
+     d3.select(this)
+       .attr("x",normXpos)
+       .attr("y", normYpos)
+       .attr("width", normXsize)
+       .attr("height", normYsize)
+       .style("fill", fillbase);
+  }
+
+ //select node parents
+   var nodes = [];
+	   nodes.push(p);
+	     while(p.parent) {
+		   p = p.parent;
+		   nodes.push(p);
+	   }
+
+  //revert color of nodes
+   node.filter(function(d) { if ( nodes.indexOf(d) !== -1) return true;} )
+       .select('rect')
+       .style("fill", fillbase);
+
+}
+
+// on click events
+function clickThis(d) {
+
+// when a different node is clicked
+  d3.selectAll('rect.node')
+       .attr("x", normXpos)
+       .attr("y", normYpos)
+       .attr("width", normXsize)
+       .attr("height", normYsize)
+       .style('stroke', "none")
+       .call(tip.hide)
+       .classed("isclicked", false);
+
+// when THIS node is clicked
+    d3.select(this)
+       .attr("x", growXpos)
+       .attr("y", growYpos)
+       .attr("width", growXsize)
+       .attr("height", growYsize)
+       .style('stroke', strokecolor)
+       .style('stroke-width', "2px")
+       .classed("isclicked", d3.select(this).classed("isclicked") ? false : true);
+
+ // zoom and center on clicked node
+    svgContainer.transition()
+        .duration(750)
+        .call(zoom.transform,
+              d3.zoomIdentity
+                .translate(treeWidth / 2, treeHeight / 2)
+                .scale(1)
+                .translate(-d.y, -d.x)
+        );
+
+function parentList(d) {
+    if (d.children === undefined) {
+    return "Unknown Parents";
+  } else if (d.children[1] === undefined) {
+    return d.children[0].data.name + " and Unknown Parent";
+  } else {
+    return d.children[0].data.name + " and " + d.children[1].data.name;
+  }
+}
+
+function directDesc(d) {
+  if (d.parent === null) {
+    return "Private";
+  } else {
+    return d.parent.data.name;
+  }
+}
+
+  // display node information in legend
+    d3.select('#clickinfo')
+       .html('<div class="legend-name">'
+             + '<h3>' + d.data.fullname + '</h3>'
+             + "<p><strong>Born:</strong> <em>" + d.data.birth + "</em></p>"
+             + "<p><strong>Location:</strong> " + d.data.location + "</p>"
+             + "<p><strong>Parents:</strong> " + parentList(d)  + "</p>"
+             + "<p><strong>Direct Descendant:</strong> " + directDesc(d) + "</p>"
+             + "<p><a href='https://krogersst.github.io/landgren-collins" + d.data.link + "'>More Info . . .</a></p>"
+             + '</div>');
+
+}
+
+// ****************** links section ***************************
+
+// Create link paths
+function diagonal(d) {
+  return "M" + d.y + "," + d.x
+       + "V" + d.parent.x
+       + "H" + d.parent.y;
+}
+
+// Create links
+var link = svgTree.selectAll('path.link')
+      .data(links, function(d) { return d.id; })
+      .enter().insert('path', "g")
+      .attr("class", "link")
+      .style("stroke", linkcolor)
+      .style("stroke-width", "2px")
+      .style("fill", "none")
+      .attr("d", diagonal);
+
+//****************** Reset Function *******************************
+
+  function reset() {
+
+ // return zoom scale
+   svgContainer.transition()
+      .duration(750)
+      .call(zoom.transform,
+        d3.zoomIdentity
+        .translate(50, 25)
+        .scale(.5)
+      );
+
+ // remove node stylings
+    d3.selectAll('.node')
+       .attr("x", normXpos)
+       .attr("y", normYpos)
+       .attr("width", normXsize)
+       .attr("height", normYsize)
+       .style("stroke", "none");
+
+ // clear legend information
+    d3.select('#clickinfo').html("");
+
+  }
+
+// ************************ Zoomed Function *****************************
+  function zoomed() {
+      svgTree.attr("transform", d3.event.transform);
+  }

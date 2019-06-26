@@ -1,5 +1,6 @@
 ---
 layout: person
+family: collins
 person_name: Edward Green(e)
 permalink: /collins/person/edward-green
 born: March 11, 1798/1799
