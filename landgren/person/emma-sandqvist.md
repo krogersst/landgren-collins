@@ -14,9 +14,9 @@ baptised_ref1: "1"
 baptismal_place: No. 7 Qvarnby, Södra Sallerup, Malmöhus (Skåne), Sverige (Sweden)
 baptismal_place_ref1: "1"
 mother: Anna Nilsdotter
-mother_link: /landgren/person/emma-sandqvist
+mother_link: /landgren/person/anna-nilsdotter
 mother_ref1: "1"
-father: Jöns Olsson Landqvist
+father: Jöns Olsson Sandqvist
 father_link: /landgren/person/emma-sandqvist
 father_ref1: "1"
 husband: Nils Peter Landgren
@@ -53,7 +53,7 @@ MAP: 12 SOS 86 - Malmöhus - Malmo - 1910-02-24 - Ägostyckning - 18
 [Kvarnby #7](https://historiskakartor.lantmateriet.se/arken/s/show.html?showmap=true&archive=REG&nbOfImages=18&sd_base=lm12&sd_ktun=0003481h&mdat=20170712195822906894)
 
 
-Emma Sandqvist was born in Qvarnby #7, Södra Sallerup, Malmöhus on December 31st, 1889 <sup>([1](#1))</sup>. The family lived in Qvarnby #7 from 1889 to 1895 <sup>([2A](#2A))</sup> before they moved to Tullstorp #4 <sup>([2B](#2B))</sup>. Emma lived with her family in Tullstorp until 1906 <sup>([2B](#2B), [2C](#2C), [2D](#2D))</sup> when she married [Nils Peter Landgren]({{ "/landgren/person/nils-landgren" | relative_url }}) less than a month after he had arrived in Tullstorp on the 12th of April <sup>([2D](#2D), [3](#3))</sup>. The same day as their marriage they are recorded as leaving Södra Sallerup and moving to Limhamn village/farm in the parish of Hyllie <sup>([2D](#2D))</sup>.
+Emma Sandqvist was born in Qvarnby #7, Södra Sallerup, Malmöhus on December 31st, 1889 to [Anna Nilsdotter]({{ "/landgren/person/anna-nilsdotter" | relative_url }}) and [Jöns Olsson Sandqvist]({{ "/landgren/person/jons-sandqvist" | relative_url }}) <sup>([1](#1))</sup>. The family lived in Qvarnby #7 from 1889 to 1895 <sup>([2A](#2A))</sup> before they moved to Tullstorp #4 <sup>([2B](#2B))</sup>. Emma lived with her family in Tullstorp until 1906 <sup>([2B](#2B), [2C](#2C), [2D](#2D))</sup> when she married [Nils Peter Landgren]({{ "/landgren/person/nils-landgren" | relative_url }}) less than a month after he had arrived in Tullstorp on the 12th of April <sup>([2D](#2D), [3](#3))</sup>. The same day as their marriage they are recorded as leaving Södra Sallerup and moving to Limhamn village/farm in the parish of Hyllie <sup>([2D](#2D))</sup>.
 
 They arrive in Limhamn seven days after their wedding. Five months later their first child, Anna Paulina Landgren, is born in Limhamn on the 9th of October, 1907 <sup>([2E](#2E))</sup>. This, combined with Nils' abrupt appearance in Tullstorp and subsequent marriage, suggests that they married because of Emma's pregnancy. Tullstorp, Södra Sallerup and Sunnanå, Burlöv are not very far apart from each other at all, so their meeting is fairly likely. In contrast to these areas, Limhamn, Hyllie, is much closer to the city center, a likely spot for newly weds to try to make a life.
 
