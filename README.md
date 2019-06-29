@@ -70,7 +70,7 @@
 - [ ] Christen Larsson and Elna Johansdotter (parents: Johan Bengtsson and Hanna Andersdotter)
 - [ ] Nils Andersson
 - [ ] Kjerstina Christensdotter
-- [ ] Jons Sandqvist
+- [x] Jons Sandqvist
 - [x] Anna Nilsdotter
 - [x] Nils Peter Landgren
 - [x] Emma Olsson Sandqvist
