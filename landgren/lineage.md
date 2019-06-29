@@ -40,7 +40,7 @@ permalink: /landgren/lineage/
 - 1D. Jons Nilsson and Elna Pehrsdotter
 - 2D. Nils Jonsson and Hanna Hindriksdotter (parents: Henric Pehrsson and Anna ???)
 - 3D. Ola Nilsson and Elna Nilsdotter
-- <a class="bare-link" id="4D">4D</a>. Jons Sandqvist and
+- <a class="bare-link" id="4D">4D</a>. [Jons Sandqvist] and
   - [4E]. [Anna Nilsdotter]
 - <a class="bare-link" id="5D">5D</a>. [Emma Olsson Sandqvist] <sup>([5E], [5F])</sup>
   - [8A]. [Nils Peter Landgren] <sup>([5B], [4C])</sup>
@@ -51,7 +51,7 @@ permalink: /landgren/lineage/
 - <a class="bare-link" id="3E">3E</a>. Nils Andersson and
   - [3F]. Kjerstina Christensdotter
 - <a class="bare-link" id="4E">4E</a>. [Anna Nilsdotter] and
-  - [4D]. Jons Sandqvist
+  - [4D]. [Jons Sandqvist]
 - <a class="bare-link" id="5E">5E</a>. [Emma Olsson Sandqvist] <sup>([5D], [5F])</sup> and
   - [8A]. [Nils Peter Landgren] <sup>([5B], [4C])</sup>
 
@@ -61,7 +61,7 @@ permalink: /landgren/lineage/
 - <a class="bare-link" id="3F">3F</a>. Kjerstina Christensdotter and
   - [3E]. Nils Andersson
 - <a class="bare-link" id="4F">4F</a>. [Anna Nilsdotter] <sup>([4E])</sup> and
-  - [4D]. Jons Sandqvist
+  - [4D]. [Jons Sandqvist]
 - <a class="bare-link" id="5F">5F</a>. [Emma Olsson Sandqvist] <sup>([5D], [5E])</sup> and
   - [8A]. [Nils Peter Landgren] <sup>([5B], [4C])</sup>
 
@@ -86,3 +86,4 @@ permalink: /landgren/lineage/
 [Johanna Ljungberg]: {{ "/landgren/person/johanna-ljungberg" | relative_url }}
 [Lars Landgren]: {{ "/landgren/person/lars-lindgren" | relative_url }}
 [Anna Nilsdotter]: {{"/landgren/person/anna-nilsdotter" | relative_url }}
+[Jons Sandqvist]: {{ "/landgren/person/jons-sandqvist" | relative_url }}
