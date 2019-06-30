@@ -60,7 +60,7 @@
 - [ ] Jons Persson and Pernilla Mansdotter
 - [ ] Nils Johnsson and Hans Nilsdotter
 - [x] Johanna Ljungberg
-- [x] Lars Landgren
+- [ ] Lars Landgren --> FIX REFERENCES
 - [ ] Jons Nilsson and Elna Pehrsdotter
 - [ ] Nils Jonsson and Hanna Hindriksdotter (parents: Henric Pehrsson and Anna ???)
 - [ ] Ola Nilsson and Elna Nilsdotter
@@ -70,7 +70,7 @@
 - [ ] Christen Larsson and Elna Johansdotter (parents: Johan Bengtsson and Hanna Andersdotter)
 - [ ] Nils Andersson
 - [ ] Kjerstina Christensdotter
-- [ ] Jons Sandqvist
-- [ ] Anna Nilsdotter
+- [x] Jons Sandqvist
+- [x] Anna Nilsdotter
 - [x] Nils Peter Landgren
 - [x] Emma Olsson Sandqvist
