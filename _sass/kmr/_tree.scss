@@ -18,16 +18,33 @@
 #tree-info {
   min-width: 250px;
   margin-left: 10px;
-}
-
-#tree-info h2 {
+  h2 {
   margin-top: 2px;
+  }
+  .legend-name {
+    margin-top: 10px;
+    font-family: $body-text;
+  }
+  .tree-button {
+    font-family: $header-text;
+    font-size: 14px;
+    display: inline-block;
+    margin-top: 10px;
+    background-color: #B3DCB0;
+    text-align: center;
+    padding: 10px;
+    max-width: 100px;
+    &:hover {
+      background-color: #89C984;
+      color: $hover-color;
+      cursor: pointer;
+    }
+  }
+  p {
+    padding-bottom: 2px;
+  }
 }
 
-#tree-info .legend-name {
-  margin-top: 10px;
-  font-family: $body-text;
-}
 
 .d3-tip {
   line-height: 1;

@@ -333,7 +333,7 @@ var tip = d3.tip()
 
 // ****************** Reset Button ****************************
 
-d3.select('button')
+d3.select('#reset-button')
   .on("click", reset);
 
 // ****************** Nodes section ***************************
@@ -481,8 +481,8 @@ function directDesc(d) {
              + "<p><strong>Location:</strong> " + d.data.location + "</p>"
              + "<p><strong>Parents:</strong> " + parentList(d)  + "</p>"
              + "<p><strong>Direct Descendant:</strong> " + directDesc(d) + "</p>"
-             + "<p><a href='https://krogersst.github.io/landgren-collins" + d.data.link + "'>More Info . . .</a></p>"
-             + '</div>');
+             + "<p><strong><a href='https://krogersst.github.io/landgren-collins" + d.data.link
+             + "'>More Info <i class='fas fa-share-square'></i></a></strong></p>");
 
 }
 

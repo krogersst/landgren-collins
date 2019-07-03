@@ -7,6 +7,11 @@
 .home-info h1 { margin-bottom: 40px; margin-top: -25px; text-align: right; }
 
 /**
+* Default
+*/
+.wrapper p { padding-bottom: 10px; }
+
+/**
 * Person
 */
 .person-page { margin-top: 20px; }
@@ -16,16 +21,15 @@
 .person-flex { display: flex; justify-content: flex-start; }
 
 .person-info { width: 25%; margin-left: 15px; padding: 10px; border-left: 1px solid black; }
+.person-info p { padding-bottom: 2px; }
 
 .person-photo { max-width: 400px; }
 
 .person-content { width: 75%; padding: 10px; }
-.person-content p { margin-bottom: 10px; }
+.person-content p { padding-bottom: 10px; }
 .person-content img { max-width: 600px; }
 
 #references { margin-top: 10px; padding: 10px; background-color: rgba(255, 255, 255, 0.75); }
-#references p { margin-top: 10px; }
-#references p:first-of-type { margin-top: 0px; }
 
 .letter-ref { list-style: none; }
 .letter-ref p { margin-top: 5px; }
@@ -95,10 +99,11 @@ a:hover { color: #006400; }
 #large-tree { background: white; border: black 2px solid; padding: 5px; }
 
 #tree-info { min-width: 250px; margin-left: 10px; }
-
 #tree-info h2 { margin-top: 2px; }
-
 #tree-info .legend-name { margin-top: 10px; font-family: "Crimson Text", serif; }
+#tree-info .tree-button { font-family: "Noto Sans HK", sans-serif; font-size: 14px; display: inline-block; margin-top: 10px; background-color: #B3DCB0; text-align: center; padding: 10px; max-width: 100px; }
+#tree-info .tree-button:hover { background-color: #89C984; color: #006400; cursor: pointer; }
+#tree-info p { padding-bottom: 2px; }
 
 .d3-tip { line-height: 1; padding: 5px; background: rgba(0, 0, 0, 0.8); font-family: "Crimson Text", serif; font-size: 14px; color: #fff; border-radius: 2px; }
 
