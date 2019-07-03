@@ -3,31 +3,30 @@ layout: person
 family: landgren
 person_name: Nils Jonsson
 permalink: /landgren/person/nils-jonsson
-born: November, 4, 1823
+born: June 14, 1794
 born_ref1: "1A"
-birthplace: Tejarp No.5, Hyby, Malmöhus (Skåne), Sverige (Sweden)
+birthplace: Malmöhus (Skåne), Sverige (Sweden)
 birthplace_ref1: "1A"
-mother: Hanna Hindriksdotter
-mother_link: /landgren/person/ola-nilsson
+mother: Elna Pehrsdotter
+mother_link: /landgren/person/jons-nilsson
 mother_ref1: "1A"
-father: Nils Jonsson
-father_link: /landgren/person/ola-nilsson
+father: Jons Nilsson
+father_link: /landgren/person/jons-nilsson
 father_ref1: "1A"
-wife: Elna Nilsdotter
-wife_link: /landgren/person/elna-nilsdotter
+wife: Hanna Hindriksdotter
+wife_link: /landgren/person/hanna-hindriksdotter
 wife_ref1: "1I"
-married: "~1846"
+married: "?"
 married_ref1: "1I"
-marriage_place: Bara, Malmöhus (Skåne), Sverige (Sweden)
+marriage_place: Malmöhus (Skåne), Sverige (Sweden)
 marriage_place_ref1: "1H"
-marriage_place_ref2: "1I"
 descendant: Ola Nilsson
 descendant_link: /landgren/person/ola-nilsson
 descendant_ref1: "3"
-death: May 20, 1888
-death_ref1: "2C"
-death_place: Barahus, Bara, Malmöhus (Skåne), Sverige (Sweden)
-death_place_ref1: "2C"
+death: uknown
+death_ref1: "?"
+death_place: Malmöhus (Skåne), Sverige (Sweden)
+death_place_ref1: "?"
 burial_place: unknown
 burial_place_ref1: "?"
 references: "nils-jonsson-ref.html"
