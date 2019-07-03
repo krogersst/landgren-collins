@@ -22,7 +22,7 @@ marriage_place: Bara, Malmöhus (Skåne), Sverige (Sweden)
 marriage_place_ref1: "1B"
 marriage_place_ref2: "1C"
 descendant: Jöns Olof Olsson
-descendant: /landgren/person/jons-sandqvist
+descendant_link: /landgren/person/jons-sandqvist
 descendant_ref1: "3"
 death: April 10, 1895
 death_ref1: "2C"
