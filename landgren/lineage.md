@@ -38,7 +38,7 @@ permalink: /landgren/lineage/
 
 ### Nilsson and Pehrsdotter Descendants
 - 1D. Jons Nilsson and Elna Pehrsdotter
-- 2D. Nils Jonsson and Hanna Hindriksdotter (parents: Henric Pehrsson and Anna ???)
+- 2D. [Nils Jonsson] and Hanna Hindriksdotter (parents: Henric Pehrsson and Anna ???)
 - 3D. [Ola Nilsson] and [Elna Nilsdotter]
 - <a class="bare-link" id="4D">4D</a>. [Jons Sandqvist] and
   - [4E]. [Anna Nilsdotter]
@@ -90,3 +90,4 @@ permalink: /landgren/lineage/
 [Jons Sandqvist]: {{ "/landgren/person/jons-sandqvist" | relative_url }}
 [Ola Nilsson]: {{ "/landgren/person/ola-nilsson" | relative_url }}
 [Elna Nilsdotter]: {{ "/landgren/person/elna-nilsdotter" | relative_url }}
+[Nils Jonsson]: {{ "/landgren/person/nils-jonsson" | relative_url }}
