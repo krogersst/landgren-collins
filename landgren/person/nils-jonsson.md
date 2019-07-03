@@ -22,11 +22,11 @@ marriage_place: Malmöhus (Skåne), Sverige (Sweden)
 marriage_place_ref1: "1H"
 descendant: Ola Nilsson
 descendant_link: /landgren/person/ola-nilsson
-descendant_ref1: "3"
-death: uknown
-death_ref1: "?"
-death_place: Malmöhus (Skåne), Sverige (Sweden)
-death_place_ref1: "?"
+descendant_ref1: "1"
+death: April 16, 1850
+death_ref1: "1"
+death_place: Tejarp No. 5, Hyby, Malmöhus (Skåne), Sverige (Sweden)
+death_place_ref1: "1"
 burial_place: unknown
 burial_place_ref1: "?"
 references: "nils-jonsson-ref.html"
