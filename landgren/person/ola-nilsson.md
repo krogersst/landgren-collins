@@ -11,7 +11,7 @@ mother: Hanna Hindriksdotter
 mother_link: /landgren/person/ola-nilsson
 mother_ref1: "1A"
 father: Nils Jonsson
-father_link: /landgren/person/ola-nilsson
+father_link: /landgren/person/nils-jonsson
 father_ref1: "1A"
 wife: Elna Nilsdotter
 wife_link: /landgren/person/elna-nilsdotter
