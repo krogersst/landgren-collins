@@ -63,7 +63,7 @@
 - [ ] Lars Landgren --> FIX REFERENCES
 - [ ] Jons Nilsson and Elna Pehrsdotter
 - [ ] Nils Jonsson and Hanna Hindriksdotter (parents: Henric Pehrsson and Anna ???)
-- [ ] Ola Nilsson and Elna Nilsdotter
+- [x] Ola Nilsson and Elna Nilsdotter
 - [ ] Daniel Jorensson and Elna Hansdotter
 - [ ] Anders Danielsson and Anna Hansdotter (parents: Hans Olsson and Elna Mansdotter)
 - [ ] Lars Pahlsson and Karna Jonsdotter
