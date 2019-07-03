@@ -30,7 +30,7 @@ death_place: Barahus, Bara, Malmöhus (Skåne), Sverige (Sweden)
 death_place_ref1: "2D"
 burial_place: unknown
 burial_place_ref1: "?"
-references: "elna-nildr-ref.html"
+references: "elna-nilsdr-ref.html"
 ---
 Elna Nilsdotter is recorded on every household examination record as having a birthplace of Bara parish, however I cannot find any corroborating records, such as a household examination record featuring her with her parents or an entry in the parish birth books in 1825. She probably moved to Lyngby parish at some point where she lived until 1842 when she moved to Bara No. 1 7/8 farm in Bara parish <sup>([1B](#1B))</sup>. On December 16, 1845, she gives birth to Karna Nildotter out of wedlock <sup>([1A](#1A))</sup> and in 1846 she marries [Ola Nilsson]({{ '/landgren/person/ola-nilsson' | relative_url }}). Karna is not shown to be his daughter, but there is no conclusive proof either way. By 1846 Ola and Elna are married and living in Engagården village/farm in Bara parish where they remained for five years <sup>([1C](#1C), [1D](#1D))</sup> before spending a year in Barahus <sup>([1E](#1E))</sup>, and another year in Torup <sup>([1F](#1F))</sup>.
 
