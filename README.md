@@ -41,6 +41,7 @@
 - [ ] Johann Christian Dräger and Hanna Charlotta Verges
 - [ ] Dorothea Dräger
 - [ ] Gottfried Juhnke
+- [ ] Franics and Elizabeth Blakely
 - [x] Daniel M. Sheffield and Mary Ann Blakely
 - [x] Sarah Sheffield
 - [x] William Allen
