@@ -3,9 +3,9 @@ layout: person
 family: landgren
 person_name: Hanna Hindriksdotter
 permalink: /landgren/person/hanna-hindriksdotter
-born: June 14, 1794
+born: March 18, 1798
 born_ref1: "1A"
-birthplace: Tejarp, Hyby, Malmöhus (Skåne), Sverige (Sweden)
+birthplace: Hyby, Malmöhus (Skåne), Sverige (Sweden)
 birthplace_ref1: "1A"
 mother: Anna ????
 mother_link: /landgren/person/hanna-hindriksdotter
