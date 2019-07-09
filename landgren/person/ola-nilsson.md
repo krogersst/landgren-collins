@@ -8,7 +8,7 @@ born_ref1: "1A"
 birthplace: Tejarp No.5, Hyby, Malmöhus (Skåne), Sverige (Sweden)
 birthplace_ref1: "1A"
 mother: Hanna Hindriksdotter
-mother_link: /landgren/person/ola-nilsson
+mother_link: /landgren/person/hanna-hindriksdotter
 mother_ref1: "1A"
 father: Nils Jonsson
 father_link: /landgren/person/nils-jonsson
