@@ -11,6 +11,7 @@
 - [x] Fix person layout
 - [x] Add "fullname" to collinstree.js
 - [x] Add family to collins frontmatter
+- [ ] Add interactive tree only page
 
 ### Collins
 - [ ] Family Overview
