@@ -9,13 +9,17 @@ birthplace: Genarp, Malmöhus (Skåne), Sverige (Sweden)
 birthplace_ref1: "1"
 mother: Elna Johnsdotter
 mother_link: /landgren/person/elna-johnsdotter
-mother_ref1: "1"
+mother_ref1: "1A"
 father: Christen Larsson
 father_link: /landgren/person/christen-larsson
-father_ref1: "1"
+father_ref1: "1A"
+mother: Elna Johnsdotter
+mother_link: /landgren/person/elna-johnsdotter
+mother_ref1: "1A"
+mother_ref2: "1B"
 husband: Nils Andersson
 husband_link: /landgren/person/nils-andersson
-husband_ref1: "3"
+husband_ref1: "1"
 married: April 19, 1867
 married_ref1: "3"
 marriage_place: Genarp, Malmöhus (Skåne), Sverige (Sweden)
