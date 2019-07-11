@@ -12,6 +12,7 @@
 - [x] Add "fullname" to collinstree.js
 - [x] Add family to collins frontmatter
 - [ ] Add interactive tree only page
+- [ ] Add printer friendly version of trees
 
 ### Collins
 - [ ] Family Overview
