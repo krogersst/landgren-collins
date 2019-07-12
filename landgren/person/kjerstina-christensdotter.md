@@ -10,9 +10,6 @@ birthplace_ref1: "1A"
 baptised: May 18th, 1842
 baptism_place: Grentige, Genarp, Malmöhus (Skåne), Sverige (Sweden)
 baptism_ref1: "1A"
-mother: Elna Johnsdotter
-mother_link: /landgren/person/elna-johnsdotter
-mother_ref1: "1A"
 father: Christen Larsson
 father_link: /landgren/person/christen-larsson
 father_ref1: "1A"
