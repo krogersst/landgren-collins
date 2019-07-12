@@ -10,7 +10,7 @@ birthplace_ref1: "1A"
 baptised: November 20th, 1836
 baptised_ref1: "1A"
 baptismal_place: Grentige, Genarp, Malmöhus (Skåne), Sverige (Sweden)
-baptismal_ref1: "1A"
+baptismal_place_ref1: "1A"
 father: Anders Danielson
 father_link: /landgren/person/anders-danielsson
 father_ref1: "1A"
