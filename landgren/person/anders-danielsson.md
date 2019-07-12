@@ -3,20 +3,22 @@ layout: person
 family: landgren
 person_name: Anders Danielsson
 permalink: /landgren/person/anders-danielsson
-born: "1805"
+born: October 24, 1805
 born_ref1: "1A"
 birthplace: Lyngby, Malmöhus (Skåne), Sverige (Sweden)
 birthplace_ref1: "1A"
-baptised: November 20th, 1836
-baptised_ref1: "1A"
-baptismal_place: Grentige, Genarp, Malmöhus (Skåne), Sverige (Sweden)
-baptismal_place_ref1: "1A"
+baptised: October 30, 1805
+baptised_ref1: "2"
+baptismal_place: Lyngby, Malmöhus (Skåne), Sverige (Sweden)
+baptismal_place_ref1: "2"
 father: Daniel Jorensson
 father_link: /landgren/person/anders-danielsson
 father_ref1: "1A"
+father_ref2: "2"
 mother: Elna Hansdotter
 mother_link: /landgren/person/anders-danielsson
 mother_ref1: "1A"
+mother_ref2: "2"
 wife: Anna Hansdotter
 wife_link: /landgren/person/anna-hansdotter
 wife_ref1: "3"
