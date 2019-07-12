@@ -7,7 +7,7 @@ born: November 16th, 1836
 born_ref1: "1A"
 birthplace: Grentige, Genarp, Malmöhus (Skåne), Sverige (Sweden)
 birthplace_ref1: "1A"
-baptised: November 18th, 1836
+baptised: November 20th, 1836
 baptism_place: Grentige, Genarp, Malmöhus (Skåne), Sverige (Sweden)
 baptism_ref1: "1A"
 father: Anders Danielson
