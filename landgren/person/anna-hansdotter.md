@@ -3,14 +3,10 @@ layout: person
 family: landgren
 person_name: Anna Hansdotter
 permalink: /landgren/person/anna-hansdotter
-born: May 1, 1800
+born: June 1, 1800
 born_ref1: "1A"
 birthplace: Bara, Malmöhus (Skåne), Sverige (Sweden)
 birthplace_ref1: "1A"
-baptised: May 10, 1800
-baptised_ref1: "1A"
-baptismal_place: Bara, Malmöhus (Skåne), Sverige (Sweden)
-baptismal_place_ref1: "1A"
 father: Hans Olsson
 father_link: /landgren/person/anna-hansdotter
 father_ref1: "1A"
