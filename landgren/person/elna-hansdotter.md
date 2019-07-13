@@ -5,32 +5,33 @@ person_name: Elna Hansdotter
 permalink: /landgren/person/elna-hansdotter
 born: November 6, 1776
 born_ref1: "1A"
-birthplace: Michelborg, Genarp, Malmöhus (Skåne), Sverige (Sweden)
+birthplace: Mechlenboürg, Genarp, Malmöhus (Skåne), Sverige (Sweden)
 birthplace_ref1: "1A"
-baptised: November 10, 1776
-baptised_ref1: "1A"
-baptismal_place: Michelborg, Genarp, Malmöhus (Skåne), Sverige (Sweden)
-baptismal_place_ref1: "1A"
-father: ????
+father: Hans Persson
 father_link: /landgren/person/elna-hansdotter
 father_ref1: "1A"
 mother: ????
 mother_link: /landgren/person/elna-hansdotter
-mother_ref1: "1A"
-husband: Daniel Jorensson 
-married: "1800"
-married_ref1: "1F"
-marriage_place: Genarp, Malmöhus (Skåne), Sverige (Sweden)
-marriage_place_ref1: "1F"
+mother_ref1: "?"
+husband: Daniel Jorensson
+husband_ref1: "1B"
+husband_link: /landgren/person/elna-hansdotter
+married: "1799"
+married_ref1: "1B"
+marriage_place: No. 6 Lyngby, Lyngby, Malmöhus (Skåne), Sverige (Sweden)
+marriage_place_ref1: "1B"
 descendant: Anders Danielsson
 descendant_link: /landgren/person/anders-danielsson
-descendant_ref1: "1J"
-death: September 27, 1830
-death_ref1: "1U"
-death_place: Genarp No. 6, Genarp, Malmöhus (Skåne), Sverige (Sweden)
-death_place_ref1: "1U"
+descendant_ref1: "1C"
+death: "1856"
+death_ref1: "1L"
+death_place: No. 6 3/16 Lyngby, Lyngby, Malmöhus (Skåne), Sverige (Sweden)
+death_place_ref1: "1L"
 burial_place: unknown
 burial_place_ref1: "?"
 references: "elna-hansdr-ref.html"
 ---
-On October 24, 1805, Anders Danielsson was born in Lyngby parish, Malmöhus county to [Elna Hansdotter]({{ '/landgren/person/elna-hansdotter' | relative_url }}) and [Daniel Jorensson]({{ '/landgren/person/elna-hansdotter' | relative_url }}) <sup>([1A](#1A))</sup>. Anders lived with his family in No. 6 Lyngby village/farm in Lyngby parish for twenty years <sup>([1B](#1B), [1C](#1C), [1D](#1D), [1E](#1E))</sup>. During his time in Lyngby, Anders's father died in 1820 at the age of 54. A year later, Nils?? Larsson became the head of the household, aged 29 <sup>([1D](#1D))</sup>. Anders moved away five years later to Michelborg in Genarp parish, Malmöhus county in 1825 <sup>([1F](#1F))</sup>. 
+
+Elna Hansdotter's husband, Daniel Jorensson, was born on September 21, 1766 to Jorens Danielsson (b. 1729 <sup>([2B](#2B))</sup>) and Helena Christiansdotter in the parish of Lyngby in Malmöhus county <sup>([2A](#2A))</sup>. Elna herself was born ten years later to Hans Persson (b. 1746) and an unknown mother in 1776 in Mechlenboürg (Mikelborg) in the parish of Genarp in Malmöhus county. She lived in Mechlenboürg until she married Daniel Jorensson and moved in with him in No. 6 Lyngby, Lyngby parish in 1799 <sup>([1B](#1B))</sup>. Six years later, on October 24, 1805, their son Anders Danielsson was born in Lyngby parish, Malmöhus county <sup>([1C](#1C))</sup>. In 1820, Daniel Jorensson died at the age of 54 and a year later, Nils Larsson became the head of the household, aged 29 <sup>([1F](#1F))</sup>. Anders moved away five years later to his mother's home town of Michelborg in Genarp parish, Malmöhus county in 1825 <sup>([1G](#1G))</sup>.
+
+Elna lived with Nils Larsson for the rest of her life. From the time she was married to Daniel until her death <sup>([1L](#1L))</sup>, she lived in Lyngby No. 6 for a total of 77 years, from 1799 to 1856.
