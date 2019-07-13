@@ -16,7 +16,7 @@ permalink: /landgren/lineage/
 - <a class="bare-link" id="7A">7A</a>. [Johanna Ljungberg] <sup>([4B])</sup> and
   - [3C]. [Lars Landgren]
 - <a class="bare-link" id="8A">8A</a>. [Nils Peter Landgren] <sup>([5B], [4C])</sup> and
-  - [5D]. [Emma Olsson Sandqvist] <sup>([5E], [5F])</sup>
+  - [5D]. [Emma Olsson Sandqvist] <sup>([6E], [5F])</sup>
 
 ### Ljungberg and Blomsström Descendants
 - 1B. Hans Ljungberg and Helena Blomsström
@@ -26,7 +26,7 @@ permalink: /landgren/lineage/
 - <a class="bare-link" id="4B">4B</a>. [Johanna Ljungberg] <sup>([7A])</sup> and
   - [3C]. [Lars Landgren]
 - <a class="bare-link" id="5B">5B</a>. [Nils Peter Landgren] <sup>([8A], [4C])</sup> and
-  - [5D]. [Emma Olsson Sandqvist] <sup>([5E], [5F])</sup>
+  - [5D]. [Emma Olsson Sandqvist] <sup>([6E], [5F])</sup>
 
 ### Persson and Mansdotter Descendants
 - 1C. Jons Persson and Pernilla Mansdotter
@@ -34,35 +34,36 @@ permalink: /landgren/lineage/
 - <a class="bare-link" id="3C">3C</a>. [Lars Landgren] and
   - [7A]. [Johanna Ljungberg] <sup>([4B])</sup>
 - <a class="bare-link" id="4C">4C</a>. [Nils Peter Landgren] <sup>([8A], [5B])</sup> and
-  - [5D]. [Emma Olsson Sandqvist] <sup>([5E], [5F])</sup>
+  - [5D]. [Emma Olsson Sandqvist] <sup>([6E], [5F])</sup>
 
 ### Nilsson and Pehrsdotter Descendants
 - 1D. Jons Nilsson and Elna Pehrsdotter
 - 2D. [Nils Jonsson] and [Hanna Hindriksdotter] (parents: Henric Pehrsson and Anna Tufvestdotter)
 - 3D. [Ola Nilsson] and [Elna Nilsdotter]
 - <a class="bare-link" id="4D">4D</a>. [Jons Sandqvist] and
-  - [4E]. [Anna Nilsdotter]
-- <a class="bare-link" id="5D">5D</a>. [Emma Olsson Sandqvist] <sup>([5E], [5F])</sup>
+  - [5E]. [Anna Nilsdotter]
+- <a class="bare-link" id="5D">5D</a>. [Emma Olsson Sandqvist] <sup>([6E], [5F])</sup>
   - [8A]. [Nils Peter Landgren] <sup>([5B], [4C])</sup>
 
-### Jorensson and Hansdotter Descendants
-- 1E. Daniel Jorensson and Elna Hansdotter
-- 2E. Anders Danielsson and Anna Hansdotter (parents: Hans Olsson and Elna Mansdotter)
-- <a class="bare-link" id="3E">3E</a>. [Nils Andersson] and
+### Danielsson and Christiansdotter Descendants
+- 1E. Jorens Danielsson and Helena Christiansdotter
+- 2E. [Daniel Jorensson] and [Elna Hansdotter] (father: Hans Persson)
+- 3E. [Anders Danielsson] and [Anna Hansdotter] (parents: Hans Olsson and Elna Mansdotter)
+- <a class="bare-link" id="4E">4E</a>. [Nils Andersson] and
   - [3F]. [Kjerstina Christensdotter]
-- <a class="bare-link" id="4E">4E</a>. [Anna Nilsdotter] and
+- <a class="bare-link" id="5E">5E</a>. [Anna Nilsdotter] and
   - [4D]. [Jons Sandqvist]
-- <a class="bare-link" id="5E">5E</a>. [Emma Olsson Sandqvist] <sup>([5D], [5F])</sup> and
+- <a class="bare-link" id="6E">6E</a>. [Emma Olsson Sandqvist] <sup>([5D], [5F])</sup> and
   - [8A]. [Nils Peter Landgren] <sup>([5B], [4C])</sup>
 
 ### Pahlsson and Jonsdotter Descendants
 - 1F. Lars Pahlsson and Karna Jonsdotter
 - 2F. Christen Larsson and Elna Johansdotter (parents: Johan Bengtsson and Hanna Andersdotter)
 - <a class="bare-link" id="3F">3F</a>. [Kjerstina Christensdotter] and
-  - [3E]. [Nils Andersson]
-- <a class="bare-link" id="4F">4F</a>. [Anna Nilsdotter] <sup>([4E])</sup> and
+  - [4E]. [Nils Andersson]
+- <a class="bare-link" id="4F">4F</a>. [Anna Nilsdotter] <sup>([5E])</sup> and
   - [4D]. [Jons Sandqvist]
-- <a class="bare-link" id="5F">5F</a>. [Emma Olsson Sandqvist] <sup>([5D], [5E])</sup> and
+- <a class="bare-link" id="5F">5F</a>. [Emma Olsson Sandqvist] <sup>([5D], [6E])</sup> and
   - [8A]. [Nils Peter Landgren] <sup>([5B], [4C])</sup>
 
 [6A]: #6A
@@ -75,9 +76,9 @@ permalink: /landgren/lineage/
 [4C]: #4C
 [4D]: #4D
 [5D]: #5D
-[3E]: #3E
 [4E]: #4E
 [5E]: #5E
+[6E]: #6E
 [3F]: #3F
 [4F]: #4F
 [5F]: #5F
@@ -89,6 +90,10 @@ permalink: /landgren/lineage/
 [Anna Nilsdotter]: {{ "/landgren/person/anna-nilsdotter" | relative_url }}
 [Kjerstina Christensdotter]: {{ "/landgren/person/kjerstina-christensdotter" | relative_url }}
 [Nils Andersson]: {{ "/landgren/person/nils-andersson" | relative_url }}
+[Anders Danielsson]: {{ "/landgren/person/anders-danielsson" | relative_url }}
+[Anna Hansdotter]: {{ "/landgren/person/anna-hansdotter" | relative_url }}
+[Daniel Jorensson]: {{ "/landgren/person/elna-hansdotter" | relative_url }}
+[Elna Hansdotter]: {{ "/landgren/person/elna-hansdotter" | relative_url }}
 [Jons Sandqvist]: {{ "/landgren/person/jons-sandqvist" | relative_url }}
 [Ola Nilsson]: {{ "/landgren/person/ola-nilsson" | relative_url }}
 [Elna Nilsdotter]: {{ "/landgren/person/elna-nilsdotter" | relative_url }}
