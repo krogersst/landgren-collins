@@ -67,8 +67,8 @@
 - [x] Jons Nilsson and Elna Pehrsdotter
 - [x] Nils Jonsson and Hanna Hindriksdotter (parents: Henric Pehrsson and Anna Tufvesdotter)
 - [x] Ola Nilsson and Elna Nilsdotter
-- [ ] Daniel Jorensson and Elna Hansdotter
-- [ ] Anders Danielsson and Anna Hansdotter (parents: Hans Olsson and Elna Mansdotter)
+- [x] Daniel Jorensson and Elna Hansdotter
+- [x] Anders Danielsson and Anna Hansdotter (parents: Hans Olsson and Elna Mansdotter)
 - [ ] Lars Pahlsson and Karna Jonsdotter
 - [ ] Christen Larsson and Elna Johansdotter (parents: Johan Bengtsson and Hanna Andersdotter)
 - [x] Nils Andersson
