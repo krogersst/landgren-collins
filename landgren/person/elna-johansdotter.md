@@ -12,7 +12,7 @@ baptised_ref: "1A"
 baptismal_place: Espethus, Genarp, Malmöhus(Skåne), Sverige (Sweden)
 baptismal_ref1: "1A"
 father: Johan Bengtsson
-father_link: landgren/person/johan-bengtsson
+father_link: /landgren/person/johan-bengtsson
 father_ref1: "1A"
 mother: Hanna Ohlsdotter
 mother_link: /landgren/person/hanna-ohlsdotter
