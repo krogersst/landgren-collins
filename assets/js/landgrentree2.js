@@ -320,24 +320,31 @@ var treeData =
 	     "fullname": "Christen Larsson",
              "birth": "1815",
              "location": "Genarp, Malmöhus",
-	     "link": "/landgren/about",
+	     "link": "/landgren/person/christen-larsson",
              "children": [
               {"name": "Lars Pahlsson",
 	       "fullname": "Lars Pahlsson",
                "birth": "1777",
                "location": "Genarp, Malmöhus",
-	       "link": "/landgren/about"},
+	       "link": "/landgren/person/lars-pahlsson",
+	       "children": [
+		{"name": "Påhl Andersson",
+		 "fullname": "Påhl Andersson",
+		 "birth": "????",
+		 "location": "Unknown",
+		 "link": "/landgren/person/lars-pahlsson"}
+	       ]},
               {"name": "Karna Jonsdr",
 	       "fullname": "Karna Jonsdotter",
                "birth": "1783",
-               "location": "Klagstorp, Malmöhus",
-	       "link": "/landgren/about"}
+               "location": "Klagstorpshus, Malmöhus",
+	       "link": "/landgren/person/lars-pahlsson"}
             ]},
             {"name": "Elna Johansdr",
 	     "fullname": "Elna Johansdotter",
              "birth": "1815",
              "location": "Espet, Genarp, Malmöhus",
-	     "link": "/landgren/about",
+	     "link": "/landgren/person/elna-johansdotter",
              "children": [
               {"name": "Johan Bengtsson",
 	       "fullname": "Johan Bengtsson",
