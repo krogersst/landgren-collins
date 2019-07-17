@@ -362,7 +362,7 @@ var treeData =
                "location": "Genarp, Malmöhus",
 	       "link": "/landgren/about",
 	      "children": [
-		{"name": "Ola Fredericks'n",
+		{"name": "Ola Fredericksson",
 		 "fullname": "Ola Fredericksson",
 		 "birth": "????",
 		 "location": "Unknown",
