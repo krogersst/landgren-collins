@@ -366,7 +366,7 @@ var treeData =
 		 "fullname": "Ola Fredericksson",
 		 "birth": "????",
 		 "location": "Unknown",
-		 "link": "/landgren/about"}
+		 "link": "/landgren/about"},
 		{"name": "Kjerstina Larsdr",
 		 "fullname": "Kjerstina Larsdotter",
 		 "birth": "????",
