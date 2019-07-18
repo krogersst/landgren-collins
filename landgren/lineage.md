@@ -69,7 +69,7 @@ permalink: /landgren/lineage/
   - [8A]. [Nils Peter Landgren] <sup>([5B], [4C])</sup>
   
 ### Johansson and Carlsdotter
-- 1G. Bengt Johansson and Marna Carlsdotter
+- 1G. [Bengt Johansson] and Marna Carlsdotter
 - 2G. [Johan Bengtsson] and [Hanna Ohlsdotter] (parents: Ola Fredricksson and Kjerstina Larsdotter)
 - <a class="bare-link" id="3G">3G</a>. [Elna Johansdotter] and
   - [3F]. [Christen Larsson]
@@ -125,3 +125,4 @@ permalink: /landgren/lineage/
 [Hanna Ohlsdotter]: {{ "/landgren/person/hanna-ohlsdotter" | relative_url }}
 [Johan Bengtsson]: {{ "/landgren/person/johan-bengtsson" | relative_url }}
 [Lars Pahlsson]: {{ "/landgren/person/lars-pahlsson" | relative_url }}
+[Bengt Johansson]: {{ "/landgren/person/bengt-johansson" | relative_url }}
