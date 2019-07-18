@@ -58,7 +58,7 @@ permalink: /landgren/lineage/
 
 ### Påhl Andersson Descendants
 - 1F. Påhl Andersson
-- 2F. [Lars Pahlsson] and [Karna Jonsdotter]
+- 2F. [Lars Pahlsson] and Karna Jonsdotter
 - <a class="bare-link" id="3F">3F</a>. [Christen Larsson] and
   - [3G]. [Elna Johansdotter]
 - <a class="bare-link" id="4F">4F</a>. [Kjerstina Christensdotter] and
