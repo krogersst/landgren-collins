@@ -24,13 +24,17 @@ descendant: Johan Bengtsson
 descendant_link: /landgren/person/johan-bengtsson
 descendant_ref1: "1B"
 death: April 14, 1837
-death_ref1: "1N"
+death_ref1: "1M"
 death_place: Sjöledhus, Genarp, Malmöhus (Skåne), Sverige (Sweden)
-death_place_ref1: "1N"
+death_place_ref1: "1M"
 burial_place: unknown
 burial_place_ref1: "?"
 references: "bengt-johansson-ref.html"
 ---
-Johan Bengtsson was born on the 26th of July, 1792 to Marna Carlsdotter and Bengt Johansson in Stubbarp, Gödelöv parish, Malmöhus county <sup>([1A](#1A))</sup>. Johan lived in Stubbarp, Gödelöv parish with his family until he left in 1810 <sup>([1D](#1D))</sup> to spend a year in Kyrkoköpinge parish before returning home <sup>([1E](#1E))</sup>. The family then moved to Genarp No. 11 1/4 in 1812 where Johan presumably met his future wife <sup>([1F](#1F))</sup> When Johan married [Hanna Ohlsdotter]({{ '/landgren/person/hanna-ohlsdotter' | relative_link }}) around 1815, he moved to her family's farm or village in Espet and the two of them stayed there until Johan's death <sup>([1G](#1G), [1N](#1N))</sup>.
+Bengt Johansson was possibly born in Kohagahus, Halmstad parish, Malmöhus county to Johan Andersson on the 25th of May, 1770 sup>([1A](#1A))</sup>. The parish name and year matches up with his later entries in the household parish records however the month and year do not, but considering that his month and year aren't written down until much later, they may not be wholly accurate themselves.
 
-On October 27, 1815, their first daughter, Elna Johansdotter was born in Espethus, Genarp parish, Malmöhus county <sup>([1H](#1H))</sup>. When she was two years old she was sent to live with Hanna's parents Ola Fredricksson and Kjerstina Larsdotter in Skogledhus in Genarp parish <sup>([1G](#1G))</sup>. Two years later, in 1820, she was living once again with her parents in Espehus <sup>([1I](#1I))</sup>. She lived with her family in Espehus/Espet 13 until sometime in the mid 1830s <sup>([1K](#1K))</sup>. Johan continued to live in Espet until his death. On the 6th of September, 1857, Johan Bengtsson passed away at the age of 45<sup>([1N](#1N))</sup>.
+The family next shows up in their first son's birth record and the 1796-1802 record for Stubbarp, Gödelöv parish <sup>([1C](#1C))</sup>. By this point Bengt has presumably married Marna Carlsdotter who was born sometime in Växjö parish, Kronoberg County (Småland), in the 1805-1810 parish record, her birthplace is recorded as Växjö <sup>([1E](#1E))</sup>, while in following years it is listed as Småland, the general province where Växjö is located. Her birth date was never recorded in these household records.
+
+[Johan Bengtsson]({{ '/landgren/person/johan-bengtsson' | relative_link }}) was born on the 26th of July, 1792 to Marna Carlsdotter and Bengt Johansson in Stubbarp, Gödelöv parish, Malmöhus county <sup>([1B](#1B))</sup>. Johan lived in Stubbarp, Gödelöv parish with his family until he left in 1810 <sup>([1E](#1E))</sup> to spend a year in Kyrkoköpinge parish before returning home <sup>([1F](#1F))</sup>. The family then moved to Genarp No. 11 1/4 in 1812 where Johan presumably met his future wife [Hanna Ohlsdotter]({{ '/landgren/person/hanna-ohlsdotter' | relative_link }}) <sup>([1G](#1G))</sup>.
+
+Bengt and Marna lived in Genarp No. 11 1/4, Genarp parish for another 19 years before they moved to Sjöledhus, Genarp in 1831 <sup>([1L](#1L))</sup>. Two years later, Marna passed away in 1833 <sup>([1L](#1L))</sup>. Four years after her death, Bengt also passed away on the 14th of April, 1837 at the age of 57 <sup>([1M](#1M))</sup>.
