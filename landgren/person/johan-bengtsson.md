@@ -12,10 +12,10 @@ baptised_ref: "1A"
 baptismal_place: Stubbarp, Gödelöv, Malmöhus (Skåne), Sverige (Sweden)
 baptismal_ref1: "1A"
 father: Bengt Johansson
-father_link: /landgren/person/johan-bengtsson
+father_link: /landgren/person/bengt-johansson
 father_ref1: "1A"
 mother: Marna Carlsdotter
-mother_link: /landgren/person/johan-bengtsson
+mother_link: /landgren/person/bengt-johansson
 mother_ref1: "1A"
 wife: Hanna Ohlsdotter
 wife_ref1: "1G"
