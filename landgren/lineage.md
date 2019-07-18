@@ -41,7 +41,7 @@ permalink: /landgren/lineage/
 - 2D. [Nils Jonsson] and [Hanna Hindriksdotter] (parents: Henric Pehrsson and Anna Tufvestdotter)
 - 3D. [Ola Nilsson] and [Elna Nilsdotter]
 - <a class="bare-link" id="4D">4D</a>. [Jons Sandqvist] and
-  - [5E]. [Anna Nilsdotter]
+  - [5E]. [Anna Nilsdotter] <sup>([5F])</sup>
 - <a class="bare-link" id="5D">5D</a>. [Emma Olsson Sandqvist] <sup>([6E], [5F])</sup>
   - [8A]. [Nils Peter Landgren] <sup>([5B], [4C])</sup>
 
@@ -50,20 +50,34 @@ permalink: /landgren/lineage/
 - 2E. [Daniel Jorensson] and [Elna Hansdotter] (father: Hans Persson)
 - 3E. [Anders Danielsson] and [Anna Hansdotter] (parents: Hans Olsson and Elna Mansdotter)
 - <a class="bare-link" id="4E">4E</a>. [Nils Andersson] and
-  - [3F]. [Kjerstina Christensdotter]
-- <a class="bare-link" id="5E">5E</a>. [Anna Nilsdotter] and
+  - [4F]. [Kjerstina Christensdotter]
+- <a class="bare-link" id="5E">5E</a>. [Anna Nilsdotter] <sup>([5F])</sup> and
   - [4D]. [Jons Sandqvist]
-- <a class="bare-link" id="6E">6E</a>. [Emma Olsson Sandqvist] <sup>([5D], [5F])</sup> and
+- <a class="bare-link" id="6E">6E</a>. [Emma Olsson Sandqvist] <sup>([5D], [6F], [6G])</sup> and
   - [8A]. [Nils Peter Landgren] <sup>([5B], [4C])</sup>
 
-### Pahlsson and Jonsdotter Descendants
-- 1F. Lars Pahlsson and Karna Jonsdotter
-- 2F. Christen Larsson and Elna Johansdotter (parents: Johan Bengtsson and Hanna Andersdotter)
-- <a class="bare-link" id="3F">3F</a>. [Kjerstina Christensdotter] and
+### Påhl Andersson Descendants
+- 1F. Påhl Andersson
+- 2F. [Lars Pahlsson] and [Karna Jonsdotter]
+- <a class="bare-link" id="3F">3F</a>. [Christen Larsson] and
+  - [3G]. [Elna Johansdotter]
+- <a class="bare-link" id="4F">4F</a>. [Kjerstina Christensdotter] and
   - [4E]. [Nils Andersson]
-- <a class="bare-link" id="4F">4F</a>. [Anna Nilsdotter] <sup>([5E])</sup> and
+- <a class="bare-link" id="5F">5F</a>. [Anna Nilsdotter] <sup>([5E])</sup> and
   - [4D]. [Jons Sandqvist]
-- <a class="bare-link" id="5F">5F</a>. [Emma Olsson Sandqvist] <sup>([5D], [6E])</sup> and
+- <a class="bare-link" id="6F">6F</a>. [Emma Olsson Sandqvist] <sup>([5D], [6E], [6G])</sup> and
+  - [8A]. [Nils Peter Landgren] <sup>([5B], [4C])</sup>
+  
+### Johansson and Carlsdotter
+- 1G. Bengt Johansson and Marna Carlsdotter
+- 2G. [Johan Bengtsson] and [Hanna Ohlsdotter] (parents: Ola Fredricksson and Kjerstina Larsdotter)
+- <a class="bare-link" id="3G">3G</a>. [Elna Johansdotter] and
+  - [3F]. [Christen Larsson]
+- <a class="bare-link" id="4G">4G</a>. [Kjerstina Christendotter] and
+  - [4E]. [Nils Andersson]
+- <a class="bare-link" id="5G">5G</a>. [Anna Nilsdotter] and
+  - [4D]. Jons Sandqvist]
+- <a class="bare-link" id="6G">6G</a>. [Emma Olsson Sandqvist] <sup>([5D], [6E], [6F])</sup> and
   - [8A]. [Nils Peter Landgren] <sup>([5B], [4C])</sup>
 
 [6A]: #6A
@@ -82,6 +96,12 @@ permalink: /landgren/lineage/
 [3F]: #3F
 [4F]: #4F
 [5F]: #5F
+[6F]: #6F
+[3G]: #3G
+[4G]: #4G
+[5G]: #5G
+[6G]: #6G
+
 
 [Emma Olsson Sandqvist]: {{ "/landgren/person/emma-sandqvist" | relative_url }}
 [Nils Peter Landgren]: {{ "/landgren/person/nils-landgren" | relative_url }}
@@ -99,3 +119,9 @@ permalink: /landgren/lineage/
 [Elna Nilsdotter]: {{ "/landgren/person/elna-nilsdotter" | relative_url }}
 [Nils Jonsson]: {{ "/landgren/person/nils-jonsson" | relative_url }}
 [Hanna Hindriksdotter]: {{ "/landgren/person/hanna-hindriksdotter" | relative_url }}
+[Christen Larsson]: {{ "/landgren/person/christen-larsson" | relative_url }}
+[Elna Johansdotter]: {{ "/landgren/person/elna-johansdotter" | relative_url }}
+[Elna Mansdotter]: {{ "/landgren/person/elna-mansdotter" | relative_url }}
+[Hanna Ohlsdotter]: {{ "/landgren/person/hanna-ohlsdotter" | relative_url }}
+[Johan Bengtsson]: {{ "/landgren/person/johan-bengtsson" | relative_url }}
+[Lars Pahlsson]: {{ "/landgren/person/lars-pahlsson" | relative_url }}
