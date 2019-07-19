@@ -30,12 +30,10 @@ descendant: Nils Peter Landgren
 descendant_link: /landgren/person/nils-landgren
 descendant_ref1: "2"
 descendant_ref2: "3"
-death: June 13, 1902
-death_ref1: "2"
-death_ref2: "5"
-death_place: Bara, Malmöhus (Skåne), Sverige (Sweden)
-death_place_ref1: "2"
-death_place_ref2: "5"
+death: Unknown
+death_ref1: "?"
+death_place: Unknown
+death_place_ref1: "?"
 burial_place: Unknown
 burial_ref1: "?"
 references: "lars-lindgren-ref.html"
