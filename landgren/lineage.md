@@ -73,10 +73,10 @@ permalink: /landgren/lineage/
 - 2G. [Johan Bengtsson] and [Hanna Ohlsdotter] (parents: Ola Fredricksson and Kjerstina Larsdotter)
 - <a class="bare-link" id="3G">3G</a>. [Elna Johansdotter] and
   - [3F]. [Christen Larsson]
-- <a class="bare-link" id="4G">4G</a>. [Kjerstina Christendotter] and
+- <a class="bare-link" id="4G">4G</a>. [Kjerstina Christensdotter] and
   - [4E]. [Nils Andersson]
 - <a class="bare-link" id="5G">5G</a>. [Anna Nilsdotter] and
-  - [4D]. Jons Sandqvist]
+  - [4D]. [Jons Sandqvist]
 - <a class="bare-link" id="6G">6G</a>. [Emma Olsson Sandqvist] <sup>([5D], [6E], [6F])</sup> and
   - [8A]. [Nils Peter Landgren] <sup>([5B], [4C])</sup>
 
