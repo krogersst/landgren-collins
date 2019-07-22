@@ -5,31 +5,37 @@ person_name: Lars Nilsson Lindgren
 permalink: /landgren/person/lars-lindgren
 born: February 23, 1853
 born_ref1: "1"
+born_ref2: "3A"
 birthplace: Höör, Malmöhus (Skåne), Sverige (Sweden)
 birthplace_ref1: "1"
+birthplace_ref2: "3A"
+baptised: February 25, 1853
+baptised_ref1: "3A"
+baptised_ref2: "3B"
+baptismal_place: Höör, Malmöhus (Skåne), Sverige (Sweden)
+baptismal_place_ref1: "3A"
 mother: Hanna Nilsdotter
 mother_link: /landgren/person/lars-lindgren
 mother_ref1: "1"
+mother_ref2: "3A"
 father: Nils Johnsson
 father_link: /landgren/person/lars-lindgren
 father_ref1: "1"
+father_ref2: "3A"
 wife: Johanna Ljungberg
 wife_link: /landgren/person/johanna-ljungberg
-wife_ref_1: "2"
-wife_ref_2: "3"
-wife_ref_3: "4"
+wife_ref_1: "3O"
+wife_ref_2: "4"
 married: December 30, 1879
-married_ref1: "2"
-married_ref2: "3"
-married_ref3: "4"
+married_ref1: "3O"
+married_ref2: "4"
 marriage_place: Bara, Malmöhus (Skåne), Sverige (Sweden)
-marriage_place_ref2: "2"
-marriage_place_ref1: "3"
-marriage_place_ref3: "4"
+marriage_place_ref1: "3O"
+marriage_place_ref2: "4"
 descendant: Nils Peter Landgren
 descendant_link: /landgren/person/nils-landgren
-descendant_ref1: "2"
-descendant_ref2: "3"
+descendant_ref1: "4"
+descendant_ref2: "3O"
 death: Unknown
 death_ref1: "?"
 death_place: Unknown
