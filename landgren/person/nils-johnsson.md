@@ -38,6 +38,8 @@ burial_ref1: "?"
 references: "nils-johnsson-ref.html"
 ---
 
-Nils Johnsson was born on the 14th of September, 1816 to [Jons Persson]({{ "/landgren/person/jons-persson" | relative_url }}) and Pernilla Mansdotter in Maglasäte in Höör parish <sup>([1A](#1A))</sup>. His mother died when he was seven years old on the 25th of December, 1822. His father remarried in 1824 <sup>([1B](#1B))</sup>. He lived with his father in Maglasäte No. 6 until he was 12 years old. 
+Nils Johnsson was born on the 14th of September, 1816 to [Jons Persson]({{ "/landgren/person/jons-persson" | relative_url }}) and Pernilla Mansdotter in Maglasäte in Höör parish <sup>([1A](#1A))</sup>. His mother died when he was seven years old on the 25th of December, 1822. His father remarried in 1824 <sup>([1B](#1B))</sup>. He lived with his father in Maglasäte No. 6 until he was 12 years old. http://sites.rootsweb.com/~swewgw/Geogr/thGeoLand00.htm#Fr%C3%A4lse
+
+
 
 Lars Nilsson was born on the 23rd of February, 1853 to [Hanna Nilsdotter]({{ "/landgren/person/hanna-nilsdotter" | relative_url }}) and [Nils Johnsson]({{ "/landgren/person/nils-johnsson" | relative_url }}) in Höör parish, Malmöhus county <sup>([1](#1),[3A](#3A))</sup>. He lived in Sjunnerup No. 2 (Sjunnerup Hus/Stenshutt) in Höör parish with his family for the next 18 years <sup>([3B](#3B), [3C](#3C), [3D](#3D), [3E](#3E))</sup>. During that time, his father, Nils Johnsson, died on the 16th of November, 1867.
