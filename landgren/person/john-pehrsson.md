@@ -15,22 +15,17 @@ father_link: /landgren/person/john-pehrsson
 father_ref1: "?"
 wife: Pernilla Mansdotter
 wife_link: /landgren/person/john-pehrsson
-wife_ref_1: "1"
-married: ~1800
-married_ref1: "1"
-marriage_place: Höör, Malmöhus (Skåne), Sverige (Sweden)
-marriage_place_ref1: "1"
+wife_ref_1: "1A"
 descendant: Nils Johnsson
 descendant_link: /landgren/person/nils-johnsson
-descendant_ref1: "1"
+descendant_ref1: "1B"
 death: "1831"
-death_ref1: "1"
+death_ref1: "1E"
 death_place: Maglasäte No. 6, Höör, Malmöhus (Skåne), Sverige (Sweden)
-death_place_ref1: "1"
+death_place_ref1: "1E"
 burial_place: Unknown
 burial_ref1: "?"
 references: "john-pehrsson-ref.html"
 ---
 
-
-Nils Johnsson was born on the 14th of September, 1816. His mother died when he was seven years old on the 25th of December, 1822. His father remarried in 1824 <sup>([1B](#1B))</sup>. He lived with his father in Maglasäte No. 6 until he was 12 years old.
+John Pehrsson was born in Höör, Malmöhus (Skåne), Sverige (Sweden) in 1779. By 1813, he was married to Pernilla Mansdotter (b. 1785 Munkarp) and the two of them were living in Maglasäte No. 6 <sup>([1A](#1A))</sup>. Their second son, [Nils Johnsson]({{ '/landgren/person/nils-johnsson' | relative_url }}) was born on the 14th of September, 1816. Seven years later, John's first wife, Pernilla, died at the age of 37 on the 25th of December, 1822 <sup>([1C](#1C))</sup>. John remarried in 1824 to Elna Nilsdotter <sup>([1C](#1C))</sup>. Seven years later, John died in 1831 at the age of 52 <sup>([1E](#1E))</sup>.
