@@ -16,7 +16,7 @@ father_ref1: "1"
 wife: Boel Andersdotter
 wife_link: /landgren/person/boel-andersdotter
 wife_ref: "2"
-married: ~1842
+married: October 15, 1847
 married_ref1: "2"
 marriage_place: Bara, Malmöhus (Skåne), Sverige (Sweden)
 marriage_place_ref2: "2"
