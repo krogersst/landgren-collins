@@ -10,7 +10,7 @@ birthplace_ref1: "1"
 mother: Ingar Jonsdotter
 mother_link: /landgren/person/ingar-jonsdotter
 mother_ref1: "1"
-father: Peter Ljungberg
+father: Johannes Ljungberg
 father_link: /landgren/person/johannes-ljungberg
 father_ref1: "1"
 wife: Boel Andersdotter
