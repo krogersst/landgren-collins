@@ -28,9 +28,9 @@ permalink: /landgren/lineage/
 - <a class="bare-link" id="5B">5B</a>. [Nils Peter Landgren] <sup>([8A], [4C])</sup> and
   - [5D]. [Emma Olsson Sandqvist] <sup>([6E], [5F])</sup>
 
-### Persson and Mansdotter Descendants
-- 1C. Jons Persson and Pernilla Mansdotter
-- 2C. Nils Johnsson and Hans Nilsdotter
+### Pehrsson and Mansdotter Descendants
+- 1C. [John Pehrsson] and Pernilla Mansdotter
+- 2C. [Nils Johnsson] and Hanna Nilsdotter
 - <a class="bare-link" id="3C">3C</a>. [Lars Landgren] and
   - [7A]. [Johanna Ljungberg] <sup>([4B])</sup>
 - <a class="bare-link" id="4C">4C</a>. [Nils Peter Landgren] <sup>([8A], [5B])</sup> and
@@ -126,3 +126,5 @@ permalink: /landgren/lineage/
 [Johan Bengtsson]: {{ "/landgren/person/johan-bengtsson" | relative_url }}
 [Lars Pahlsson]: {{ "/landgren/person/lars-pahlsson" | relative_url }}
 [Bengt Johansson]: {{ "/landgren/person/bengt-johansson" | relative_url }}
+[Nils Johnsson]: {{ "/landgren/person/nils-johnsson" | relative_url }}
+[John Pehrsson]: {{ "/landgren/person/john-pehrsson" | relative_url }}
