@@ -5,9 +5,9 @@ person_name: Karna Hindriksdotter
 permalink: /landgren/person/karna-hindriksdotter
 born: November 9, 1788
 born_ref1: "1A"
-birthplace: Sireköpinge, Malmöhus (Skåne), Sverige (Sweden)
+birthplace: Norraby, Sireköpinge, Malmöhus (Skåne), Sverige (Sweden)
 birthplace_ref1: "1A"
-father: Hindrik Palsson
+father: Hindrik Pålsson
 father_link: /landgren/person/karna-hindriksdotter
 father_ref1: "1A"
 mother: Hanna Nilsdotter
@@ -15,23 +15,23 @@ mother_link: /landgren/person/karna-hindriksdotter
 mother_ref1: "1A"
 husband: Anders Carlsson
 husband_link: /landgren/person/anders-carlsson
-husband_ref1: "3"
-married: October 15, 1847
-married_ref1: "3"
-marriage_place: Bara, Malmöhus (Skåne), Sverige (Sweden)
-marriage_place_ref2: "3"
+husband_ref1: "1"
+married: ~1805
+married_ref1: "1"
+marriage_place: Sireköpinge, Malmöhus (Skåne), Sverige (Sweden)
+marriage_place_ref2: "1"
 descendant: Boel Andersdotter
 descendant_link: /landgren/person/boel-andersdotter
-descendant_ref1: "4"
-death: January 19, 1888
-death_ref1: "2B"
-death_place: Wärby Hus, Bara, Malmöhus (Skåne), Sverige (Sweden)
-death_place_ref1: "2B"
+descendant_ref1: "1"
+death: March 3, 1840
+death_ref1: "1"
+death_place: Sireköpinge No. 4, Sireköpinge, Bara, Malmöhus (Skåne), Sverige (Sweden)
+death_place_ref1: "1"
 burial_place: Unknown
 burial_ref1: "?"
 references: "karna-hindriksdr-ref.html"
 ---
-Boel Andersdotter was born on the 30th of April, 1824 to [Anders Carlsson]({{ "/landgren/person/anders-carlsson" | relative_url }}) and [Karna Hindriksdotter]({{ "/landgren/person/karna-hindriksdotter" | relative_url }}) in  Sireköpingeby, Sireköpinge parish, Malmöhus county <sup>([1A](#1A))</sup>. Boel lived with her family in Sireköpingeby/Sireköpinge No. 4 until 1844/1845 when she moved to Loarp in Halmstad parish after the death of her parents <sup>([1E](#1E), [1F](#1F))</sup>. 
+Karna Hindriksdotter was born on the 9th of November, 1788 to Hindrik Pålsson and Hanna Nilsdotter in Norraby, Sireköpinge parish, Malmöhus county. Sometime before 1805 she was living in Amundstorp parish before she moved back to Sireköpinge and married Anders Carlsson. The two lived in Sireköpinge No. 4, Sireköpinge parish for the rest of their lives where their daughter, Boel Andersdotter, was born on the 30th of April, 1824.
 
 Possible Hindrik Palsson:
 Gender: Male; Age: 72; Birth Date: 1762; Death Date: 8 nov 1834; Burial Date: 16 nov 1834; Burial Place: Halmstad, Malmöhus, Sweden; 
