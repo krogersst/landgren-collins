@@ -5,7 +5,7 @@ person_name: Ingar Jonsdotter
 permalink: /landgren/person/ingar-jonsdotter
 born: October 23, 1788
 born_ref1: "1A"
-birthplace: Sönnarps Gård, Skabersjo, Malmöhus (Skåne), Sverige (Sweden)
+birthplace: Sönnarps Gård, Skabersjö, Malmöhus (Skåne), Sverige (Sweden)
 birthplace_ref1: "1A"
 mother: ???? Boelsdotter
 mother_link: /landgren/person/ingar-jonsdotter
@@ -23,15 +23,13 @@ marriage_place_ref2: "1B"
 descendant: Peter Ljungberg
 descendant_link: /landgren/person/peter-ljungberg
 descendant_ref1: "1D"
-death: June 29, 1829
-death_ref1: "1G"
-death_place: Roslätt, Svedala, Malmöhus (Skåne), Sverige (Sweden)
-death_place_ref1: "1G"
+death: March 2, 1863
+death_ref1: "1O"
+death_place: Fattighuset, Svedala, Malmöhus (Skåne), Sverige (Sweden)
+death_place_ref1: "1O"
 burial_place: Unknown
 burial_ref1: "?"
 references: "ingar-jonsdr-ref.html"
 ---
 
-
-
-Ingar likely married [Johannes Ljungberg]({{ "/landgren/person/johannes-ljungberg" | relative_url }}) around 1807-1808 and ten years later she gave birth to their son, [Peter Ljungberg]({{ "/landgren/person/peter-ljungberg" | relative_url }}) on the 20th of October, 1817 in Roslätt Gård, Svedala parish in Malmöhus county <sup>([1D](#1D))</sup>. Johannes died on the 29th of June, 1829, at the age of 50 <sup>([1G](#1G))</sup>.
+Ingar Jonsdotter was born in Sönnarps Gård, Skabersjö parish, Malmöhus county on the 23rd of October, 1788 to Jons Olsson and a mother with a last name Boelsdotter <sup>([1A](#1A))</sup>. It is difficult to parse the household examination records during the time she would have been in Skabersjö but she does show up in Roslätt, Svedala parish in 1807 where she married [Johannes Ljungberg]({{ "/landgren/person/johannes-ljungberg" | relative_url }}) around 1807-1808 <sup>([1B](#1B))</sup>. Ten years later she gave birth to their son, [Peter Ljungberg]({{ "/landgren/person/peter-ljungberg" | relative_url }}) on the 20th of October, 1817 in Roslätt Gård, Svedala parish in Malmöhus county <sup>([1D](#1D))</sup>. Her first husband, Johannes died on the 29th of June, 1829, at the age of 50 <sup>([1G](#1G))</sup>. Two years later she moved to Svedala No. 18 3/4 and married Lars Olsson <sup>([1H](#1H))</sup>. The two lived in Svedala No. 18 3/4 for 30 years until the two had to relocate to the Svedala poor house in 1861 where Lars' died on the 25th of June, 1862 <sup>([1N](#1N), [1O](#1O))</sup>. Ingar continued living there for another two years before her own death at the age of 75 on March 2, 1863 <sup>([1O](#1O))</sup>.
