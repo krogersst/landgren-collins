@@ -15,23 +15,20 @@ mother_link: /landgren/person/karna-hindriksdotter
 mother_ref1: "1A"
 husband: Anders Carlsson
 husband_link: /landgren/person/anders-carlsson
-husband_ref1: "1"
+husband_ref1: "1B"
 married: ~1805
-married_ref1: "1"
+married_ref1: "1B"
 marriage_place: Sireköpinge, Malmöhus (Skåne), Sverige (Sweden)
-marriage_place_ref2: "1"
+marriage_place_ref2: "1B"
 descendant: Boel Andersdotter
 descendant_link: /landgren/person/boel-andersdotter
-descendant_ref1: "1"
+descendant_ref1: "1D"
 death: March 3, 1840
-death_ref1: "1"
+death_ref1: "1G"
 death_place: Sireköpinge No. 4, Sireköpinge, Bara, Malmöhus (Skåne), Sverige (Sweden)
-death_place_ref1: "1"
+death_place_ref1: "1G"
 burial_place: Unknown
 burial_ref1: "?"
 references: "karna-hindriksdr-ref.html"
 ---
-Karna Hindriksdotter was born on the 9th of November, 1788 to Hindrik Pålsson and Hanna Nilsdotter in Norraby, Sireköpinge parish, Malmöhus county. Sometime before 1805 she was living in Amundstorp parish before she moved back to Sireköpinge and married Anders Carlsson. The two lived in Sireköpinge No. 4, Sireköpinge parish for the rest of their lives where their daughter, Boel Andersdotter, was born on the 30th of April, 1824.
-
-Possible Hindrik Palsson:
-Gender: Male; Age: 72; Birth Date: 1762; Death Date: 8 nov 1834; Burial Date: 16 nov 1834; Burial Place: Halmstad, Malmöhus, Sweden; 
+Karna Hindriksdotter was born on the 9th of November, 1788 to Hindrik Pålsson and Hanna Nilsdotter in Norraby, Sireköpinge parish, Malmöhus county <sup>([1A](#1A))</sup>. Sometime before 1805 she was living in Asmundstorp parish before she moved back to Sireköpinge and married Anders Carlsson <sup>([1B](#1B))</sup>. The two lived in Sireköpinge No. 4, Sireköpinge parish for the rest of their lives where their daughter, Boel Andersdotter, was born on the 30th of April, 1824 <sup>([1D](#1D))</sup>. Karna passed away on the 21st of March, 1840 at the age of 52 <sup>([1G](#1G))</sup>.
