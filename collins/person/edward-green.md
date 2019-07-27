@@ -28,7 +28,7 @@ descendant: Rebecca Green
 descendant_link: /collins/person/rebecca-green
 descendant_ref1: "1"
 descendant_ref2: "5"
-death: 20 November, 1870
+death: November 20, 1870
 death_ref3: "5"
 death_ref2: "6"
 death_place: Milton, Rock County, Wisconsin
@@ -39,3 +39,4 @@ burial_place_ref1: "5"
 burial_place_ref2: "6"
 references: edward-green-ref.html
 ---
+Edward Green(e) was born on the 11th of March, 1798/1799 in Jefferson County, New York to [Huldah Sweet]({{ "/collins/person/huldah-sweet" | relative_url }}) and [Judge Edward Greene]({{ "/collins/person/judge-edward-greene" | relative_url }}) <sup>([5](#5)</sup>. He married [Sarah Peckham]({{ "/collins/person/sarah-peckham" | relative_url }}) in 1818 in Almond, Allegany County, New York <sup>([5](#5))</sup>. Their daughter [Rebecca Greene]({{ "collins/person/rebecca-green" | relative_url }}) was born 23 years later in Willing, Allegany County, New York <sup>([1](#1), [5](#5)</sup>. By 1850, the family was living in Scio, Allegany County <sup>([1](#1)</sup>. Within ten years, Edward had moved to Fulton, Rock County, Wisconsin to live with his first daughter Elizabeth and her husband Charles S. Weed <sup>([2](#2), [5](#5))</sup>. By the 1870 census, Edward and his daughter's family were living in Milton, Rock County, Wisconsin <sup>([3](#3)</sup>. By the 19th of October, 1870, Edward passed away and was buried in Rock River Cemetery in Milton, Rock County, Wisconsin <sup>([5](#5), [6](#6))</sup>.
