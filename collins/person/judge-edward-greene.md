@@ -43,3 +43,4 @@ burial_place: Alfred East Valley Cemetery, Alfred, Allegany County, New York
 burial_place_ref1: "6"
 references: judge-edward-ref.html
 ---
+Edward Greene (Sr.) was born on the 20th of March, 1760 in Westerly, Washington County, Rhode Island to Margaret Greenman and [Joseph Greene]({{ "/collins/person/joseph-greene" | relative_url }}) <sup>([1](#1), [5](#5), [6](#6)</sup>. He married [Huldah Sweet]({{ "/collins/person/huldah-sweet" | relative_url }}) around 1778 most likely in Rhode Island <sup>([5](#5), [6](#6))</sup>.
