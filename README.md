@@ -51,19 +51,16 @@
 
 ### Landgren
 - [ ] Family Overview
-- [ ] Nils Svensson and Karin Matzdotter
-- [ ] Gertrud Nilsdotter and Elebrat Påhlsson
-- [ ] Påhl Ellebratsson and Matta Bengtzdotter (parents: Bengt Andersson and Karna Persdotter)
-- [ ] Hindric Palsson and Hanna Nilsdotter
-- [ ] Karna Hindriksdotter and Anders Carlsson (parents: Carl Staffenson and Anna Hansdotter)
-- [ ] Hans Ljungberg and Helena Blomsström
-- [ ] Johannes Ljungberg and Ingar Jonsdotter (parents: Jon Olsson and ??? Boelsdotter)
-- [ ] Boel Andersdotter
-- [ ] Peter Ljungberg
-- [ ] Jons Persson and Pernilla Mansdotter
-- [ ] Nils Johnsson and Hans Nilsdotter
+- [x] Hindric Palsson and Hanna Nilsdotter
+- [x] Karna Hindriksdotter and Anders Carlsson (parents: Carl Staffenson and Anna Hansdotter)
+- [x] Hans Ljungberg and Helena Blomsström
+- [x] Johannes Ljungberg and Ingar Jonsdotter (parents: Jon Olsson and ??? Boelsdotter)
+- [x] Boel Andersdotter
+- [x] Peter Ljungberg
+- [x] Jons Persson and Pernilla Mansdotter
+- [x] Nils Johnsson and Hans Nilsdotter
 - [x] Johanna Ljungberg
-- [ ] Lars Landgren --> FIX REFERENCES
+- [x] Lars Landgren
 - [x] Jons Nilsson and Elna Pehrsdotter
 - [x] Nils Jonsson and Hanna Hindriksdotter (parents: Henric Pehrsson and Anna Tufvesdotter)
 - [x] Ola Nilsson and Elna Nilsdotter
