@@ -31,9 +31,9 @@
 - [ ] Edward Greenman Jr. and Sarah Clarke
 - [ ] Judge Edward Greene
 - [ ] Huldah Sweet
-- [ ] Edward Green
-- [ ] Sarah Peckham
-- [ ] Braddock and Rebecca Peckham
+- [x] Edward Green
+- [x] Sarah Peckham
+- [x] Braddock and Rebecca Peckham
 - [x] Rebecca Green
 - [x] Milo Collins
 - [x] Frank Collins
@@ -43,7 +43,7 @@
 - [ ] Johann Christian Dräger and Hanna Charlotta Verges
 - [ ] Dorothea Dräger
 - [ ] Gottfried Juhnke
-- [ ] Franics and Elizabeth Blakely
+- [x] Franics and Elizabeth Blakely
 - [x] Daniel M. Sheffield and Mary Ann Blakely
 - [x] Sarah Sheffield
 - [x] William Allen
