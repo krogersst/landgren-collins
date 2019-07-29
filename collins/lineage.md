@@ -18,7 +18,7 @@ permalink: /collins/lineage/
   - [4I]. Mary Alsworth
 - <a class="bare-link" id="7G">7G</a>. [Joseph Greene] <sup>([4H], [5I])</sup> and [Margaret Greenman] (parents: [Edward Greenman Jr.] and Sarah Clarke)
 - <a class="bare-link" id="8G">8G</a>. [Judge Edward Greene] <sup>([5H], [6I])</sup> and Huldah Sweet
-- <a class="bare-link" id="9G">9G</a>. [Edward Green] <sup>([6H], [7I])</sup> and Sarah Peckham (parents: Braddock and Rebecca Peckham)
+- <a class="bare-link" id="9G">9G</a>. [Edward Green] <sup>([6H], [7I])</sup> and [Sarah Peckham] (parents: Braddock and Rebecca Peckham)
 - <a class="bare-link" id="10G">10G</a>. [Rebecca Green] <sup>([7H], [8I])</sup> and [Milo Collins]
 - <a class="bare-link" id="11G">11G</a>. [Frank Collins] <sup>([8H], [9I])</sup> and
   - [3J]. [Paulina Juhnke]
@@ -34,7 +34,7 @@ permalink: /collins/lineage/
   - [4I]. Mary Alsworth
 - <a class="bare-link" id="4H">4H</a>. [Joseph Greene] <sup>([7G], [5I])</sup> and [Margaret Greenman] (parents: [Edward Greenman Jr.] and Sarah Clarke)
 - <a class="bare-link" id="5H">5H</a>. [Judge Edward Greene] <sup>([8G], [6I])</sup> and Huldah Sweet
-- <a class="bare-link" id="6H">6H</a>. [Edward Green] <sup>([9G], [7I])</sup> and Sarah Peckham (parents: Braddock and Rebecca Peckham)
+- <a class="bare-link" id="6H">6H</a>. [Edward Green] <sup>([9G], [7I])</sup> and [Sarah Peckham] (parents: Braddock and Rebecca Peckham)
 - <a class="bare-link" id="7H">7H</a>. [Rebecca Green] <sup>([10G], [8I])</sup> and [Milo Collins]
 - <a class="bare-link" id="8H">8H</a>. [Frank Collins] <sup>([11G], [9I])</sup> and
   - [3J]. [Paulina Juhnke]
@@ -50,7 +50,7 @@ permalink: /collins/lineage/
   - [3H]. [John "White Hat" Greene] <sup>([6G])</sup>
 - <a class="bare-link" id="5I">5I</a>. [Joseph Greene] <sup>([7G], [4H])</sup> and [Margaret Greenman] (parents: [Edward Greenman Jr.] and Sarah Clarke)
 - <a class="bare-link" id="6I">6I</a>. [Judge Edward Greene] <sup>([8G], [5H])</sup> and Huldah Sweet
-- <a class="bare-link" id="7I">7I</a>. [Edward Green] <sup>([9G], [6H])</sup> and Sarah Peckham (parents: Braddock and Rebecca Peckham)
+- <a class="bare-link" id="7I">7I</a>. [Edward Green] <sup>([9G], [6H])</sup> and [Sarah Peckham] (parents: Braddock and Rebecca Peckham)
 - <a class="bare-link" id="8I">8I</a>. [Rebecca Green] <sup>([10G], [7H])</sup> and [Milo Collins]
 - <a class="bare-link" id="9I">9I</a>. [Frank Collins] <sup>([11G], [8H])</sup> and
   - [3J]. [Paulina Juhnke]
@@ -125,3 +125,4 @@ permalink: /collins/lineage/
 [Benjamin Greene]: {{ "/collins/person/benjamin-greene" | relative_url }}
 [Humility Coggeshall]: {{ "/collins/person/humility-coggeshall" | relative_url }}
 [Mary Ann Blakely]: {{ "/collins/person/mary-blakely" | relative_url }}
+[Sarah Peckham]: {{ "/collins/person/sarah-peckham" | relative_url }}
