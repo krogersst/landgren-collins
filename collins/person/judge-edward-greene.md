@@ -43,15 +43,13 @@ burial_place: Alfred East Valley Cemetery, Alfred, Allegany County, New York
 burial_place_ref1: "6"
 references: judge-edward-ref.html
 ---
-Edward Greene (Sr.) was born on the 20th of March, 1760 in Westerly, Washington County, Rhode Island to Margaret Greenman and [Joseph Greene]({{ "/collins/person/joseph-greene" | relative_url }}) <sup>([1](#1), [5](#5), [6](#6)</sup>. He married [Huldah Sweet]({{ "/collins/person/huldah-sweet" | relative_url }}) around 1778 most likely in Rhode Island <sup>([5](#5), [6](#6))</sup>. He is recorded as serving as a private in Tillinghast's Regiment in August 1781 in Rhode Island <sup>([3](#3))</sup>. A lengthy description of his military service in the Revoluationary was can be found in his [Survivor's Pension Application File](https://search.ancestrylibrary.com/cgi-bin/sse.dll?dbid=1995&h=24849&indiv=try&o_vc=Record:OtherRecord&rhSource=3897). In 1798/1799, his son Edward Green was born in Jefferson County, New York <sup>([5](#5))</sup>. On the 24th of February, 1845, Judge Edward Greene passed away and was buried four days later in Alfred East Valley Cemetery, Alfred, Allegany County, New York <sup>([6](#6))</sup>.
-
-From [Allegany county and its people](https://archive.org/details/alleganycountyit00mina/page/626):
-> . . .Judge Edward Greene, a veteran of the Revolution and of the war of 1812, and who had been the first judge of Madison county, accompanied his sons, Paris and Jeremy, to Alfred in 1816.
-
-pg. 648, brief bio, same shit
+Edward Greene (Sr.) was born on the 20th of March, 1760 in Westerly, Washington County, Rhode Island to Margaret Greenman and [Joseph Greene]({{ "/collins/person/joseph-greene" | relative_url }}) <sup>([1](#1), [5](#5), [6](#6)</sup>. He married [Huldah Sweet]({{ "/collins/person/huldah-sweet" | relative_url }}) (b. 1/29/19) around 1778 most likely in Rhode Island <sup>([5](#5), [6](#6))</sup>. He is recorded as serving as a private in Tillinghast's Regiment in August 1781 in Rhode Island <sup>([3](#3))</sup>. A lengthy description of his military service in the Revoluationary was can be found in his [Survivor's Pension Application File](https://search.ancestrylibrary.com/cgi-bin/sse.dll?dbid=1995&h=24849&indiv=try&o_vc=Record:OtherRecord&rhSource=3897). In 1798/1799, his son Edward Green was born in Jefferson County, New York <sup>([5](#5))</sup>. 
 
 [History of Madison County, state of New York](https://archive.org/details/historyofmadison00hamm/page/n147) pages 143 to 144: Madison County Proceedings from 1806 to 1808, first general election held in the county elected "Edward Green of Brookfield" as a Common Pleas Judge. 
 Pages 147 to 148: 1809 --> Common Pleas Judges -->
 > Oliver Brown of Brookfield, Stephen F. Blackstone of Madison, Jeremiah Gage of DeRuyter, and James Green, in place of Judges Smalley, Cleaveland, Edward Green, and Hubbard Smith, removed.
 
+From [Allegany county and its people](https://archive.org/details/alleganycountyit00mina/page/626):
+> . . .Judge Edward Greene, a veteran of the Revolution and of the war of 1812, and who had been the first judge of Madison county, accompanied his sons, Paris and Jeremy, to Alfred in 1816.
 
+On the 16th of March, 1839, his wife passed away qnd was buried four days later in [Alfred East Valley Cemetery](https://www.findagrave.com/memorial/68858577), Alfred, Allegany County, New York. On the 24th of February, 1845, Judge Edward Greene passed away and was buried in the same cemetery <sup>([6](#6))</sup>.
