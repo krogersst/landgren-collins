@@ -18,7 +18,7 @@ father_link: /collins/person/benjamin-greene
 father_ref1: "3"
 father_ref2: "4"
 wife: Mary Aylesworth
-wife: /collins/person/john-whitehat-greene
+wife_link: /collins/person/mary-aylesworth
 wife_ref1: "1"
 wife_ref2: "3"
 wife_ref3: "4"
