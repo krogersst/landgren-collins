@@ -10,7 +10,7 @@ birthplace_ref1: "1"
 mother: Sarah Greenman
 mother_link: /collins/person/margaret-greenman
 mother_ref1: "1"
-father: Edward Greenman
+father: Edward Greenman Jr.
 father_link: /collins/person/margaret-greenman
 father_ref1: "1"
 husband: Joseph Greene
@@ -34,3 +34,5 @@ burial_place: Center Berlin Baptist Cemetery, Berlin, Rensselaer County, New Yor
 burial_place_ref1: "3"
 references: margaret-greenman-ref.html
 ---
+
+Margaret's parents, Sarah Clarke and Edward Greenman Jr., were married on May 11, 1721 in Washington County, Rhode Island <sup>([1A](#1A))</sup>. Four years later, Margaret was born on the 17th of October, 1725 in Charlestown, Rhode Island.
