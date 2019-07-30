@@ -38,3 +38,9 @@ references: mary-aylesworth-ref.html
 According to the _Descendants of Joseph Greene_, Mary Aylesworth's parents were Arthur Aylesworth and Mary Brown of Quidnesset. Her mother was the daughter of Rev. John Brown and Mary Holmes of Providence, Rhode Island. Mary Holmes was the daughter of [Rev. Obediah Holmes of Newport](https://en.wikipedia.org/wiki/Obadiah_Holmes).
 
 According to _The Genealogical Dictionary of Rhode Island_, Obadiah's daughter Mary did indeed marry a John Brown of Chad and Elizabeth Brown, and the two had a daughter named Mary. This Mary is assumed to be the same Mary who married [Arthur Aylesworth](https://archive.org/details/genealogicaldict00aust/page/n29).
+
+See [The American Family of Rev. Obadiah Holmes](https://archive.org/details/americanfamilyof00holm/page/56)
+> John Browne, born 1634, son of [Rev. Chad Browne](https://en.wikipedia.org/wiki/Chad_Brown_(minister)).
+
+> Mary, daughter of of Rev. Obadiah, must have been born about 1648.
+
