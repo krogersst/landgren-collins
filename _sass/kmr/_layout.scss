@@ -2,47 +2,46 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  @media (max-width: 750px) {
-    min-height: 400px;
-    background: url("assets/images/frog_tree_light.png");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: 50%;
-  }
 }
 
-.home-image {
+.home-image, .about-image {
   @media (min-width: 751px) {max-height: 500px;}
   @media (max-width: 750px) {display: none;}
 }
 
-.about-image {
-  height: 400px;
+.home-info, .about-info {
+    @media(min-width: 1001px) {
+      max-width: 600px;
+      margin-left: 20px;
+    }
+    @media(max-width: 1000px) {
+      max-width: 400px;
+      margin-left: 10px;
+    }
+    @media(max-width: 750px) {
+      max-width: 500px;
+      margin-left: 0px;
+    }
 }
 
 .about-info {
+  text-align: justify;
   h2 {
     font-size: 40px;
     color: $hover-color;
   }
-  margin-left: 20px;
 }
 
 .home-info {
   @media(min-width: 1001px) {
-    max-width: 600px;
-    margin-left: 20px;
     .giant-header {font-size: 80px;}
     h1 {font-size: 30px;}
   }
   @media(max-width: 1000px) {
-    max-width: 400px;
-    margin-left: 10px;
     .giant-header {font-size: 55px;}
     h1 {font-size: 20px;}
   }
   @media(max-width: 750px) {
-    max-width: 500px;
     .giant-header {font-size: 70px;}
     h1 {font-size: 25px;}
   }
@@ -85,16 +84,41 @@
 .person-flex {
   display: flex;
   justify-content: flex-start;
+  @media (min-width: 701px) {flex-flow: row;}
+  @media (max-width: 700px) {flex-flow: column;}
 }
 
 .person-info {
-  width: 25%;
-  margin-left: 15px;
-  padding: 10px;
-  border-left: 1px solid black;
-  p {
-    padding-bottom: 2px;
+  p {padding-bottom: 2px;}
+  @media (min-width: 701px) {
+    width: 25%;
+    margin-left: 15px;
+    border-left: 1px solid black;
+    h3 {line-height: .75;}
+    padding: {
+      left: 10px;
+      right: 0px;
+      top: 0px;
+      bottom: 10px;
+    }
   }
+  @media (max-width: 700px) {
+    width: 100%;
+    h3 {display: none;}
+    margin-top: 15px;
+  }
+}
+
+.person-nav {
+  font-size: 16px;
+  @media (min-width: 701px) {display: block;}
+  @media (max-width: 700px) {display: none;}
+}
+
+.person-nav-bottom {
+  font-size: 16px;
+  @media (min-width: 701px) {display: none;}
+  @media (max-width: 700px) {display: block;}
 }
 
 .person-photo {
@@ -102,8 +126,12 @@
 }
 
 .person-content {
-  width: 75%;
-  padding: 10px;
+  padding: {
+    left: 0px;
+    right: 10px;
+    top: 10px;
+    bottom: 10px;
+  }
   p {
     padding-bottom: 10px;
   }
@@ -112,10 +140,32 @@
   }
 }
 
+.person-top {
+  @media (min-width: 701px) {
+    display: block;
+    width: 75%;
+  }
+  @media (max-width: 700px) {display: none;}
+}
+
+.person-bottom {
+  @media (min-width: 701px) {display: none;}
+  @media (max-width: 700px) {
+    display: block;
+    width: 100%;
+  }
+
+}
+
 #references {
   margin-top: 10px;
-  padding: 10px;
-  background-color: $person-color;
+  padding: {
+    left: 0px;
+    right: 10px;
+    top: 10px;
+    bottom: 10px;
+  }
+  p a:first-of-type {font-weight: bold;}
 }
 
 .letter-ref {

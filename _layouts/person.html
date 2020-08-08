@@ -6,7 +6,7 @@ layout: default
 <div class="person-name">{{ page.person_name | escape }}</div>
 <div class="person-flex">
 
-  <div class="person-content" itemprop="articleBody">
+  <div class="person-content person-top" itemprop="articleBody">
       {{ content }}
       <div id="references">
         <h3>References</h3>
@@ -17,6 +17,7 @@ layout: default
   </div>
 
   <div class="person-info">
+  <h3>Basic Info</h3>
   <p><strong>Born: </strong>{{ page.born | escape }} <sup
     >(<a href="#{{ page.born_ref1 | escape }}">{{ page.born_ref1 | escape }}</a
       >{% if page.born_ref2 %}, <a href="#{{ page.born_ref2 | escape }}">{{ page.born_ref2 | escape }}</a
@@ -234,6 +235,20 @@ layout: default
     <a href="{{ site.baseurl }}/{{ page.family }}/about">Back to About</a> | <a href="{{ site.baseurl }}/{{ page.family }}/lineage">Back to Index</a>
   </div>
 
+  </div>
+
+  <div class="person-content person-bottom" itemprop="articleBody">
+    <h3>Biography</h3>
+      {{ content }}
+      <div class="person-nav-bottom">
+        <a href="{{ site.baseurl }}/{{ page.family }}/about">Back to About</a> | <a href="{{ site.baseurl }}/{{ page.family }}/lineage">Back to Index</a>
+      </div>
+      <div id="references">
+        <h3>References</h3>
+          {% if page.references %}
+            {% include_relative references/{{ page.references }} %}
+          {% endif %}
+      </div>
   </div>
 
 </div>

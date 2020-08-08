@@ -1,8 +1,8 @@
 // COMMON STYLES
 
 .site-header, .site-footer {
-  @media (min-width: 571px) {width: 85%;}
-  @media (max-width: 570px) {width: 90%;}
+  @media (min-width: 801px) {width: 85%;}
+  @media (max-width: 800px) {width: 90%;}
   margin: 0 auto;
   padding-top: 8px;
   a, &:visited, &:hover {
