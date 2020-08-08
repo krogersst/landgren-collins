@@ -2,17 +2,21 @@
 ## a digital family history project
 
 ### To Do
-- [ ] Fix about layout
-- [ ] Fix footer layout
-- [ ] Adjust family tree key css
+- [ ] Add interactive tree only page
+- [ ] Add printer friendly version of trees (https://d3export.housegordon.org/)
+- [ ] Clean up person pages
+- [ ] Conditions and Permissions
+- [x] Adjust family tree key css
+- [ ] Family Overviews
+- [x] Fix about layout
+- [x] Fix footer layout
 - [x] Add index link to person page
 - [x] Add main family link to person page
 - [x] Add dropdown to family links in header
 - [x] Fix person layout
 - [x] Add "fullname" to collinstree.js
 - [x] Add family to collins frontmatter
-- [ ] Add interactive tree only page
-- [ ] Add printer friendly version of trees (https://d3export.housegordon.org/)
+
 
 ### Collins
 - [ ] Family Overview

@@ -423,7 +423,7 @@ var tip = d3.tip()
 
 // ****************** Reset Button ****************************
 
-d3.select('button')
+d3.select('#reset-button')
   .on("click", reset);
 
 // ****************** Nodes section ***************************

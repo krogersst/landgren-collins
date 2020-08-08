@@ -2,22 +2,60 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  @media (max-width: 750px) {
+    min-height: 400px;
+    background: url("assets/images/frog_tree_light.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+  }
 }
 
 .home-image {
-  max-height: 600px;
+  @media (min-width: 751px) {max-height: 500px;}
+  @media (max-width: 750px) {display: none;}
+}
+
+.about-image {
+  height: 400px;
+}
+
+.about-info {
+  h2 {
+    font-size: 40px;
+    color: $hover-color;
+  }
+  margin-left: 20px;
 }
 
 .home-info {
-  max-width: 900px;
-  .giant-header {
-    font-size: 100px;
-    color: #006400;
+  @media(min-width: 1001px) {
+    max-width: 600px;
+    margin-left: 20px;
+    .giant-header {font-size: 80px;}
+    h1 {font-size: 30px;}
   }
+  @media(max-width: 1000px) {
+    max-width: 400px;
+    margin-left: 10px;
+    .giant-header {font-size: 55px;}
+    h1 {font-size: 20px;}
+  }
+  @media(max-width: 750px) {
+    max-width: 500px;
+    .giant-header {font-size: 70px;}
+    h1 {font-size: 25px;}
+  }
+  .giant-header {color: $hover-color;}
   h1 {
-    margin-bottom: 40px;
-    margin-top: -25px;
+    margin-bottom: 5px;
+    margin-top: -15px;
     text-align: right;
+  }
+  h3 {
+    font-weight: normal;
+    font-size: 17px;
+    text-align: justify;
   }
 }
 

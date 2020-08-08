@@ -2,15 +2,21 @@
 ## a digital family history project
 
 ### To Do
-- [ ] Fix about layout
-- [ ] Fix footer layout
-- [ ] Adjust family tree key css
+- [ ] Add interactive tree only page
+- [ ] Add printer friendly version of trees (https://d3export.housegordon.org/)
+- [ ] Clean up person pages
+- [ ] Conditions and Permissions
+- [x] Adjust family tree key css
+- [ ] Family Overviews
+- [x] Fix about layout
+- [x] Fix footer layout
 - [x] Add index link to person page
 - [x] Add main family link to person page
 - [x] Add dropdown to family links in header
 - [x] Fix person layout
 - [x] Add "fullname" to collinstree.js
 - [x] Add family to collins frontmatter
+
 
 ### Collins
 - [ ] Family Overview
@@ -29,9 +35,9 @@
 - [ ] Edward Greenman Jr. and Sarah Clarke
 - [ ] Judge Edward Greene
 - [ ] Huldah Sweet
-- [ ] Edward Green
-- [ ] Sarah Peckham
-- [ ] Braddock and Rebecca Peckham
+- [x] Edward Green
+- [x] Sarah Peckham
+- [x] Braddock and Rebecca Peckham
 - [x] Rebecca Green
 - [x] Milo Collins
 - [x] Frank Collins
@@ -41,6 +47,7 @@
 - [ ] Johann Christian Dräger and Hanna Charlotta Verges
 - [ ] Dorothea Dräger
 - [ ] Gottfried Juhnke
+- [x] Franics and Elizabeth Blakely
 - [x] Daniel M. Sheffield and Mary Ann Blakely
 - [x] Sarah Sheffield
 - [x] William Allen
@@ -48,28 +55,25 @@
 
 ### Landgren
 - [ ] Family Overview
-- [ ] Nils Svensson and Karin Matzdotter
-- [ ] Gertrud Nilsdotter and Elebrat Påhlsson
-- [ ] Påhl Ellebratsson and Matta Bengtzdotter (parents: Bengt Andersson and Karna Persdotter)
-- [ ] Hindric Palsson and Hanna Nilsdotter
-- [ ] Karna Hindriksdotter and Anders Carlsson (parents: Carl Staffenson and Anna Hansdotter)
-- [ ] Hans Ljungberg and Helena Blomsström
-- [ ] Johannes Ljungberg and Ingar Jonsdotter (parents: Jon Olsson and ??? Boelsdotter)
-- [ ] Boel Andersdotter
-- [ ] Peter Ljungberg
-- [ ] Jons Persson and Pernilla Mansdotter
-- [ ] Nils Johnsson and Hans Nilsdotter
+- [x] Hindric Palsson and Hanna Nilsdotter
+- [x] Karna Hindriksdotter and Anders Carlsson (parents: Carl Staffenson and Anna Hansdotter)
+- [x] Hans Ljungberg and Helena Blomsström
+- [x] Johannes Ljungberg and Ingar Jonsdotter (parents: Jon Olsson and ??? Boelsdotter)
+- [x] Boel Andersdotter
+- [x] Peter Ljungberg
+- [x] Jons Persson and Pernilla Mansdotter
+- [x] Nils Johnsson and Hans Nilsdotter
 - [x] Johanna Ljungberg
-- [ ] Lars Landgren --> FIX REFERENCES
-- [ ] Jons Nilsson and Elna Pehrsdotter
-- [ ] Nils Jonsson and Hanna Hindriksdotter (parents: Henric Pehrsson and Anna ???)
-- [ ] Ola Nilsson and Elna Nilsdotter
-- [ ] Daniel Jorensson and Elna Hansdotter
-- [ ] Anders Danielsson and Anna Hansdotter (parents: Hans Olsson and Elna Mansdotter)
-- [ ] Lars Pahlsson and Karna Jonsdotter
-- [ ] Christen Larsson and Elna Johansdotter (parents: Johan Bengtsson and Hanna Andersdotter)
-- [ ] Nils Andersson
-- [ ] Kjerstina Christensdotter
+- [x] Lars Landgren
+- [x] Jons Nilsson and Elna Pehrsdotter
+- [x] Nils Jonsson and Hanna Hindriksdotter (parents: Henric Pehrsson and Anna Tufvesdotter)
+- [x] Ola Nilsson and Elna Nilsdotter
+- [x] Daniel Jorensson and Elna Hansdotter
+- [x] Anders Danielsson and Anna Hansdotter (parents: Hans Olsson and Elna Mansdotter)
+- [x] Lars Pahlsson and Karna Jonsdotter
+- [x] Christen Larsson and Elna Johansdotter (parents: Johan Bengtsson and Hanna Ohlsdotter)
+- [x] Nils Andersson
+- [x] Kjerstina Christensdotter
 - [x] Jons Sandqvist
 - [x] Anna Nilsdotter
 - [x] Nils Peter Landgren

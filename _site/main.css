@@ -1,10 +1,26 @@
 .home-flex { display: flex; justify-content: center; align-items: center; }
+@media (max-width: 750px) { .home-flex { min-height: 400px; background: url("assets/images/frog_tree_light.png"); background-position: center; background-repeat: no-repeat; background-size: 50%; } }
 
-.home-image { max-height: 600px; }
+@media (min-width: 751px) { .home-image { max-height: 500px; } }
+@media (max-width: 750px) { .home-image { display: none; } }
 
-.home-info { max-width: 900px; }
-.home-info .giant-header { font-size: 100px; color: #006400; }
-.home-info h1 { margin-bottom: 40px; margin-top: -25px; text-align: right; }
+.about-image { height: 400px; }
+
+.about-info { margin-left: 20px; }
+.about-info h2 { font-size: 40px; color: #006400; }
+
+@media (min-width: 1001px) { .home-info { max-width: 600px; margin-left: 20px; }
+  .home-info .giant-header { font-size: 80px; }
+  .home-info h1 { font-size: 30px; } }
+@media (max-width: 1000px) { .home-info { max-width: 400px; margin-left: 10px; }
+  .home-info .giant-header { font-size: 55px; }
+  .home-info h1 { font-size: 20px; } }
+@media (max-width: 750px) { .home-info { max-width: 500px; }
+  .home-info .giant-header { font-size: 70px; }
+  .home-info h1 { font-size: 25px; } }
+.home-info .giant-header { color: #006400; }
+.home-info h1 { margin-bottom: 5px; margin-top: -15px; text-align: right; }
+.home-info h3 { font-weight: normal; font-size: 17px; text-align: justify; }
 
 /**
 * Default
@@ -65,7 +81,7 @@
 
 .nav-credit { font-size: 15px; padding-left: 15px; }
 
-.nav-right img { max-height: 50px; }
+.nav-right img { max-height: 30px; }
 
 .nav-button { text-align: center; padding-left: 15px; padding-right: 15px; }
 
@@ -91,6 +107,8 @@ body { font-family: "Crimson Text", serif; background-color: white; }
 a { color: black; }
 a:visited { color: black; }
 a:hover { color: #006400; }
+
+p { font-size: 14px; }
 
 .instructions { font-family: "Crimson Text", serif; padding-bottom: 10px; padding-top: 10px; }
 

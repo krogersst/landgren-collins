@@ -27,24 +27,24 @@ var treeData =
 	    "fullname": "Nils Johnsson",
             "birth": "1816",
             "location": "Magläste, Höörs, Malmöhus",
-	    "link": "/landgren/about",
+	    "link": "/landgren/person/nils-johnsson",
             "children": [
-             {"name": "Jons Persson",
-	      "fullname": "Jons Persson",
+             {"name": "John Pehrsson",
+	      "fullname": "John Pehrsson",
               "birth": "1779",
               "location": "Höörs, Malmöhus",
-	      "link": "/landgren/about"},
+	      "link": "/landgren/person/john-pehrsson"},
              {"name": "Pernilla Mansdr",
 	      "fullname": "Pernilla Mansdotter",
               "birth": "1785",
               "location": "Munkarp, Malmöhus",
-	      "link": "/landgren/about"}
+	      "link": "/landgren/person/john-pehrsson"}
            ]},
            {"name": "Hanna Nilsdr",
 	    "fullname": "Hanna Nilsdotter",
             "birth": "1813",
             "location": "Magläste, Höörs, Malmöhus",
-	    "link": "/landgren/about"}
+	    "link": "/landgren/person/hanna-nilsdr"}
          ]},
          {"name": "Johanna Ljungberg",
 	  "fullname": "Johanna Ljungberg",
@@ -56,130 +56,82 @@ var treeData =
 	    "fullname": "Peter Ljungberg",
             "birth": "1818",
             "location": "Roslätt Gård, Svedala, Malmöhus",
-	    "link": "/landgren/about",
+	    "link": "/landgren/person/peter-ljungberg",
             "children": [
              {"name": "Johannes Ljungberg",
 	      "fullname": "Johannes Ljungberg",
               "birth": "1779",
               "location": "Vittskövle Gård, Vittskövle, Kristianstad",
-	      "link": "/landgren/about",
+	      "link": "/landgren/person/johannes-ljungberg",
               "children":[
                {"name": "Hans Ljungberg",
 	  	"name": "Hans Ljungberg",
                 "birth": "N/A",
                 "location": "N/A",
-	        "link": "/landgren/about"},
+	        "link": "/landgren/person/johannes-ljungberg"},
                {"name": "Helena Blomsström",
 		"fullname": "Helena Blomsström",
                 "birth": "N/A",
                 "location": "N/A",
-	       	"link": "/landgren/about"}
+	       	"link": "/landgren/person/johannes-ljungberg"}
              ]},
              {"name": "Ingar Jonsdr",
 	      "fullname": "Ingar Jonsdotter",
               "birth": "1788",
               "location": "Sönnarps Gård, Skabersjo, Malmöhus",
-	      "link": "/landgren/about",
+	      "link": "/landgren/person/ingar-jonsdotter",
               "children": [
                {"name": "Jon Olsson",
 		"fullname": "Jon Olsson",
                 "birth": "N/A",
                 "location": "N/A",
-	       	"link": "/landgren/about"},
+	       	"link": "/landgren/person/ingar-jonsdotter"},
                {"name": "???? Boelsdr",
 		"fullname": "???? Boelsdotter",
                 "birth": "N/A",
                 "location": "N/A",
-	        "link": "/landgren/about"}
+	        "link": "/landgren/person/ingar-jonsdotter"}
              ]}
            ]},
            {"name": "Boel Andersdr",
 	    "fullname": "Boel Andersdotter",
             "birth": "1824",
             "location": "Sireköpinge No. 4, Sireköpinge, Malmöhus",
-	    "link": "/landgren/about",
+	    "link": "/landgren/person/boel-andersdotter",
             "children": [
             {"name": "Anders Carlsson",
 	     "fullname": "Anders Carlsson",
              "birth": "1780",
              "location": "Sireköpinge, Malmöhus",
-	     "link": "/landgren/about",
+	     "link": "/landgren/person/anders-carlsson",
              "children" : [
               {"name": "Carl Staffenson",
 	       "fullname": "Carl Staffenson",
                "birth": "N/A",
                "location": "N/A",
-	       "link": "/landgren/about"},
+	       "link": "/landgren/person/anders-carlsson"},
               {"name": "Anna Hansdr",
 	       "fullname": "Anna Hansdotter",
                "birth": "N/A",
                "location": "N/A",
-	       "link": "/landgren/about"}
+	       "link": "/landgren/person/anders-carlsson"}
             ]},
             {"name": "Karna Hindriksdr",
 	     "fullname": "Karna Hindriksdotter",
              "birth": "1788",
              "location": "Norraby, Sireköpinge, Malmöhus",
-	     "link": "/landgren/about",
+	     "link": "/landgren/person/karna-hindriksdotter",
              "children": [
               {"name": "Hindric Palsson",
 	       "fullname": "Hindric Palsson",
                "birth": "1761",
                "location": "Malmöhus",
-	       "link": "/landgren/about",
-               "children": [
-                {"name": "Påhl Ellebratsson",
-		 "fullname": "Påhl Ellebratsson",
-                 "birth": "1722",
-                 "location": "N/A",
-		 "link": "/landgren/about",
-                 "children": [
-                  {"name": "Elebrat Påhlsson",
-		   "fullname": "Elebrat Påhlsson",
-                   "birth": "N/A",
-                   "location": "N/A",
-		   "link": "/landgren/about"},
-                  {"name": "Gertrud Nilsdr",
-		   "fullname": "Gertrud Nilsdotter",
-                   "birth" : "1696",
-                   "location": "N/A",
-		   "link": "/landgren/about",
-                   "children": [
-                    {"name": "Nils Svensson",
-		     "fullname": "Nils Svensson",
-                     "birth": "N/A",
-                     "location": "N/A",
-		     "link": "/landgren/about"},
-                    {"name" : "Karin Matzdr",
-		     "fullname" : "Karin Matzdotter",
-                     "birth": "N/A",
-                     "location": "N/A",
-		     "link": "/landgren/about"}
-                  ]}
-                ]},
-                {"name": "Matta Bengtzdr",
-		 "fullname": "Matta Bengtzdotter",
-                 "birth": "1720",
-                 "location": "N/A",
-		 "link": "/landgren/about",
-                 "children": [
-                  {"name": "Bengt Andersson",
-		   "fullname": "Bengt Andersson",
-                   "birth": "1690",
-                   "location": "N/A",
-		   "link": "/landgren/about"},
-                  {"name": "Karna Persdr",
-		   "fullname": "Karna Persdotter",
-                   "birth": "N/A",
-                   "location": "N/A",
-		   "link": "/landgren/about"}
-                ]}
-              ]},
+	       "link": "/landgren/person/karna-hindriksdotter"},
               {"name": "Hanna Nilsdr",
 	       "fullname": "Hanna Nilsdotter",
                "birth": "1813",
                "location": "Magläste, Höörs, Malmöhus",
-	       "link": "/landgren/about"}
+	       "link": "/landgren/person/karna-hindriksdotter"}
             ]}
            ]}
          ]}
@@ -195,141 +147,191 @@ var treeData =
 	  "fullname": "Jons Olsson Sandqvist",
           "birth": "1865",
           "location": "Bara, Malmöhus",
-	  "link": "/landgren/about",
+	  "link": "/landgren/person/jons-sandqvist",
           "children":[
            {"name": "Ola Nilsson",
 	    "fullname": "Ola Nilsson",
             "birth": "1823",
             "location": "Tejarp No. 5, Hyby, Malmöhus",
-	    "link": "/landgren/about",
+	    "link": "/landgren/person/ola-nilsson",
             "children": [
              {"name": "Nils Jonsson",
 	      "fullname": "Nils Jonsson",
               "birth": "1794",
               "location": "Tejarp, Hyby, Malmöhus",
-	      "link": "/landgren/about",
+	      "link": "/landgren/person/nils-jonsson",
               "children": [
                {"name": "Jons Nilsson",
 		"fullname": "Jons Nilsson",
                 "birth": "1761",
                 "location": "Tejarp, Hyby, Malmöhus",
-	        "link": "/landgren/about"},
+	        "link": "/landgren/person/nils-jonsson"},
                {"name": "Elna Pehrsdr",
 		"fullname": "Elna Pehrsdotter",
                 "birth": "1766",
                 "location": "Tejarp, Hyby, Malmöhus",
-	        "link": "/landgren/about"}
+	        "link": "/landgren/person/nils-jonsson"}
              ]},
              {"name": "Hanna Hindriksdr",
 	      "fullname": "Hanna Hindriksdotter",
               "birth": "1798",
               "location": "Resåkra, Hyby, Malmöhus",
-	      "link": "/landgren/about",
+	      "link": "/landgren/person/hanna-hindriksdotter",
               "children": [
                {"name": "Henric Pehrsson",
 		"fullname": "Henric Pehrsson",
                 "birth": "1759",
                 "location": "Hyby, Malmöhus",
-	        "link": "/landgren/about"},
-               {"name": "Anna ????",
-		"fullname": "Anna ????",
+	        "link": "/landgren/person/hanna-hindriksdotter"},
+               {"name": "Anna Tufvetsdr",
+		"fullname": "Anna Tufvetsdotter",
                 "birth": "1757",
                 "location": "Hyby, Malmöhus",
-	        "link": "/landgren/about"}
+	        "link": "/landgren/person/hanna-hindriksdotter"}
              ]}
            ]},
            {"name": "Elna Nilsdr",
 	    "fullname": "Elna Nilsdotter",
             "birth": "1825",
             "location": "Angagarden, Bara, Malmöhus",
-	    "link": "/landgren/about"}
+	    "link": "/landgren/person/elna-nilsdotter"}
          ]},
          {"name": "Anna Nilsdr",
 	  "fullname": "Anna Nilsdotter",
           "birth": "1869",
           "location": "Genarp, Malmöhus",
-	  "link": "/landgren/about",
+	  "link": "/landgren/person/anna-nilsdotter",
           "children": [
            {"name": "Nils Andersson",
 	    "fullname": "Nils Andersson",
             "birth": "1836",
             "location": "No. 7 Genarp, Genarp, Malmöhus",
-	    "link": "/landgren/about",
+	    "link": "/landgren/person/nils-andersson",
             "children": [
              {"name": "Anders Danielsson",
 	      "fullname": "Anders Danielsson",
               "birth": "1805",
               "location": "Lyngby, Malmöhus",
-	      "link": "/landgren/about",
+	      "link": "/landgren/person/anders-danielsson",
               "children": [
                {"name": "Daniel Jorensson",
 		"fullname": "Daniel Jorensson",
                 "birth": "1766",
                 "location": "Lyngby,  Malmöhus",
-	        "link": "/landgren/about"},
+	        "link": "/landgren/person/elna-hansdotter",
+	        "children": [
+		  {"name": "Jorens Danielsson",
+		   "fullname": "Jorens Danielsson",
+		   "birth": "1729",
+		   "location": "Unknown",
+		   "link": "/landgren/person/elna-hansdotter"},
+		  {"name": "Helena Christiansdr",
+		   "fullname": "Helena Christiansdotter",
+		   "birth": "????",
+		   "location": "Unknown",
+		   "link": "/landgren/person/elna-hansdotter"}
+		  ]},
                {"name": "Elna Hansdr",
 		"fullname": "Elna Hansdotter",
                 "birth": "1776",
                 "location": "????, Malmöhus",
-	        "link": "/landgren/about"}
+	        "link": "/landgren/person/elna-hansdotter",
+	     	"children": [
+		  {"name": "Hans Persson",
+		   "fullname": "Hans Persson",
+		   "birth": "1746",
+		   "location": "Unknown",
+		   "link": "/landgren/person/elna-hansdotter"}
+		  ]}
              ]},
              {"name": "Anna Hansdr",
 	      "fullname": "Anna Hansdotter",
               "birth": "1800",
               "location": "Värby, Bara, Malmöhus",
-	      "link": "/landgren/about",
+	      "link": "/landgren/person/anna-hansdotter",
               "children": [
                {"name": "Hans Olsson",
 		"fullname": "Hans Olsson",
                 "birth": "1757",
                 "location": "Malmöhus",
-	        "link": "/landgren/about"},
+	        "link": "/landgren/person/anna-hansdotter"},
                {"name": "Elna Mansdr",
 		"fullname": "Elna Mansdotter",
                 "birth": "1761",
                 "location": "Malmöhus",
-	        "link": "/landgren/about"}
+	        "link": "/landgren/person/anna-hansdotter"}
              ]}
            ]},
            {"name": "Kjerstina Christensdr",
 	    "fullname": "Kjerstina Christensdotter",
             "birth": "1842",
             "location": "Genarp, Malmöhus",
-	    "link": "/landgren/about",
+	    "link": "/landgren/person/kjerstina-christensdotter",
             "children": [
             {"name": "Christen Larsson",
 	     "fullname": "Christen Larsson",
              "birth": "1815",
              "location": "Genarp, Malmöhus",
-	     "link": "/landgren/about",
+	     "link": "/landgren/person/christen-larsson",
              "children": [
               {"name": "Lars Pahlsson",
 	       "fullname": "Lars Pahlsson",
                "birth": "1777",
                "location": "Genarp, Malmöhus",
-	       "link": "/landgren/about"},
+	       "link": "/landgren/person/lars-pahlsson",
+	       "children": [
+		{"name": "Påhl Andersson",
+		 "fullname": "Påhl Andersson",
+		 "birth": "????",
+		 "location": "Unknown",
+		 "link": "/landgren/person/lars-pahlsson"}
+	       ]},
               {"name": "Karna Jonsdr",
 	       "fullname": "Karna Jonsdotter",
                "birth": "1783",
-               "location": "Klagstorp, Malmöhus",
-	       "link": "/landgren/about"}
+               "location": "Klagstorpshus, Malmöhus",
+	       "link": "/landgren/person/lars-pahlsson"}
             ]},
             {"name": "Elna Johansdr",
 	     "fullname": "Elna Johansdotter",
              "birth": "1815",
              "location": "Espet, Genarp, Malmöhus",
-	     "link": "/landgren/about",
+	     "link": "/landgren/person/elna-johansdotter",
              "children": [
               {"name": "Johan Bengtsson",
 	       "fullname": "Johan Bengtsson",
                "birth": "1792",
-               "location": "????",
-	       "link": "/landgren/about"},
-              {"name": "Hanna Andersdr",
-	       "fullname": "Hanna Andersdotter",
+               "location": "Gödelöv, Malmöhus",
+	       "link": "/landgren/about",
+	       "children": [
+		{"name": "Bengt Johansson",
+		 "fullname": "Bengt Johansson",
+		 "birth": "1770",
+		 "location": "Unknown",
+		 "link": "/landgren/person/bengt-johansson"},
+		{"name": "Marna Carlsdr",
+		 "fullname": "Marna Carlsdotter",
+		 "birth": "????",
+		 "location": "Unknown",
+		 "link": "/landgren/person/bengt-johansson"}
+	       ]},
+              {"name": "Hanna Ohlsdr",
+	       "fullname": "Hanna Ohlsdotter",
                "birth": "1791",
-               "location": "????",
-	       "link": "/landgren/about"}
+               "location": "Genarp, Malmöhus",
+	       "link": "/landgren/person/hanna-ohlsdotter",
+	      "children": [
+		{"name": "Ola Fredericksson",
+		 "fullname": "Ola Fredericksson",
+		 "birth": "????",
+		 "location": "Unknown",
+		 "link": "/landgren/person/hanna-ohlsdotter"},
+		{"name": "Kjerstina Larsdr",
+		 "fullname": "Kjerstina Larsdotter",
+		 "birth": "????",
+		 "location": "Unknown",
+		 "link": "/landgren/person/hanna-ohlsdotter"}
+		]}
             ]}
             ]}
          ]}
@@ -421,7 +423,7 @@ var tip = d3.tip()
 
 // ****************** Reset Button ****************************
 
-d3.select('button')
+d3.select('#reset-button')
   .on("click", reset);
 
 // ****************** Nodes section ***************************

@@ -482,7 +482,7 @@ function directDesc(d) {
              + "<p><strong>Parents:</strong> " + parentList(d)  + "</p>"
              + "<p><strong>Direct Descendant:</strong> " + directDesc(d) + "</p>"
              + "<p><strong><a href='https://krogersst.github.io/landgren-collins" + d.data.link
-             + "'>More Info <i class='fas fa-share-square'></i></a></strong></p>");
+             + "'>More Info . . .</a></strong></p>");
 
 }
 
