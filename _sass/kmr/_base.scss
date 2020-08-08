@@ -29,8 +29,9 @@ body {
 }
 
 .wrapper {
-  width: 85%;
   margin: auto;
+  @media (min-width: 571px) {width: 85%;}
+  @media (max-width: 570px) {width: 90%;}
 }
 
 a {

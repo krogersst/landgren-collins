@@ -1,9 +1,10 @@
+// COMMON STYLES
 
 .site-header, .site-footer {
-  width: $doc-width;
+  @media (min-width: 571px) {width: 85%;}
+  @media (max-width: 570px) {width: 90%;}
   margin: 0 auto;
   padding-top: 8px;
-  font-size: 20px;
   a, &:visited, &:hover {
     text-decoration: none;
   }
@@ -14,75 +15,123 @@
   justify-content: space-between;
 }
 
+.nav-border {border-left: black 1px solid;}
+
+.nav-links {
+  display: flex;
+  justify-content: space-between;
+  line-height: 1.1;
+  @media (min-width: 601px) {margin-top: 0px;}
+  @media (max-width: 600px) {margin-top: 5px;}
+}
+
+.nav-button {text-align: center;}
+
+// SITE HEADER STYLES
+
+.site-header {
+  @media (min-width: 671px) {font-size: 20px;}
+  @media (max-width: 670px) {font-size: 18px;}
+  @media (max-width: 600px) {font-size: 16px;}
+}
+
 .site-header {
   margin-bottom: 20px;
+  margin-top: 10px;
   .nav-header {
     border-bottom: black 1px solid;
     padding-bottom: 8px;
-    align-items: center;
+    @media (min-width: 601px) {
+      flex-flow: row;
+      align-items: center;
+    }
+    @media (max-width: 600px) {
+      flex-flow: column;
+      align-items: flex-start;
+    }
+  }
+  .nav-button {
+    @media (min-width: 731px) {padding: {left: 15px; right: 15px;}}
+    @media (max-width: 730px) {padding: {left: 8px; right: 8px;}}
+    &:first-of-type {
+      @media (max-width: 600px) {padding: {left: 0px; right: 8px;}}
+    }
   }
 }
 
 .title-main {
-  font-size: 30px;
   color: $hover-color;
   line-height: .5;
-  &:visited {
-    color: $hover-color;
+  &:visited {color: $hover-color;}
+  @media (min-width: 601px) {font-size: 30px;}
+  @media (max-width: 600px) {
+    font-size: 20px;
+    font-weight: bold;
   }
 }
 
 .site-title p {
     margin-top: -4px;
-    margin-left: 30px;
-    font-size: 16px;
+    @media (min-width: 671px) {margin-left: 30px;}
+    @media (max-width: 670px) {margin-left: 0px;}
+    @media (min-width: 601px) {font-size: 16px;}
+    @media (max-width: 600px) {
+      font-size: 20px;
+      display: inline;
+    }
+    @media (max-width: 480px) {display: block;}
   }
+
+// SITE FOOTER STYLES
 
 .site-footer {
   margin-top: 20px;
   margin-bottom: 10px;
+  @media (min-width: 921px) {font-size: 20px;}
+  @media (max-width: 920px) {font-size: 18px;}
+  @media (max-width: 755px) {font-size: 16px;}
+  .nav-button:first-of-type {padding-left: 0px;}
+  .nav-button {
+    @media (min-width: 831px) {padding: {left: 15px; right: 15px;}}
+    @media (max-width: 830px) {padding: {left: 8px; right: 8px;}}
+  }
   .nav-header {
     border-top: black 1px solid;
-    padding-top: 15px;
     align-items: flex-start;
+    @media (min-width: 531px) {
+      flex-flow: row;
+      padding-top: 15px;
+    }
+    @media (max-width: 530px) {
+      flex-flow: column;
+      padding-top: 5px;
+    }
   }
-}
-
-.nav-border {
-  border-left: black 1px solid;
-}
-
-.nav-links {
-  line-height: 1.1;
-  display: flex;
-  justify-content: space-between;
-}
-
-.nav-credit {
-  font-size: 15px;
-  padding-left: 15px;
 }
 
 .nav-right {
+  @media (min-width: 531px) {margin-top: 0px; margin-left: 0px;}
+  @media (max-width: 530px) {margin-top: 5px; margin-left: -4px;}
+  a:first-child {margin-right: -4px;}
   img {
-    max-height: 30px;
+    @media (min-width: 754px) {max-height: 30px;}
+    @media (max-width: 754px) {max-height: 25px;}
   }
 }
 
-.nav-button {
-  text-align: center;
-  padding: {
-    left: 15px;
-    right: 15px;
-  }
+.nav-left {
+  display: flex;
+  align-items: center;
+  @media (min-width: 755px) {height: 30px;}
+  @media (max-width: 754px) {height: 25px;}
 }
+
+// DROP-MENU STYLES
 
 .nav-drop {
   position: relative;
   display: inline-block;
-  &:hover .drop-content {
-    display: block;
-  }
+  &:hover .drop-content {display: block;}
   border-left: black 1px solid;
 }
 
@@ -96,9 +145,17 @@
   border-left: black 1px solid;
   a {
     color: black;
-    padding: {
-      top: 10px;
-      left: 15px;
+    @media (min-width: 641px) {
+      padding: {
+        top: 10px;
+        left: 15px;
+      }
+    }
+    @media (max-width: 640px) {
+      padding: {
+        top: 8px;
+        left: 8px;
+      }
     }
     text-decoration: none;
     display: block;
