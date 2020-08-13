@@ -12,3 +12,7 @@ permalink: /about/
 - [snails](https://www.flickr.com/photos/58558794@N07/7725705928/in/album-72157626344180893/)
 - [tree with sign](https://www.flickr.com/photos/58558794@N07/7900997742/in/album-72157626344180893/)
 - [many trees](https://www.flickr.com/photos/58558794@N07/8021419591/in/album-72157626344180893/)
+
+<p>Homepage image source: <a href="https://www.europeana.eu/portal/en/record/91625/nomu_photo_NMA0089859.html">Europeana</a></p>
+<p><a href="https://www.europeana.eu/portal/en/record/91625/nomu_photo_NMA0090508.html">Teckning av Ferdinand Boberg. Malmö, Malmöhus slott</a></p>
+<p><a href="https://www.europeana.eu/portal/en/record/91622/raa_kmb_16001000534144.html">Blyertsteckning av Carl Svante Hallbeck från 1800-talets senare hälft.</a></p>

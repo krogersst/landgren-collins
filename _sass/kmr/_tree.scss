@@ -5,43 +5,91 @@
 }
 
 #flex-tree {
+  margin-top: 10px;
   display: flex;
   width: 100%;
+  @media (min-width: 1250px) {flex-flow: row;}
+  @media (max-width: 1250px) {flex-flow: column;}
 }
 
 #large-tree {
   background: white;
-  border: black 2px solid;
+  border: black 1px solid;
   padding: 5px;
+  width: 850px;
+  height: 500px;
+  @media (min-width: 1024px) {display: block;}
+  @media (max-width: 1023px) {display: none;}
 }
 
 #tree-info {
-  min-width: 250px;
-  margin-left: 10px;
-  h2 {
-  margin-top: 2px;
-  }
-  .legend-name {
-    margin-top: 10px;
-    font-family: $body-text;
-  }
-  .tree-button {
-    font-family: $header-text;
-    font-size: 14px;
-    display: inline-block;
-    margin-top: 10px;
-    background-color: #B3DCB0;
-    text-align: center;
-    padding: 10px;
-    max-width: 100px;
-    &:hover {
-      background-color: #89C984;
-      color: $hover-color;
-      cursor: pointer;
+  display: flex;
+  margin-right: 10px;
+  h2 {line-height: .75; padding-bottom: 5px;}
+  @media (min-width: 1250px) {
+    flex-flow: column;
+    max-width: 300px;
+    border-left: black 1px solid;
+    margin-bottom: 0px;
+    padding: {
+      left: 10px;
+      right: 10px;
+      top: 0px;
+      bottom: 5px;
     }
   }
-  p {
-    padding-bottom: 2px;
+  @media (max-width: 1250px) {
+    flex-flow: row;
+    border-bottom: black 1px solid;
+    max-width: 861px;
+    min-width: 861px;
+    margin-bottom: 10px;
+    padding: {
+      left: 0px;
+      right: 0px;
+      top: 0px;
+      bottom: 10px;
+    }
+  }
+  @media (max-width: 1023px) {display: none;}
+  p {padding-bottom: 2px;}
+}
+
+.tree-basics {
+  @media (min-width: 1250px) {max-width: 100%;}
+  @media (max-width: 1250px) {max-width: 200px;}
+}
+
+#clickinfo {
+  @media (min-width: 1250px) {
+    border-top: black 1px solid;
+    margin-top: 10px;
+  }
+  @media (max-width: 1250px) {
+    border-left: black 1px solid;
+    margin-left: 10px;
+  }
+}
+
+.legend-name {
+  font-family: $body-text;
+  @media (min-width: 1250px) {margin-top: 10px;}
+  @media (max-width: 1250px) {margin-left: 10px;}
+}
+
+.tree-button {
+  font-family: $header-text;
+  font-size: 14px;
+  display: inline-block;
+  margin-top: 5px;
+  background-color: #B3DCB0;
+  text-align: center;
+  padding: 5px;
+  max-width: 100px;
+  &:hover {
+    background-color: #89C984;
+    color: $hover-color;
+    cursor: pointer;
   }
 }
 
